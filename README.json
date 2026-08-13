@@ -253,7 +253,7 @@
             "last_commit": "2026-06-26T07:27:56Z",
             "owner": "microsoft",
             "repo": "TRELLIS",
-            "stars": 13434
+            "stars": 13438
           }
         },
         {
@@ -281,7 +281,7 @@
             "last_commit": "2024-04-10T18:02:18Z",
             "owner": "NeuralCarver",
             "repo": "Michelangelo",
-            "stars": 485
+            "stars": 486
           }
         },
         {
@@ -548,6 +548,11 @@
       "title": "13. PE-Field 4D: Video Generation Models as Canvas"
     },
     {
+      "description": "Zihao Liu, Xiaolong Shen, Zhenglin Zhou, Ruijie Quan, Yi Yang (Zhejiang University)",
+      "items": [],
+      "title": "14. Beyond Pixels: From Video Priors to 4D Worlds"
+    },
+    {
       "description": "",
       "items": [],
       "title": "Previous Papers and Other Awesome Repos"
@@ -601,7 +606,7 @@
             "last_commit": "2025-11-14T01:17:56Z",
             "owner": "genmoai",
             "repo": "mochi",
-            "stars": 3705
+            "stars": 3704
           }
         },
         {
@@ -781,9 +786,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:38:26.006Z",
+    "last_updated": "2026-08-13T14:06:24.571Z",
     "original_repository": "ALEEEHU/World-Simulator",
-    "original_repository_sha": "9d1ce6cb2b5663312e4e0c8f695e4f10ce494311",
+    "original_repository_sha": "89ccd1ab147168e39c8fc76aba0db3b8dc858a31",
     "enhanced_repository": "enhansome/enhansome-World-Simulator",
     "enhanced_repository_description": null,
     "title": "Awesome Simulating the Real World: Survey & Resources with stars"
