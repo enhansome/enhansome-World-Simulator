@@ -43,7 +43,7 @@
             "last_commit": "2024-02-29T05:29:47Z",
             "owner": "CompVis",
             "repo": "latent-diffusion",
-            "stars": 14123
+            "stars": 14126
           }
         },
         {
@@ -71,7 +71,7 @@
             "last_commit": "2024-04-14T05:26:35Z",
             "owner": "deep-floyd",
             "repo": "IF",
-            "stars": 7805
+            "stars": 7806
           }
         }
       ],
@@ -253,7 +253,7 @@
             "last_commit": "2026-06-26T07:27:56Z",
             "owner": "microsoft",
             "repo": "TRELLIS",
-            "stars": 13441
+            "stars": 13447
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2024-06-21T04:49:30Z",
             "owner": "CLAY-3D",
             "repo": "OpenCLAY",
-            "stars": 980
+            "stars": 981
           }
         },
         {
@@ -759,7 +759,7 @@
             "last_commit": "2025-05-15T15:53:24Z",
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 457
+            "stars": 458
           }
         },
         {
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:01:15.440Z",
+    "last_updated": "2026-08-15T13:16:12.690Z",
     "original_repository": "ALEEEHU/World-Simulator",
     "original_repository_sha": "89ccd1ab147168e39c8fc76aba0db3b8dc858a31",
     "enhanced_repository": "enhansome/enhansome-World-Simulator",
