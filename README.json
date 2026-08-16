@@ -29,7 +29,7 @@
             "last_commit": "2025-12-16T08:36:18Z",
             "owner": "Stability-AI",
             "repo": "generative-models",
-            "stars": 27256
+            "stars": 27255
           }
         },
         {
@@ -43,7 +43,7 @@
             "last_commit": "2024-02-29T05:29:47Z",
             "owner": "CompVis",
             "repo": "latent-diffusion",
-            "stars": 14126
+            "stars": 14127
           }
         },
         {
@@ -253,7 +253,7 @@
             "last_commit": "2026-06-26T07:27:56Z",
             "owner": "microsoft",
             "repo": "TRELLIS",
-            "stars": 13447
+            "stars": 13449
           }
         },
         {
@@ -281,7 +281,7 @@
             "last_commit": "2024-04-10T18:02:18Z",
             "owner": "NeuralCarver",
             "repo": "Michelangelo",
-            "stars": 486
+            "stars": 487
           }
         },
         {
@@ -606,7 +606,7 @@
             "last_commit": "2025-11-14T01:17:56Z",
             "owner": "genmoai",
             "repo": "mochi",
-            "stars": 3704
+            "stars": 3705
           }
         },
         {
@@ -759,7 +759,7 @@
             "last_commit": "2025-05-15T15:53:24Z",
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 458
+            "stars": 457
           }
         },
         {
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:16:12.690Z",
+    "last_updated": "2026-08-16T13:17:32.789Z",
     "original_repository": "ALEEEHU/World-Simulator",
     "original_repository_sha": "89ccd1ab147168e39c8fc76aba0db3b8dc858a31",
     "enhanced_repository": "enhansome/enhansome-World-Simulator",
