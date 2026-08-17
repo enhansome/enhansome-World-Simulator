@@ -29,7 +29,7 @@
             "last_commit": "2025-12-16T08:36:18Z",
             "owner": "Stability-AI",
             "repo": "generative-models",
-            "stars": 27255
+            "stars": 27259
           }
         },
         {
@@ -43,7 +43,7 @@
             "last_commit": "2024-02-29T05:29:47Z",
             "owner": "CompVis",
             "repo": "latent-diffusion",
-            "stars": 14127
+            "stars": 14128
           }
         },
         {
@@ -57,7 +57,7 @@
             "last_commit": "2024-01-31T15:42:28Z",
             "owner": "openai",
             "repo": "DALL-E",
-            "stars": 10835
+            "stars": 10834
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2024-04-07T03:27:29Z",
             "owner": "ant-research",
             "repo": "CoDeF",
-            "stars": 4848
+            "stars": 4847
           }
         },
         {
@@ -253,7 +253,7 @@
             "last_commit": "2026-06-26T07:27:56Z",
             "owner": "microsoft",
             "repo": "TRELLIS",
-            "stars": 13449
+            "stars": 13451
           }
         },
         {
@@ -606,7 +606,7 @@
             "last_commit": "2025-11-14T01:17:56Z",
             "owner": "genmoai",
             "repo": "mochi",
-            "stars": 3705
+            "stars": 3706
           }
         },
         {
@@ -709,7 +709,7 @@
             "last_commit": "2025-10-21T23:23:50Z",
             "owner": "soraproducer",
             "repo": "Awesome-Human-Interaction-Motion-Generation",
-            "stars": 310
+            "stars": 311
           }
         }
       ],
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:17:32.789Z",
+    "last_updated": "2026-08-17T13:25:36.233Z",
     "original_repository": "ALEEEHU/World-Simulator",
     "original_repository_sha": "89ccd1ab147168e39c8fc76aba0db3b8dc858a31",
     "enhanced_repository": "enhansome/enhansome-World-Simulator",
