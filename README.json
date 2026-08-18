@@ -29,7 +29,7 @@
             "last_commit": "2025-12-16T08:36:18Z",
             "owner": "Stability-AI",
             "repo": "generative-models",
-            "stars": 27259
+            "stars": 27260
           }
         },
         {
@@ -253,7 +253,7 @@
             "last_commit": "2026-06-26T07:27:56Z",
             "owner": "microsoft",
             "repo": "TRELLIS",
-            "stars": 13451
+            "stars": 13454
           }
         },
         {
@@ -408,7 +408,7 @@
             "last_commit": "2025-01-21T05:08:48Z",
             "owner": "VITA-Group",
             "repo": "Diffusion4D",
-            "stars": 346
+            "stars": 347
           }
         },
         {
@@ -606,7 +606,7 @@
             "last_commit": "2025-11-14T01:17:56Z",
             "owner": "genmoai",
             "repo": "mochi",
-            "stars": 3706
+            "stars": 3707
           }
         },
         {
@@ -692,7 +692,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-07T15:20:55Z",
+            "last_commit": "2026-08-18T08:36:57Z",
             "owner": "Winn1y",
             "repo": "Awesome-Human-Motion-Video-Generation",
             "stars": 341
@@ -759,7 +759,7 @@
             "last_commit": "2025-05-15T15:53:24Z",
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 457
+            "stars": 458
           }
         },
         {
@@ -786,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:25:36.233Z",
+    "last_updated": "2026-08-18T13:28:04.476Z",
     "original_repository": "ALEEEHU/World-Simulator",
     "original_repository_sha": "89ccd1ab147168e39c8fc76aba0db3b8dc858a31",
     "enhanced_repository": "enhansome/enhansome-World-Simulator",
