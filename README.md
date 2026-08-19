@@ -197,7 +197,7 @@ U-Net-based Architectures.
 
 Transformer-based Architectures.
 
-* \[ICLR 2025 Poster] **CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer** \[[Paper](https://arxiv.org/abs/2408.06072)] \[[GitHub](https://github.com/THUDM/CogVideo) ⭐ 12,960 | 🐛 115 | 🌐 Python | 📅 2025-11-04]
+* \[ICLR 2025 Poster] **CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer** \[[Paper](https://arxiv.org/abs/2408.06072)] \[[GitHub](https://github.com/THUDM/CogVideo) ⭐ 12,961 | 🐛 115 | 🌐 Python | 📅 2025-11-04]
 * \[ICLR 2025 Spotlight] **Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers** \[[Paper](https://arxiv.org/abs/2405.05945)] \[[GitHub](https://github.com/Alpha-VLLM/Lumina-T2X) ⭐ 2,250 | 🐛 57 | 🌐 Python | 📅 2025-02-16]
 * \[ICLR 2024 Poster] **VDT: General-purpose Video Diffusion Transformers via Mask Modeling** \[[Paper](https://arxiv.org/abs/2305.13311)] \[[GitHub](https://github.com/RERV/VDT) ⭐ 257 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-05-05] \[[Project Page](https://vdt-2023.github.io/)]
 * **W\.A.L.T**: \[ECCV 2024] **Photorealistic Video Generation with Diffusion Models** \[[Paper](https://arxiv.org/abs/2312.06662)] \[[Project Page](https://walt-video-diffusion.github.io/)]
@@ -207,7 +207,7 @@ Transformer-based Architectures.
 
 > ##### (3) Autoregressive-based Approaches.
 
-* \[ICLR 2023 Poster] **CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers** \[[Paper](https://arxiv.org/abs/2205.15868)] \[[GitHub](https://github.com/THUDM/CogVideo) ⭐ 12,960 | 🐛 115 | 🌐 Python | 📅 2025-11-04]
+* \[ICLR 2023 Poster] **CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers** \[[Paper](https://arxiv.org/abs/2205.15868)] \[[GitHub](https://github.com/THUDM/CogVideo) ⭐ 12,961 | 🐛 115 | 🌐 Python | 📅 2025-11-04]
 * **VQ-GAN**: \[CVPR 2021 Oral] **Taming Transformers for High-Resolution Image Synthesis** \[[Paper](https://arxiv.org/abs/2012.09841)] \[[GitHub](https://github.com/CompVis/taming-transformers) ⭐ 6,519 | 🐛 167 | 🌐 Jupyter Notebook | 📅 2024-07-30]
 * \[arXiv 2024] **Emu3: Next-Token Prediction is All You Need** \[[Paper](https://arxiv.org/abs/2409.18869)] \[[GitHub](https://github.com/baaivision/Emu3) ⭐ 2,438 | 🐛 66 | 🌐 Python | 📅 2026-01-12] \[[Project Page](https://emu.baai.ac.cn/about)]
 * \[arXiv 2024] **Open-MAGVIT2: An Open-Source Project Toward Democratizing Auto-regressive Visual Generation** \[[Paper](https://arxiv.org/abs/2409.04410)] \[[GitHub](https://github.com/TencentARC/SEED-Voken) ⭐ 1,020 | 🐛 4 | 🌐 Python | 📅 2025-11-25]
