@@ -34,7 +34,7 @@
                     "last_commit": "2024-02-29T05:29:47Z",
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14126
+                    "stars": 14128
                   }
                 },
                 {
@@ -183,7 +183,7 @@
                     "last_commit": "2024-07-31T01:14:15Z",
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12219
+                    "stars": 12220
                   }
                 },
                 {
@@ -243,7 +243,7 @@
                     "last_commit": "2025-11-04T11:19:04Z",
                     "owner": "zai-org",
                     "repo": "CogVideo",
-                    "stars": 12967
+                    "stars": 12968
                   }
                 },
                 {
@@ -288,7 +288,7 @@
                     "last_commit": "2025-11-04T11:19:04Z",
                     "owner": "zai-org",
                     "repo": "CogVideo",
-                    "stars": 12967
+                    "stars": 12968
                   }
                 },
                 {
@@ -363,7 +363,7 @@
                     "last_commit": "2026-06-07T17:14:22Z",
                     "owner": "nvidia-cosmos",
                     "repo": "cosmos-predict1",
-                    "stars": 466
+                    "stars": 467
                   }
                 },
                 {
@@ -415,7 +415,7 @@
                     "last_commit": "2023-10-25T02:00:06Z",
                     "owner": "showlab",
                     "repo": "Tune-A-Video",
-                    "stars": 4364
+                    "stars": 4365
                   }
                 },
                 {
@@ -460,7 +460,7 @@
                     "last_commit": "2025-01-22T01:43:15Z",
                     "owner": "lixirui142",
                     "repo": "VidToMe",
-                    "stars": 229
+                    "stars": 228
                   }
                 },
                 {
@@ -580,7 +580,7 @@
                     "last_commit": "2024-02-25T09:49:39Z",
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34077
+                    "stars": 34076
                   }
                 },
                 {
@@ -595,7 +595,7 @@
                     "last_commit": "2024-11-14T03:16:41Z",
                     "owner": "AliaksandrSiarohin",
                     "repo": "first-order-model",
-                    "stars": 15016
+                    "stars": 15014
                   }
                 },
                 {
@@ -761,7 +761,7 @@
                         "last_commit": "2024-06-22T19:19:14Z",
                         "owner": "openai",
                         "repo": "shap-e",
-                        "stars": 12259
+                        "stars": 12260
                       }
                     },
                     {
@@ -1008,7 +1008,7 @@
                         "last_commit": "2026-06-26T07:27:56Z",
                         "owner": "microsoft",
                         "repo": "TRELLIS",
-                        "stars": 13481
+                        "stars": 13484
                       }
                     },
                     {
@@ -1068,7 +1068,7 @@
                         "last_commit": "2025-03-14T07:09:19Z",
                         "owner": "xxlong0",
                         "repo": "Wonder3D",
-                        "stars": 5421
+                        "stars": 5423
                       }
                     },
                     {
@@ -1843,10 +1843,10 @@
                 "archived": false,
                 "id": 1323748093,
                 "language": "Python",
-                "last_commit": "2026-08-18T07:55:00Z",
+                "last_commit": "2026-08-23T02:14:17Z",
                 "owner": "kxding",
                 "repo": "PlayWorld",
-                "stars": 84
+                "stars": 85
               }
             },
             {
@@ -1883,7 +1883,7 @@
                 "last_commit": "2026-07-22T16:44:21Z",
                 "owner": "OpenEnvision",
                 "repo": "WorldFoundry",
-                "stars": 310
+                "stars": 309
               }
             },
             {
@@ -1933,7 +1933,7 @@
                     "last_commit": "2026-06-07T17:14:22Z",
                     "owner": "nvidia-cosmos",
                     "repo": "cosmos-predict1",
-                    "stars": 466
+                    "stars": 467
                   }
                 }
               ]
@@ -2001,7 +2001,7 @@
                     "last_commit": "2025-11-14T01:17:56Z",
                     "owner": "genmoai",
                     "repo": "mochi",
-                    "stars": 3710
+                    "stars": 3709
                   }
                 },
                 {
@@ -2166,7 +2166,7 @@
                 "last_commit": "2026-08-18T09:59:38Z",
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 8827
+                "stars": 8829
               }
             },
             {
@@ -2181,7 +2181,7 @@
                 "last_commit": "2026-06-12T07:01:54Z",
                 "owner": "Awesome3DGS",
                 "repo": "3D-Gaussian-Splatting-Papers",
-                "stars": 3126
+                "stars": 3127
               }
             },
             {
@@ -2256,7 +2256,7 @@
                 "last_commit": "2026-04-16T16:28:04Z",
                 "owner": "ActiveVisionLab",
                 "repo": "Awesome-LLM-3D",
-                "stars": 2252
+                "stars": 2253
               }
             },
             {
@@ -2419,10 +2419,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:17:38.849Z",
+    "last_updated": "2026-08-23T13:18:49.976Z",
     "original_repository": "ALEEEHU/World-Simulator",
     "original_repository_id": 733566298,
-    "original_repository_sha": "bccc0fd76619019fe452479000caaf2fff3a4ca6",
+    "original_repository_sha": "ac376e417a3c463a1e755bfc5b865dbaa0392d91",
     "enhanced_repository": "enhansome/enhansome-World-Simulator",
     "enhanced_repository_description": null,
     "title": "Awesome Simulating the Real World: Survey & Resources with stars"
