@@ -242,9 +242,9 @@ Transformer-based Architectures.
 
 > ##### Human Animation in Videos.
 
-* \[ICCV 2023] **Adding Conditional Control to Text-to-Image Diffusion Models** \[[Paper](https://arxiv.org/abs/2302.05543)] \[[GitHub](https://github.com/lllyasviel/ControlNet) ⭐ 34,078 | 🐛 460 | 🌐 Python | 📅 2024-02-25]
+* \[ICCV 2023] **Adding Conditional Control to Text-to-Image Diffusion Models** \[[Paper](https://arxiv.org/abs/2302.05543)] \[[GitHub](https://github.com/lllyasviel/ControlNet) ⭐ 34,079 | 🐛 460 | 🌐 Python | 📅 2024-02-25]
 * \[NeurIPS 2019] **First Order Motion Model for Image Animation** \[[Paper](https://arxiv.org/abs/2003.00196)] \[[GitHub](https://github.com/AliaksandrSiarohin/first-order-model) ⭐ 15,015 | 🐛 318 | 🌐 Jupyter Notebook | 📅 2024-11-14] \[[Project Page](https://aliaksandrsiarohin.github.io/first-order-model-website/)]
-* \[CVPR 2023] **Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation** \[[Paper](https://arxiv.org/abs/2311.17117)] \[[GitHub](https://github.com/HumanAIGC/AnimateAnyone) ⭐ 14,789 | 🐛 83 | 📅 2025-09-20] \[[Project Page](https://humanaigc.github.io/animate-anyone/)]
+* \[CVPR 2023] **Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation** \[[Paper](https://arxiv.org/abs/2311.17117)] \[[GitHub](https://github.com/HumanAIGC/AnimateAnyone) ⭐ 14,790 | 🐛 83 | 📅 2025-09-20] \[[Project Page](https://humanaigc.github.io/animate-anyone/)]
 * \[ICCV 2019] **Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis** \[[Paper](https://arxiv.org/abs/1909.12224)] \[[GitHub](https://github.com/svip-lab/impersonator) ⭐ 1,717 | 🐛 37 | 🌐 Python | 📅 2022-06-21] \[[Project Page](https://svip-lab.github.io/project/impersonator.html)] \[[Dataset](https://svip-lab.github.io/dataset/iPER_dataset.html)]
 * \[CVPR 2025] **MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling** \[[Paper](https://arxiv.org/abs/2409.16160)] \[[GitHub](https://github.com/menyifang/MIMO) ⭐ 1,578 | 🐛 35 | 🌐 Python | 📅 2025-06-19] \[[Project Page](https://menyifang.github.io/projects/MIMO/index.html)]
 * \[SCIS-2025] **UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation** \[[Paper](https://arxiv.org/abs/2406.01188)] \[[GitHub](https://github.com/ali-vilab/UniAnimate) ⭐ 1,189 | 🐛 63 | 🌐 Python | 📅 2025-04-15] \[[Project Page](https://unianimate.github.io/)]
@@ -410,8 +410,8 @@ Transformer-based Architectures.
 
 > ##### 4D Editing.
 
-* \[CVPR 2024] **Control4D: Efficient 4D Portrait Editing with Text** \[[Paper](https://arxiv.org/abs/2305.20082)] \[[Project Page](https://control4darxiv.github.io/)]
 * \[CVPR 2024] **Instruct 4D-to-4D: Editing 4D Scenes as Pseudo-3D Scenes Using 2D Diffusion** \[[Paper](https://arxiv.org/abs/2406.09402)] \[[GitHub](https://github.com/Friedrich-M/Instruct-4D-to-4D/) ⭐ 143 | 🐛 4 | 🌐 Python | 📅 2024-10-28] \[[Project Page](https://immortalco.github.io/Instruct-4D-to-4D/)]
+* \[CVPR 2024] **Control4D: Efficient 4D Portrait Editing with Text** \[[Paper](https://arxiv.org/abs/2305.20082)] \[[Project Page](https://control4darxiv.github.io/)]
 
 > ##### Human Animation.
 
@@ -526,7 +526,7 @@ An open collection of state-of-the-art (SOTA), novel **Text to X (X can be every
 | 2026 | **LivingWorld: Interactive 4D World Generation with Environmental Dynamics**                  |                  ECCV 2026                 | [Link](https://arxiv.org/abs/2604.01641) |      [Link](https://github.com/cvsp-lab/LivingWorld) ⭐ 5 \| 🐛 0 \| 🌐 Python \| 📅 2026-07-07     |      [Link](https://paper.pnu-cvsp.com/LivingWorld/)      |
 | 2026 | **Alignment Is All You Need For X-to-4D Generation**                                          | IEEE Transactions on Multimedia (TMM) 2026 | [Link](https://arxiv.org/abs/2607.02516) |                                                 --                                                 |       [Link](https://miaoqiaowei.github.io/Align4D/)      |
 | 2026 | **Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild**           |             SIGGRAPH Asia 2026             | [Link](https://arxiv.org/abs/2606.23688) |   [Link](https://github.com/yehonathanlitman/Lift4D) ⭐ 409 \| 🐛 1 \| 🌐 Python \| 📅 2026-08-02   |             [Link](https://lift4d.github.io/)             |
-| 2026 | **4DAnyone: Create Anyone in 4D from a Casual Monocular Video**                               |             SIGGRAPH Asia 2026             | [Link](https://arxiv.org/abs/2608.20335) |    [Link](https://github.com/ant-research/4DAnyone) ⭐ 602 \| 🐛 4 \| 🌐 Python \| 📅 2026-08-23    |            [Link](https://4danyone.github.io/)            |
+| 2026 | **4DAnyone: Create Anyone in 4D from a Casual Monocular Video**                               |             SIGGRAPH Asia 2026             | [Link](https://arxiv.org/abs/2608.20335) |    [Link](https://github.com/ant-research/4DAnyone) ⭐ 609 \| 🐛 4 \| 🌐 Python \| 📅 2026-08-23    |            [Link](https://4danyone.github.io/)            |
 
 <details close>
 <summary>Accepted Papers References</summary>
@@ -1194,15 +1194,15 @@ Here, other tasks refer to CAD, 3D modeling, music generation, and so on.
 
 > ##### Survey
 
+* \[arXiv 8 Jan 2024] **A Survey on 3D Gaussian Splatting** \[[Paper](https://arxiv.org/abs/2401.03890)] \[[GitHub](https://github.com/guikunchen/Awesome3DGS) ⭐ 102 | 🐛 0 | 📅 2026-01-18] \[[Benchmark](https://github.com/guikunchen/3DGS-Benchmarks) ⭐ 34 | 🐛 0 | 📅 2026-02-26]
 * \[arXiv 6 May 2024] **Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review** \[[Paper](https://arxiv.org/abs/2405.03417)]
 * \[arXiv 17 Mar 2024] **Recent Advances in 3D Gaussian Splatting** \[[Paper](https://arxiv.org/abs/2403.11134)]
 * \[IEEE TVCG 2024] **3D Gaussian as a New Vision Era: A Survey** \[[Paper](https://arxiv.org/abs/2402.07181)]
-* \[arXiv 8 Jan 2024] **A Survey on 3D Gaussian Splatting** \[[Paper](https://arxiv.org/abs/2401.03890)] \[[GitHub](https://github.com/guikunchen/Awesome3DGS) ⭐ 102 | 🐛 0 | 📅 2026-01-18] \[[Benchmark](https://github.com/guikunchen/3DGS-Benchmarks) ⭐ 34 | 🐛 0 | 📅 2026-02-26]
 
 > ##### Awesome Repos
 
 * Resource1: [Awesome 3D Gaussian Splatting Resources](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) ⭐ 8,830 | 🐛 4 | 🌐 Python | 📅 2026-08-18
-* Resource2: [3D Gaussian Splatting Papers](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers) ⭐ 3,128 | 🐛 4 | 🌐 Python | 📅 2026-06-12
+* Resource2: [3D Gaussian Splatting Papers](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers) ⭐ 3,129 | 🐛 4 | 🌐 Python | 📅 2026-06-12
 * Resource3: [3DGS and Beyond Docs](https://github.com/yangjiheng/3DGS_and_Beyond_Docs) ⭐ 726 | 🐛 0 | 📅 2025-01-19
 
 </details>
@@ -1212,8 +1212,8 @@ Here, other tasks refer to CAD, 3D modeling, music generation, and so on.
 
 > ##### Survey
 
-* \[arXiv 15 May 2024] **A Survey On Text-to-3D Contents Generation In The Wild** \[[Paper](https://arxiv.org/abs/2405.09431)]
 * \[arXiv 2 Feb 2024] **A Comprehensive Survey on 3D Content Generation** \[[Paper](https://arxiv.org/abs/2402.01166)] \[[GitHub](https://github.com/hitcslj/Awesome-AIGC-3D) ⭐ 787 | 🐛 3 | 🌐 Python | 📅 2026-05-04]
+* \[arXiv 15 May 2024] **A Survey On Text-to-3D Contents Generation In The Wild** \[[Paper](https://arxiv.org/abs/2405.09431)]
 * \[arXiv 31 Jan 2024] **Advances in 3D Generation: A Survey** \[[Paper](https://arxiv.org/abs/2401.17807)]
 
 > ##### Awesome Repos
@@ -1283,8 +1283,8 @@ Here, other tasks refer to CAD, 3D modeling, music generation, and so on.
 
 > ##### 4D Gaussians
 
-* \[SIGGRAPH 2024] **4D-Rotor Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes** \[[Paper](https://arxiv.org/abs/2402.03307)]
 * \[ICLR 2024] **Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting** \[[Paper](https://arxiv.org/abs/2310.10642)] \[[GitHub](https://github.com/fudan-zvg/4d-gaussian-splatting) ⭐ 1,025 | 🐛 47 | 🌐 Python | 📅 2026-01-31] \[[Project Page](https://fudan-zvg.github.io/4d-gaussian-splatting/)]
+* \[SIGGRAPH 2024] **4D-Rotor Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes** \[[Paper](https://arxiv.org/abs/2402.03307)]
 
 > ##### Dynamic 3D Gaussians
 
