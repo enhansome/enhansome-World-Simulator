@@ -19,7 +19,7 @@
                     "last_commit": "2025-12-16T08:36:18Z",
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27269
+                    "stars": 27272
                   }
                 },
                 {
@@ -64,7 +64,7 @@
                     "last_commit": "2024-04-14T05:26:35Z",
                     "owner": "deep-floyd",
                     "repo": "IF",
-                    "stars": 7804
+                    "stars": 7803
                   }
                 }
               ],
@@ -183,7 +183,7 @@
                     "last_commit": "2024-07-31T01:14:15Z",
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12228
+                    "stars": 12227
                   }
                 },
                 {
@@ -213,7 +213,7 @@
                     "last_commit": "2023-11-11T02:45:57Z",
                     "owner": "ali-vilab",
                     "repo": "videocomposer",
-                    "stars": 954
+                    "stars": 955
                   }
                 },
                 {
@@ -243,7 +243,7 @@
                     "last_commit": "2025-11-04T11:19:04Z",
                     "owner": "zai-org",
                     "repo": "CogVideo",
-                    "stars": 12977
+                    "stars": 12979
                   }
                 },
                 {
@@ -288,7 +288,7 @@
                     "last_commit": "2025-11-04T11:19:04Z",
                     "owner": "zai-org",
                     "repo": "CogVideo",
-                    "stars": 12977
+                    "stars": 12979
                   }
                 },
                 {
@@ -400,7 +400,7 @@
                     "last_commit": "2024-04-07T03:27:29Z",
                     "owner": "ant-research",
                     "repo": "CoDeF",
-                    "stars": 4846
+                    "stars": 4845
                   }
                 },
                 {
@@ -580,7 +580,7 @@
                     "last_commit": "2024-02-25T09:49:39Z",
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34090
+                    "stars": 34094
                   }
                 },
                 {
@@ -610,7 +610,7 @@
                     "last_commit": "2025-09-20T13:56:23Z",
                     "owner": "HumanAIGC",
                     "repo": "AnimateAnyone",
-                    "stars": 14792
+                    "stars": 14791
                   }
                 },
                 {
@@ -655,7 +655,7 @@
                     "last_commit": "2025-04-15T03:52:14Z",
                     "owner": "ali-vilab",
                     "repo": "UniAnimate",
-                    "stars": 1189
+                    "stars": 1190
                   }
                 },
                 {
@@ -761,7 +761,7 @@
                         "last_commit": "2024-06-22T19:19:14Z",
                         "owner": "openai",
                         "repo": "shap-e",
-                        "stars": 12260
+                        "stars": 12262
                       }
                     },
                     {
@@ -776,7 +776,7 @@
                         "last_commit": "2024-07-04T19:05:34Z",
                         "owner": "openai",
                         "repo": "point-e",
-                        "stars": 6894
+                        "stars": 6895
                       }
                     },
                     {
@@ -866,7 +866,7 @@
                         "last_commit": "2024-01-02T04:12:09Z",
                         "owner": "dreamgaussian",
                         "repo": "dreamgaussian",
-                        "stars": 4352
+                        "stars": 4354
                       }
                     },
                     {
@@ -1008,7 +1008,7 @@
                         "last_commit": "2026-06-26T07:27:56Z",
                         "owner": "microsoft",
                         "repo": "TRELLIS",
-                        "stars": 13510
+                        "stars": 13518
                       }
                     },
                     {
@@ -1859,7 +1859,7 @@
                 "id": 1323748093,
                 "language": "Python",
                 "last_commit": "2026-08-23T02:14:17Z",
-                "owner": "kxding",
+                "owner": "hku-sail",
                 "repo": "PlayWorld",
                 "stars": 86
               }
@@ -1918,7 +1918,7 @@
                     "last_commit": "2026-06-07T17:18:24Z",
                     "owner": "nvidia-cosmos",
                     "repo": "cosmos-reason1",
-                    "stars": 956
+                    "stars": 955
                   }
                 },
                 {
@@ -2134,7 +2134,7 @@
                 "last_commit": "2026-05-28T21:10:09Z",
                 "owner": "facebookresearch",
                 "repo": "actionmesh",
-                "stars": 415
+                "stars": 416
               }
             },
             {
@@ -2164,7 +2164,7 @@
                 "last_commit": "2026-08-02T21:29:49Z",
                 "owner": "yehonathanlitman",
                 "repo": "Lift4D",
-                "stars": 414
+                "stars": 417
               }
             },
             {
@@ -2179,7 +2179,7 @@
                 "last_commit": "2026-08-25T20:03:08Z",
                 "owner": "ant-research",
                 "repo": "4DAnyone",
-                "stars": 777
+                "stars": 850
               }
             }
           ],
@@ -2372,7 +2372,7 @@
             "last_commit": "2026-04-12T01:08:44Z",
             "owner": "ZiYang-xie",
             "repo": "WorldGen",
-            "stars": 2076
+            "stars": 2080
           }
         }
       ],
@@ -2573,7 +2573,7 @@
             "last_commit": "2026-08-18T09:59:38Z",
             "owner": "MrNeRF",
             "repo": "awesome-3D-gaussian-splatting",
-            "stars": 8833
+            "stars": 8839
           }
         },
         {
@@ -2588,7 +2588,7 @@
             "last_commit": "2026-06-12T07:01:54Z",
             "owner": "Awesome3DGS",
             "repo": "3D-Gaussian-Splatting-Papers",
-            "stars": 3131
+            "stars": 3133
           }
         },
         {
@@ -2636,7 +2636,7 @@
             "archived": false,
             "id": 663016282,
             "language": "TeX",
-            "last_commit": "2026-08-26T07:23:24Z",
+            "last_commit": "2026-08-26T17:03:28Z",
             "owner": "yyeboah",
             "repo": "Awesome-Text-to-3D",
             "stars": 598
@@ -2720,7 +2720,7 @@
             "last_commit": "2026-04-16T16:28:04Z",
             "owner": "ActiveVisionLab",
             "repo": "Awesome-LLM-3D",
-            "stars": 2253
+            "stars": 2254
           }
         },
         {
@@ -2843,7 +2843,7 @@
             "last_commit": "2024-10-27T04:07:37Z",
             "owner": "hustvl",
             "repo": "4DGaussians",
-            "stars": 3895
+            "stars": 3896
           }
         },
         {
@@ -2941,9 +2941,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:39:27.955Z",
-    "original_repository": "ALEEEHU/World-Simulator",
-    "original_repository_id": 733566298,
+    "last_updated": "2026-08-27T12:13:06.547Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 733566298,
+      "language": null,
+      "last_commit": "2026-08-23T05:36:21Z",
+      "owner": "ALEEEHU",
+      "repo": "World-Simulator",
+      "stars": 384
+    },
     "original_repository_sha": "ac376e417a3c463a1e755bfc5b865dbaa0392d91",
     "enhanced_repository": "enhansome/enhansome-World-Simulator",
     "enhanced_repository_description": null,
