@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Generative Models by Stability AI",
+                    "homepage": null,
                     "id": 656933936,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-12-16T08:36:18Z",
+                    "open_issues": 339,
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27272
+                    "stars": 27273,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -30,12 +35,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "High-Resolution Image Synthesis with Latent Diffusion Models",
+                    "homepage": null,
                     "id": 440244590,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2024-02-29T05:29:47Z",
+                    "open_issues": 293,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14130
+                    "stars": 14130,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -46,12 +56,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "PyTorch package for the discrete VAE used for DALL·E.",
+                    "homepage": null,
                     "id": 341714203,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-01-31T15:42:28Z",
+                    "open_issues": 75,
                     "owner": "openai",
                     "repo": "DALL-E",
-                    "stars": 10834
+                    "stars": 10834,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -62,12 +77,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 591396018,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-04-14T05:26:35Z",
+                    "open_issues": 104,
                     "owner": "deep-floyd",
                     "repo": "IF",
-                    "stars": 7803
+                    "stars": 7803,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 }
@@ -92,12 +112,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 352184971,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2024-09-18T03:33:55Z",
+                    "open_issues": 15,
                     "owner": "wilson1yan",
                     "repo": "VideoGPT",
-                    "stars": 1081
+                    "stars": 1081,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -108,12 +133,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 351208309,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-06-25T05:16:02Z",
+                    "open_issues": 3,
                     "owner": "google-research",
                     "repo": "fitvid",
-                    "stars": 67
+                    "stars": 67,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -124,12 +154,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MoCoGAN: Decomposing Motion and Content for Video Generation",
+                    "homepage": null,
                     "id": 95723627,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-12-17T15:23:56Z",
+                    "open_issues": 9,
                     "owner": "sergeytulyakov",
                     "repo": "mocogan",
-                    "stars": 603
+                    "stars": 603,
+                    "topics": [
+                      "computer-vision",
+                      "machine-learning",
+                      "video-generator"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -140,12 +179,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2022] StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2",
+                    "homepage": "https://universome.github.io/stylegan-v",
                     "id": 442907669,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-04-19T12:28:11Z",
+                    "open_issues": 26,
                     "owner": "universome",
                     "repo": "stylegan-v",
-                    "stars": 391
+                    "stars": 391,
+                    "topics": [
+                      "gans",
+                      "generative-adversarial-networks",
+                      "pytorch",
+                      "stylegan",
+                      "video-generation"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -156,12 +206,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR'22] Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks",
+                    "homepage": "https://sihyun.me/digan/",
                     "id": 460302789,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-03-13T14:09:33Z",
+                    "open_issues": 4,
                     "owner": "sihyun-yu",
                     "repo": "digan",
-                    "stars": 186
+                    "stars": 186,
+                    "topics": [
+                      "gan",
+                      "implicit-neural-representation",
+                      "inr",
+                      "video-generation"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -172,12 +232,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Implementation of ICCV 2023 paper \"StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation\"",
+                    "homepage": null,
                     "id": 670896715,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-05-10T09:04:28Z",
+                    "open_issues": 0,
                     "owner": "johannwyh",
                     "repo": "StyleInV",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -188,12 +253,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of AnimateDiff.",
+                    "homepage": "https://animatediff.github.io",
                     "id": 654930782,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-07-31T01:14:15Z",
+                    "open_issues": 319,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12229
+                    "stars": 12229,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -204,12 +274,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[IJCV] Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation",
+                    "homepage": "https://showlab.github.io/Show-1/",
                     "id": 697161883,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-09-13T02:49:54Z",
+                    "open_issues": 16,
                     "owner": "showlab",
                     "repo": "Show-1",
-                    "stars": 1148
+                    "stars": 1148,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -220,12 +295,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official repo for VideoComposer: Compositional Video Synthesis with Motion Controllability",
+                    "homepage": "https://videocomposer.github.io",
                     "id": 648133004,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-11-11T02:45:57Z",
+                    "open_issues": 37,
                     "owner": "ali-vilab",
                     "repo": "videocomposer",
-                    "stars": 955
+                    "stars": 955,
+                    "topics": [
+                      "diffusion-models",
+                      "video-generation",
+                      "video-synthesiswith"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -236,12 +320,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official UniVerse-1 code.",
+                    "homepage": null,
                     "id": 1045367452,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-10-13T03:34:35Z",
+                    "open_issues": 7,
                     "owner": "Dorniwang",
                     "repo": "UniVerse-1-code",
-                    "stars": 129
+                    "stars": 129,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -252,12 +341,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+                    "homepage": null,
                     "id": 497512032,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-11-04T11:19:04Z",
+                    "open_issues": 117,
                     "owner": "zai-org",
                     "repo": "CogVideo",
-                    "stars": 12982
+                    "stars": 12982,
+                    "topics": [
+                      "cogvideox",
+                      "image-to-video",
+                      "llm",
+                      "sora",
+                      "text-to-video",
+                      "video-generation"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -268,12 +369,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lumina-T2X is a unified framework for Text to Any Modality Generation",
+                    "homepage": null,
                     "id": 778819999,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-02-16T11:34:43Z",
+                    "open_issues": 57,
                     "owner": "Alpha-VLLM",
                     "repo": "Lumina-T2X",
-                    "stars": 2250
+                    "stars": 2250,
+                    "topics": [
+                      "aigc",
+                      "diffusion",
+                      "diffusion-model",
+                      "diffusion-models",
+                      "diffusion-transformer",
+                      "generation-models",
+                      "transformer",
+                      "transformers"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -284,12 +399,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR2024] The official implementation of paper \"VDT: General-purpose Video Diffusion Transformers via Mask Modeling\", by Haoyu Lu, Guoxing Yang, Nanyi Fei, Yuqi Huo, Zhiwu Lu, Ping Luo, Mingyu Ding.",
+                    "homepage": null,
                     "id": 642442394,
                     "language": "Jupyter Notebook",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-05-05T12:10:52Z",
+                    "open_issues": 7,
                     "owner": "RERV",
                     "repo": "VDT",
-                    "stars": 257
+                    "stars": 257,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -300,12 +420,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+                    "homepage": null,
                     "id": 497512032,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-11-04T11:19:04Z",
+                    "open_issues": 117,
                     "owner": "zai-org",
                     "repo": "CogVideo",
-                    "stars": 12982
+                    "stars": 12982,
+                    "topics": [
+                      "cogvideox",
+                      "image-to-video",
+                      "llm",
+                      "sora",
+                      "text-to-video",
+                      "video-generation"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -316,12 +448,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Taming Transformers for High-Resolution Image Synthesis",
+                    "homepage": "https://arxiv.org/abs/2012.09841",
                     "id": 322324704,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2024-07-30T18:27:31Z",
+                    "open_issues": 167,
                     "owner": "CompVis",
                     "repo": "taming-transformers",
-                    "stars": 6521
+                    "stars": 6521,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -332,12 +469,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Next-Token Prediction is All You Need",
+                    "homepage": "https://emu.baai.ac.cn",
                     "id": 863473384,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-01-12T08:39:22Z",
+                    "open_issues": 66,
                     "owner": "baaivision",
                     "repo": "Emu3",
-                    "stars": 2441
+                    "stars": 2441,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -348,12 +490,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SEED-Voken: A Series of Powerful Visual Tokenizers",
+                    "homepage": null,
                     "id": 814038296,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-11-25T07:28:22Z",
+                    "open_issues": 4,
                     "owner": "TencentARC",
                     "repo": "SEED-Voken",
-                    "stars": 1021
+                    "stars": 1021,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -364,12 +511,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Official JAX implementation of MAGVIT: Masked Generative Video Transformer",
+                    "homepage": "https://magvit.cs.cmu.edu",
                     "id": 572747506,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-01-17T18:06:44Z",
+                    "open_issues": 21,
                     "owner": "google-research",
                     "repo": "magvit",
-                    "stars": 1001
+                    "stars": 1001,
+                    "topics": [
+                      "generative-model",
+                      "transformers",
+                      "video-generation"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -380,12 +536,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cosmos-Predict1 is a collection of general-purpose world foundation models for Physical AI that can be fine-tuned into customized world models for downstream applications.",
+                    "homepage": "https://research.nvidia.com/labs/dir/cosmos-predict1",
                     "id": 941557796,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-07T17:14:22Z",
+                    "open_issues": 13,
                     "owner": "nvidia-cosmos",
                     "repo": "cosmos-predict1",
-                    "stars": 468
+                    "stars": 468,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -396,12 +557,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2025] Implementation of Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding",
+                    "homepage": "https://arxiv.org/abs/2410.01699",
                     "id": 869000562,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-04-21T04:13:09Z",
+                    "open_issues": 3,
                     "owner": "tyshiwo1",
                     "repo": "Accelerating-T2I-AR-with-SJD",
-                    "stars": 54
+                    "stars": 54,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 }
@@ -419,12 +585,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR'24 Highlight] Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing",
+                    "homepage": "https://robbyant-research.github.io/CoDeF/",
                     "id": 678805749,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-04-07T03:27:29Z",
+                    "open_issues": 30,
                     "owner": "robbyant-research",
                     "repo": "CoDeF",
-                    "stars": 4846
+                    "stars": 4846,
+                    "topics": [
+                      "editing",
+                      "video"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -435,12 +609,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV 2023] Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation",
+                    "homepage": "https://tuneavideo.github.io",
                     "id": 581994080,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-10-25T02:00:06Z",
+                    "open_issues": 37,
                     "owner": "showlab",
                     "repo": "Tune-A-Video",
-                    "stars": 4364
+                    "stars": 4364,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -451,12 +630,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code and data for \"AnyV2V: A Tuning-Free Framework For Any Video-to-Video Editing Tasks\" [TMLR 2024]",
+                    "homepage": "https://tiger-ai-lab.github.io/AnyV2V/",
                     "id": 769264114,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2024-10-29T21:34:06Z",
+                    "open_issues": 6,
                     "owner": "TIGER-AI-Lab",
                     "repo": "AnyV2V",
-                    "stars": 656
+                    "stars": 656,
+                    "topics": [
+                      "deep-learning",
+                      "generative-ai",
+                      "image-editing",
+                      "image-to-video-generation",
+                      "pytorch",
+                      "video-editing",
+                      "video-synthesis"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -467,12 +659,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Video-P2P: Video Editing with Cross-attention Control",
+                    "homepage": "https://video-p2p.github.io/",
                     "id": 616034965,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-06-30T12:31:29Z",
+                    "open_issues": 5,
                     "owner": "JIA-Lab-research",
                     "repo": "Video-P2P",
-                    "stars": 430
+                    "stars": 430,
+                    "topics": [
+                      "generative-model",
+                      "image-editing",
+                      "stable-diffusion",
+                      "text-driven-editing",
+                      "video-editing"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -483,12 +686,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Pytorch Implementation for \"VidToMe: Video Token Merging for Zero-Shot Video Editing\" (CVPR 2024)",
+                    "homepage": "https://vidtome-diffusion.github.io",
                     "id": 732911962,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-01-22T01:43:15Z",
+                    "open_issues": 2,
                     "owner": "lixirui142",
                     "repo": "VidToMe",
-                    "stars": 228
+                    "stars": 228,
+                    "topics": [
+                      "stable-diffusion",
+                      "text-driven-editing",
+                      "video-editing",
+                      "video-to-video-translation",
+                      "zero-shot"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -499,12 +713,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models (ICLR 2024)",
+                    "homepage": "https://ground-a-video.github.io/",
                     "id": 693595868,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-05-21T10:35:29Z",
+                    "open_issues": 2,
                     "owner": "Ground-A-Video",
                     "repo": "Ground-A-Video",
-                    "stars": 140
+                    "stars": 140,
+                    "topics": [
+                      "computer-vision",
+                      "diffusion-models",
+                      "iclr",
+                      "stable-diffusion",
+                      "text-to-video",
+                      "video-editing"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -515,12 +741,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing",
+                    "homepage": "https://jianhongbai.github.io/UniEdit/",
                     "id": 760315970,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-04-16T04:24:14Z",
+                    "open_issues": 8,
                     "owner": "JianhongBai",
                     "repo": "UniEdit",
-                    "stars": 121
+                    "stars": 121,
+                    "topics": [
+                      "aigc",
+                      "video-editing"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -531,12 +765,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the paper \"Pix2Video: Video Editing using Image Diffusion\"",
+                    "homepage": null,
                     "id": 699559418,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-10-02T22:10:20Z",
+                    "open_issues": 7,
                     "owner": "duyguceylan",
                     "repo": "pix2video",
-                    "stars": 77
+                    "stars": 77,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -547,12 +786,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[TPAMI 2025]  ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis",
+                    "homepage": "https://drexubery.github.io/ViewCrafter/",
                     "id": 832008194,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-12-13T03:02:50Z",
+                    "open_issues": 47,
                     "owner": "Drexubery",
                     "repo": "ViewCrafter",
-                    "stars": 1587
+                    "stars": 1587,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -563,12 +807,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 781017689,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-05-24T13:48:52Z",
+                    "open_issues": 28,
                     "owner": "hehao13",
                     "repo": "CameraCtrl",
-                    "stars": 664
+                    "stars": 664,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -579,12 +828,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Source code of paper \"NVS-Solver: Video Diffusion Model as Zero-Shot Novel View Synthesizer\"",
+                    "homepage": null,
                     "id": 805226079,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-03-30T06:33:57Z",
+                    "open_issues": 12,
                     "owner": "ZHU-Zhiyu",
                     "repo": "NVS_Solver",
-                    "stars": 320
+                    "stars": 320,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -595,12 +849,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2024 Highlight] ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models",
+                    "homepage": "https://ubc-vision.github.io/vivid123/",
                     "id": 724352437,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-07-24T01:41:47Z",
+                    "open_issues": 0,
                     "owner": "ubc-vision",
                     "repo": "vivid123",
-                    "stars": 180
+                    "stars": 180,
+                    "topics": [
+                      "diffusion-models",
+                      "novel-view-synthesis",
+                      "single-view-3d",
+                      "stable-diffusion",
+                      "video-diffusion"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -611,12 +876,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Let us control diffusion models!",
+                    "homepage": null,
                     "id": 595893961,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-02-25T09:49:39Z",
+                    "open_issues": 460,
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34100
+                    "stars": 34101,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -627,12 +897,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository contains the source code for the paper First Order Motion Model for Image Animation ",
+                    "homepage": "https://aliaksandrsiarohin.github.io/first-order-model-website/",
                     "id": 227272405,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2024-11-14T03:16:41Z",
+                    "open_issues": 318,
                     "owner": "AliaksandrSiarohin",
                     "repo": "first-order-model",
-                    "stars": 15016
+                    "stars": 15016,
+                    "topics": [
+                      "deep-learning",
+                      "generative-model",
+                      "image-animation",
+                      "motion-retargeting"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -643,12 +923,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation",
+                    "homepage": null,
                     "id": 724501222,
                     "language": null,
+                    "license": "Apache-2.0",
                     "last_commit": "2025-09-20T13:56:23Z",
+                    "open_issues": 83,
                     "owner": "HumanAIGC",
                     "repo": "AnimateAnyone",
-                    "stars": 14788
+                    "stars": 14788,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -659,12 +944,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch implementation of our ICCV 2019 paper:  Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis",
+                    "homepage": "https://svip-lab.github.io/project/impersonator",
                     "id": 194529303,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-06-21T22:56:20Z",
+                    "open_issues": 37,
                     "owner": "svip-lab",
                     "repo": "impersonator",
-                    "stars": 1717
+                    "stars": 1717,
+                    "topics": [
+                      "gan",
+                      "pose",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -675,12 +969,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of \"MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling\"",
+                    "homepage": null,
                     "id": 862421352,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-06-19T01:52:26Z",
+                    "open_issues": 35,
                     "owner": "menyifang",
                     "repo": "MIMO",
-                    "stars": 1578
+                    "stars": 1578,
+                    "topics": [
+                      "character-animation",
+                      "diffusion-models",
+                      "human-animation",
+                      "image-animation",
+                      "video-editing",
+                      "video-generation"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -691,12 +997,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for SCIS-2025 Paper \"UniAnimate: Taming Unified Video Diﬀusion Models for Consistent Human Image Animation\".",
+                    "homepage": "https://unianimate.github.io/",
                     "id": 809636890,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-04-15T03:52:14Z",
+                    "open_issues": 63,
                     "owner": "ali-vilab",
                     "repo": "UniAnimate",
-                    "stars": 1190
+                    "stars": 1190,
+                    "topics": [
+                      "dance-generation",
+                      "human-image-animation",
+                      "video-generation"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -707,12 +1022,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Motion Retargeting Video Subjects",
+                    "homepage": null,
                     "id": 294812958,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-04-13T07:47:44Z",
+                    "open_issues": 21,
                     "owner": "carolineec",
                     "repo": "EverybodyDanceNow",
-                    "stars": 709
+                    "stars": 709,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -723,12 +1043,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MoCoGAN: Decomposing Motion and Content for Video Generation",
+                    "homepage": null,
                     "id": 95723627,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-12-17T15:23:56Z",
+                    "open_issues": 9,
                     "owner": "sergeytulyakov",
                     "repo": "mocogan",
-                    "stars": 603
+                    "stars": 603,
+                    "topics": [
+                      "computer-vision",
+                      "machine-learning",
+                      "video-generator"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -739,12 +1068,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV 2023] The official implementation of paper \"HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation\"",
+                    "homepage": null,
                     "id": 625541116,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-10-24T08:18:16Z",
+                    "open_issues": 14,
                     "owner": "IDEA-Research",
                     "repo": "HumanSD",
-                    "stars": 306
+                    "stars": 306,
+                    "topics": [
+                      "conditional-image-generation",
+                      "deep-learning",
+                      "iccv",
+                      "iccv2023",
+                      "image-generation",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -755,12 +1096,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2023] Learning Locally Editable Virtual Humans",
+                    "homepage": "https://custom-humans.github.io/",
                     "id": 646884269,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-05-16T00:01:46Z",
+                    "open_issues": 2,
                     "owner": "custom-humans",
                     "repo": "editable-humans",
-                    "stars": 188
+                    "stars": 188,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -771,12 +1117,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is the official repository for \"LatentMan: Generating Consistent Animated Characters using Image Diffusion Models\" [CVPRW 2024]",
+                    "homepage": "https://abdo-eldesokey.github.io/latentman/",
                     "id": 730543876,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2024-07-21T10:54:41Z",
+                    "open_issues": 1,
                     "owner": "abdo-eldesokey",
                     "repo": "latentman",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 }
@@ -803,12 +1154,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Generate 3D objects conditioned on text or images",
+                        "homepage": null,
                         "id": 630141866,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2024-06-22T19:19:14Z",
+                        "open_issues": 108,
                         "owner": "openai",
                         "repo": "shap-e",
-                        "stars": 12263
+                        "stars": 12263,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -819,12 +1175,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Point cloud diffusion for 3D model synthesis",
+                        "homepage": null,
                         "id": 575048321,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2024-07-04T19:05:34Z",
+                        "open_issues": 80,
                         "owner": "openai",
                         "repo": "point-e",
-                        "stars": 6897
+                        "stars": 6897,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -835,12 +1196,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official implementation of \"MeshDiffusion: Score-based Generative 3D Mesh Modeling\" (ICLR 2023 Spotlight)",
+                        "homepage": "https://meshdiffusion.github.io",
                         "id": 612562157,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2024-05-20T07:28:42Z",
+                        "open_issues": 6,
                         "owner": "lzzcd001",
                         "repo": "MeshDiffusion",
-                        "stars": 832
+                        "stars": 832,
+                        "topics": [
+                          "diffusion-models",
+                          "generative-model",
+                          "mesh-generation",
+                          "pytorch"
+                        ]
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -851,12 +1222,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[NeurIPS 2023] Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation",
+                        "homepage": "https://neuralcarver.github.io/michelangelo/",
                         "id": 660166382,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2024-04-10T18:02:18Z",
+                        "open_issues": 9,
                         "owner": "NeuralCarver",
                         "repo": "Michelangelo",
-                        "stars": 487
+                        "stars": 487,
+                        "topics": [
+                          "alignment-before-generation",
+                          "image-to-3d",
+                          "michelangelo",
+                          "shape-generation",
+                          "text-to-3d",
+                          "transformers-models"
+                        ]
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -867,12 +1250,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[CVPR 2023] Diffusion-SDF: Text-to-Shape via Voxelized Diffusion",
+                        "homepage": null,
                         "id": 575111089,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2026-03-10T14:40:10Z",
+                        "open_issues": 7,
                         "owner": "ttlmh",
                         "repo": "Diffusion-SDF",
-                        "stars": 211
+                        "stars": 211,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -883,12 +1271,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official implementation of `AToM: Amortized Text-to-Mesh using 2D Diffusion`",
+                        "homepage": "https://snap-research.github.io/AToM/",
                         "id": 746487204,
                         "language": null,
+                        "license": null,
                         "last_commit": "2025-12-10T05:12:35Z",
+                        "open_issues": 1,
                         "owner": "snap-research",
                         "repo": "AToM",
-                        "stars": 84
+                        "stars": 84,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -899,12 +1292,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 667077080,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2024-12-11T19:47:58Z",
+                        "open_issues": 2,
                         "owner": "threedle",
                         "repo": "hyperfields",
-                        "stars": 23
+                        "stars": 23,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -915,12 +1313,20 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[ICLR 2024 Oral] Generative Gaussian Splatting for Efficient 3D Content Creation",
+                        "homepage": "https://dreamgaussian.github.io/",
                         "id": 697339753,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2024-01-02T04:12:09Z",
+                        "open_issues": 134,
                         "owner": "dreamgaussian",
                         "repo": "dreamgaussian",
-                        "stars": 4353
+                        "stars": 4353,
+                        "topics": [
+                          "image-to-3d",
+                          "text-to-3d"
+                        ]
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -931,12 +1337,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation (NeurIPS 2023 Spotlight)",
+                        "homepage": "https://ml.cs.tsinghua.edu.cn/prolificdreamer/",
                         "id": 645368117,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2023-11-22T04:42:56Z",
+                        "open_issues": 20,
                         "owner": "thu-ml",
                         "repo": "prolificdreamer",
-                        "stars": 1564
+                        "stars": 1564,
+                        "topics": [
+                          "diffusion-model",
+                          "dreamfusion",
+                          "nerf",
+                          "prolificdreamer",
+                          "stablediffusion",
+                          "text-to-3d"
+                        ]
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -947,12 +1365,19 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "Multi-view Diffusion for 3D Generation",
+                        "homepage": null,
                         "id": 699627736,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2023-10-07T09:04:05Z",
+                        "open_issues": 31,
                         "owner": "bytedance",
                         "repo": "MVDream",
-                        "stars": 987
+                        "stars": 987,
+                        "topics": [
+                          "research"
+                        ]
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -963,12 +1388,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[CVPR 2024] Text-to-3D using Gaussian Splatting",
+                        "homepage": "https://arxiv.org/abs/2309.16585",
                         "id": 697854317,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2024-01-07T14:12:42Z",
+                        "open_issues": 37,
                         "owner": "gsgen3d",
                         "repo": "gsgen",
-                        "stars": 845
+                        "stars": 845,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -979,12 +1409,28 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[CVPR 2024] GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models",
+                        "homepage": "https://taoranyi.com/gaussiandreamer/",
                         "id": 704054996,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2025-01-13T07:46:58Z",
+                        "open_issues": 18,
                         "owner": "hustvl",
                         "repo": "GaussianDreamer",
-                        "stars": 831
+                        "stars": 831,
+                        "topics": [
+                          "aigc",
+                          "computer-vision",
+                          "cvpr2024",
+                          "diffusion-models",
+                          "dreamfusion",
+                          "gaussian-splatting",
+                          "nerf",
+                          "radiance-field",
+                          "smpl",
+                          "text-to-3d"
+                        ]
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -995,12 +1441,20 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "(ICCV 2023) official repository for \"Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation\"",
+                        "homepage": "https://fantasia3d.github.io/",
                         "id": 619425047,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2024-05-29T04:38:19Z",
+                        "open_issues": 20,
                         "owner": "Gorilla-Lab-SCUT",
                         "repo": "Fantasia3D",
-                        "stars": 780
+                        "stars": 780,
+                        "topics": [
+                          "aigc",
+                          "text-to-3d"
+                        ]
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -1011,12 +1465,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 773312930,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2024-03-17T11:28:23Z",
+                        "open_issues": 2,
                         "owner": "StellarCheng",
                         "repo": "Scuplt_3d",
-                        "stars": 25
+                        "stars": 25,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -1027,12 +1486,20 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[CVPR 2024] Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior",
+                        "homepage": "https://liuff19.github.io/Sherpa3D/",
                         "id": 730329014,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2024-05-22T12:36:54Z",
+                        "open_issues": 7,
                         "owner": "THU-SI",
                         "repo": "Sherpa3D",
-                        "stars": 182
+                        "stars": 182,
+                        "topics": [
+                          "3d-aigc",
+                          "text-to-3d"
+                        ]
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -1043,12 +1510,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 774031624,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2024-04-27T16:22:34Z",
+                        "open_issues": 0,
                         "owner": "apple",
                         "repo": "ml-direct2.5",
-                        "stars": 79
+                        "stars": 79,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     }
@@ -1066,12 +1538,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official repo for paper \"Structured 3D Latents for Scalable and Versatile 3D Generation\" (CVPR'25 Spotlight).",
+                        "homepage": "https://trellis3d.github.io",
                         "id": 897148306,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-06-26T07:27:56Z",
+                        "open_issues": 260,
                         "owner": "microsoft",
                         "repo": "TRELLIS",
-                        "stars": 13527
+                        "stars": 13529,
+                        "topics": [
+                          "3d",
+                          "3d-aigc",
+                          "3d-generation",
+                          "image-to-3d",
+                          "text-to-3d"
+                        ]
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -1082,12 +1565,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets",
+                        "homepage": null,
                         "id": 783817598,
                         "language": null,
+                        "license": null,
                         "last_commit": "2024-06-21T04:49:30Z",
+                        "open_issues": 10,
                         "owner": "CLAY-3D",
                         "repo": "OpenCLAY",
-                        "stars": 981
+                        "stars": 981,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -1098,12 +1586,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[NeurIPS 2023] Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation",
+                        "homepage": "https://neuralcarver.github.io/michelangelo/",
                         "id": 660166382,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2024-04-10T18:02:18Z",
+                        "open_issues": 9,
                         "owner": "NeuralCarver",
                         "repo": "Michelangelo",
-                        "stars": 487
+                        "stars": 487,
+                        "topics": [
+                          "alignment-before-generation",
+                          "image-to-3d",
+                          "michelangelo",
+                          "shape-generation",
+                          "text-to-3d",
+                          "transformers-models"
+                        ]
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -1114,12 +1614,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[NeurIPS 2024] Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer",
+                        "homepage": "https://www.neural4d.com",
                         "id": 929844788,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2025-02-11T04:02:12Z",
+                        "open_issues": 10,
                         "owner": "DreamTechAI",
                         "repo": "Direct3D",
-                        "stars": 240
+                        "stars": 240,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -1130,12 +1635,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Single Image to 3D using Cross-Domain Diffusion for 3D Generation",
+                        "homepage": "https://www.xxlong.site/Wonder3D/",
                         "id": 704890673,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-03-14T07:09:19Z",
+                        "open_issues": 158,
                         "owner": "xxlong0",
                         "repo": "Wonder3D",
-                        "stars": 5424
+                        "stars": 5423,
+                        "topics": [
+                          "3d-aigc",
+                          "3d-generation",
+                          "3dgeneration",
+                          "single-image-to-3d"
+                        ]
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -1146,12 +1661,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Zero-1-to-3: Zero-shot One Image to 3D Object (ICCV 2023)",
+                        "homepage": "https://zero123.cs.columbia.edu/",
                         "id": 615532857,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2023-12-05T09:55:45Z",
+                        "open_issues": 61,
                         "owner": "cvlab-columbia",
                         "repo": "zero123",
-                        "stars": 3058
+                        "stars": 3058,
+                        "topics": [
+                          "image-to-3d",
+                          "novel-view-synthesis",
+                          "single-view-reconstruction",
+                          "stable-diffusion",
+                          "zero-shot"
+                        ]
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -1162,12 +1688,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[ICLR'24] Official PyTorch Implementation of Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors",
+                        "homepage": "https://guochengqian.github.io/project/magic123",
                         "id": 658954791,
                         "language": "Jupyter Notebook",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-07-06T02:45:31Z",
+                        "open_issues": 0,
                         "owner": "guochengqian",
                         "repo": "Magic123",
-                        "stars": 1623
+                        "stars": 1623,
+                        "topics": [
+                          "3d-generation",
+                          "diffusion-models",
+                          "image-to-3d"
+                        ]
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -1178,12 +1713,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[ICLR 2024 Spotlight] SyncDreamer: Generating Multiview-consistent Images from a Single-view Image",
+                        "homepage": "https://liuyuan-pal.github.io/SyncDreamer/",
                         "id": 687449432,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-10-26T16:16:49Z",
+                        "open_issues": 40,
                         "owner": "liuyuan-pal",
                         "repo": "SyncDreamer",
-                        "stars": 1045
+                        "stars": 1045,
+                        "topics": [
+                          "3d-reconstruction",
+                          "diffusion-models",
+                          "generative-model",
+                          "single-view-reconstruction"
+                        ]
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -1194,12 +1739,19 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "The code releasing for https://image-dream.github.io/",
+                        "homepage": null,
                         "id": 731333742,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2024-01-27T19:33:26Z",
+                        "open_issues": 20,
                         "owner": "bytedance",
                         "repo": "ImageDream",
-                        "stars": 798
+                        "stars": 798,
+                        "topics": [
+                          "research"
+                        ]
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -1210,12 +1762,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official code for \"RealFusion: 360° Reconstruction of Any Object from a Single Image\" (CVPR 2023)",
+                        "homepage": null,
                         "id": 598186385,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2024-06-02T07:04:54Z",
+                        "open_issues": 18,
                         "owner": "lukemelas",
                         "repo": "realfusion",
-                        "stars": 562
+                        "stars": 562,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -1226,12 +1783,20 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[ICLR 2025] IPDreamer: Appearance-Controllable 3D Object  Generation with Complex Image Prompts",
+                        "homepage": "https://arxiv.org/pdf/2310.05375",
                         "id": 771270289,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2024-06-04T10:25:00Z",
+                        "open_issues": 1,
                         "owner": "zengbohan0217",
                         "repo": "IPDreamer",
-                        "stars": 57
+                        "stars": 57,
+                        "topics": [
+                          "3d-generation",
+                          "image-prompt-adaption"
+                        ]
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -1242,12 +1807,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[ICLR 2024] Official implementation of the paper \"Toss: High-quality text-guided novel view synthesis from a single image\"",
+                        "homepage": "https://toss3d.github.io/",
                         "id": 705489403,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2024-05-05T20:25:37Z",
+                        "open_issues": 1,
                         "owner": "IDEA-Research",
                         "repo": "TOSS",
-                        "stars": 23
+                        "stars": 23,
+                        "topics": [
+                          "3d-generation",
+                          "novel-view-synthesis",
+                          "open-world"
+                        ]
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -1258,12 +1832,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models",
+                        "homepage": null,
                         "id": 784696015,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2025-01-03T09:09:13Z",
+                        "open_issues": 120,
                         "owner": "TencentARC",
                         "repo": "InstantMesh",
-                        "stars": 4512
+                        "stars": 4512,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -1274,12 +1853,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[NeurIPS 2024] Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image",
+                        "homepage": "https://wukailu.github.io/Unique3D/",
                         "id": 808281327,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-07-17T21:29:05Z",
+                        "open_issues": 81,
                         "owner": "AiuniAI",
                         "repo": "Unique3D",
-                        "stars": 3579
+                        "stars": 3579,
+                        "topics": [
+                          "3d-aigc",
+                          "aigc",
+                          "image-to-3d"
+                        ]
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -1290,12 +1878,26 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[NeurIPS 2023] Official code of \"One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization\"",
+                        "homepage": "http://one-2-3-45.com",
                         "id": 659938722,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2024-04-20T23:15:25Z",
+                        "open_issues": 19,
                         "owner": "One-2-3-45",
                         "repo": "One-2-3-45",
-                        "stars": 1718
+                        "stars": 1718,
+                        "topics": [
+                          "3d",
+                          "3d-generation",
+                          "3d-shape-generation",
+                          "aigc",
+                          "generalizable-nerf",
+                          "mesh-generation",
+                          "multi-view-reconstruction",
+                          "nerf"
+                        ]
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -1306,12 +1908,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[ECCV 2024] Single Image to 3D Textured Mesh in 10 seconds with Convolutional Reconstruction Model.",
+                        "homepage": "https://ml.cs.tsinghua.edu.cn/~zhengyi/CRM/",
                         "id": 769954254,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2024-11-28T09:04:06Z",
+                        "open_issues": 26,
                         "owner": "thu-ml",
                         "repo": "CRM",
-                        "stars": 696
+                        "stars": 696,
+                        "topics": [
+                          "3d",
+                          "aigc",
+                          "diffusion-models",
+                          "generative-model",
+                          "multiview",
+                          "reconstruction"
+                        ]
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     }
@@ -1329,12 +1943,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[T-PAMI 2025] V3D: Video Diffusion Models are Effective 3D Generators",
+                        "homepage": "https://heheyas.github.io/V3D/",
                         "id": 769977055,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2024-03-26T02:55:36Z",
+                        "open_issues": 22,
                         "owner": "heheyas",
                         "repo": "V3D",
-                        "stars": 521
+                        "stars": 521,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     },
@@ -1345,12 +1964,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[CVPR 2024 Highlight] ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models",
+                        "homepage": "https://ubc-vision.github.io/vivid123/",
                         "id": 724352437,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2024-07-24T01:41:47Z",
+                        "open_issues": 0,
                         "owner": "ubc-vision",
                         "repo": "vivid123",
-                        "stars": 180
+                        "stars": 180,
+                        "topics": [
+                          "diffusion-models",
+                          "novel-view-synthesis",
+                          "single-view-3d",
+                          "stable-diffusion",
+                          "video-diffusion"
+                        ]
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
                     }
@@ -1373,12 +2003,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2023] Official implementation of the paper \"DreamWaltz: Make a Scene with Complex 3D Animatable Avatars\".",
+                    "homepage": "https://idea-research.github.io/DreamWaltz/",
                     "id": 662400263,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-10-15T13:38:33Z",
+                    "open_issues": 1,
                     "owner": "IDEA-Research",
                     "repo": "DreamWaltz",
-                    "stars": 189
+                    "stars": 189,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1389,12 +2024,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2023] HeadSculpt: Crafting 3D Head Avatars with Text",
+                    "homepage": "http://brandonhan.uk/HeadSculpt/",
                     "id": 649780911,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-06-06T18:29:50Z",
+                    "open_issues": 2,
                     "owner": "BrandonHanx",
                     "repo": "HeadSculpt",
-                    "stars": 117
+                    "stars": 117,
+                    "topics": [
+                      "aigc",
+                      "head-avatar",
+                      "nerf",
+                      "stable-diffusion",
+                      "text-to-3d"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1405,12 +2051,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV2024] DreamScene: 3D Gaussian-based Text-to-3D Scene Generation via Formation Pattern Sampling",
+                    "homepage": "https://dreamscene-project.github.io/",
                     "id": 772917943,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-12-07T13:51:27Z",
+                    "open_issues": 4,
                     "owner": "DreamScene-Project",
                     "repo": "DreamScene",
-                    "stars": 232
+                    "stars": 232,
+                    "topics": [
+                      "3d-aigc",
+                      "gaussian-splatting",
+                      "generative-art",
+                      "text-to-3d"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1421,12 +2077,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of 'Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields'",
+                    "homepage": null,
                     "id": 646007430,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-02-08T06:42:51Z",
+                    "open_issues": 11,
                     "owner": "eckertzhang",
                     "repo": "Text2NeRF",
-                    "stars": 138
+                    "stars": 138,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1437,12 +2098,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2024] DreamScene360: Unconstrained Text-to-3D Scene Generation with Panoramic Gaussian Splatting",
+                    "homepage": "https://dreamscene360.github.io/",
                     "id": 863784384,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-13T05:51:26Z",
+                    "open_issues": 2,
                     "owner": "ShijieZhou-UCLA",
                     "repo": "DreamScene360",
-                    "stars": 130
+                    "stars": 130,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1453,12 +2119,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official repository of our paper: \"Urban Architect: Steerable 3D Urban Scene Generation with Layout Prior\"",
+                    "homepage": null,
                     "id": 784584929,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-04-26T07:52:45Z",
+                    "open_issues": 5,
                     "owner": "UrbanArchitect",
                     "repo": "UrbanArchitect",
-                    "stars": 113
+                    "stars": 113,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1469,12 +2140,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CityCraft: A Diffusion and LLM Powered Framework for Automatic Comprehensive Virtual City Generation",
+                    "homepage": null,
                     "id": 811867715,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2025-08-07T14:12:04Z",
+                    "open_issues": 2,
                     "owner": "djFatNerd",
                     "repo": "CityCraft",
-                    "stars": 78
+                    "stars": 78,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1485,12 +2161,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions (ICCV 2023)",
+                    "homepage": "https://instruct-nerf2nerf.github.io/",
                     "id": 623604666,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-02-12T20:04:55Z",
+                    "open_issues": 11,
                     "owner": "ayaanzhaque",
                     "repo": "instruct-nerf2nerf",
-                    "stars": 853
+                    "stars": 853,
+                    "topics": [
+                      "3d",
+                      "computer-vision",
+                      "diffusion-models",
+                      "machine-learning",
+                      "nerf",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1501,12 +2189,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Artistic Radiance Fields",
+                    "homepage": null,
                     "id": 503108500,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2022-07-22T12:31:40Z",
+                    "open_issues": 14,
                     "owner": "Kai-46",
                     "repo": "ARF-svox2",
-                    "stars": 579
+                    "stars": 579,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1517,12 +2210,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2022] FENeRF: Face Editing in Neural Radiance Fields",
+                    "homepage": null,
                     "id": 471440321,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-06-13T13:27:14Z",
+                    "open_issues": 4,
                     "owner": "MrTornado24",
                     "repo": "FENeRF",
-                    "stars": 227
+                    "stars": 227,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1533,12 +2231,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":first_quarter_moon: [ICCV'23] Pytorch implementation of \"ObjectSDF++: Improved Object-Compositional Neural Implicit Surfaces\"",
+                    "homepage": "https://qianyiwu.github.io/objectsdf++",
                     "id": 675266488,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-02-07T11:00:51Z",
+                    "open_issues": 4,
                     "owner": "QianyiWu",
                     "repo": "objectsdf_plus",
-                    "stars": 157
+                    "stars": 157,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1549,12 +2252,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 601806346,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-05-06T19:00:50Z",
+                    "open_issues": 5,
                     "owner": "threedle",
                     "repo": "TextDeformer",
-                    "stars": 132
+                    "stars": 132,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1565,12 +2273,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV2022]\"Unified Implicit Neural Stylization\" which proposes a unified stylization framework for SIREN, SDF and NeRF",
+                    "homepage": null,
                     "id": 477558094,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-11-03T01:38:35Z",
+                    "open_issues": 1,
                     "owner": "VITA-Group",
                     "repo": "INS",
-                    "stars": 110
+                    "stars": 110,
+                    "topics": [
+                      "3d-reconstruction",
+                      "nerf",
+                      "neural-radiance-fields",
+                      "pytorch-implementation",
+                      "style-transfer"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1581,12 +2300,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 533452168,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-01-14T08:10:57Z",
+                    "open_issues": 2,
                     "owner": "FDNeRF",
                     "repo": "FDNeRF",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 }
@@ -1611,12 +2335,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[TPAMI 2025, NeurIPS 2024] Video4DGen: Enhancing Video and 4D Generation through Mutual Optimization",
+                    "homepage": "https://vidu4d-dgs.github.io",
                     "id": 805526602,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-01-12T06:04:10Z",
+                    "open_issues": 1,
                     "owner": "yikaiw",
                     "repo": "Vidu4D",
-                    "stars": 371
+                    "stars": 371,
+                    "topics": [
+                      "4d-generation",
+                      "4d-reconstruction",
+                      "dynamic-gaussian-surfels",
+                      "video-generation",
+                      "video4dgen",
+                      "vidu4d"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1627,12 +2363,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2024] Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models",
+                    "homepage": "https://vita-group.github.io/Diffusion4D/",
                     "id": 806337727,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-01-21T05:08:48Z",
+                    "open_issues": 3,
                     "owner": "VITA-Group",
                     "repo": "Diffusion4D",
-                    "stars": 347
+                    "stars": 347,
+                    "topics": [
+                      "4d",
+                      "generative-ai",
+                      "image-to-4d",
+                      "text-to-4d"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1643,12 +2389,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2024] L4GM: Large 4D Gaussian Reconstruction Model",
+                    "homepage": "https://research.nvidia.com/labs/toronto-ai/l4gm/",
                     "id": 891095636,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-01-24T11:18:18Z",
+                    "open_issues": 7,
                     "owner": "nv-tlabs",
                     "repo": "L4GM-official",
-                    "stars": 258
+                    "stars": 258,
+                    "topics": [
+                      "4d-generation",
+                      "4d-reconstruction",
+                      "large-reconstruction-model"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1659,12 +2414,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2024] Animate3D: Animating Any 3D Model with Multi-view Video Diffusion",
+                    "homepage": "https://animate3d.github.io/",
                     "id": 829563322,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-10-24T04:00:07Z",
+                    "open_issues": 7,
                     "owner": "yanqinJiang",
                     "repo": "Animate3D",
-                    "stars": 251
+                    "stars": 251,
+                    "topics": [
+                      "3d-game",
+                      "3d-generation",
+                      "4d-generation",
+                      "aigc",
+                      "generative-model",
+                      "video-generation"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1675,12 +2442,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling",
+                    "homepage": "https://sherwinbahmani.github.io/4dfy/",
                     "id": 724940321,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-12-10T13:30:43Z",
+                    "open_issues": 0,
                     "owner": "sherwinbahmani",
                     "repo": "4dfy",
-                    "stars": 340
+                    "stars": 340,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1691,12 +2463,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2024] DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos",
+                    "homepage": "https://dreamscene4d.github.io/",
                     "id": 795748044,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-09-27T03:30:51Z",
+                    "open_issues": 5,
                     "owner": "dreamscene4d",
                     "repo": "dreamscene4d",
-                    "stars": 232
+                    "stars": 232,
+                    "topics": [
+                      "video-to-4d"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1707,12 +2486,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Implementation for STAG4D: Spatial-Temporal Anchored Generative 4D Gaussians",
+                    "homepage": null,
                     "id": 777116329,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-07-26T11:07:45Z",
+                    "open_issues": 10,
                     "owner": "zeng-yifei",
                     "repo": "STAG4D",
-                    "stars": 211
+                    "stars": 211,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1723,12 +2507,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TC4D: Trajectory-Conditioned Text-to-4D Generation",
+                    "homepage": "https://sherwinbahmani.github.io/tc4d",
                     "id": 778014116,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-10-15T05:59:42Z",
+                    "open_issues": 0,
                     "owner": "sherwinbahmani",
                     "repo": "tc4d",
-                    "stars": 205
+                    "stars": 205,
+                    "topics": [
+                      "3d",
+                      "4d",
+                      "generation"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1739,12 +2532,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2024] \"DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation\"",
+                    "homepage": null,
                     "id": 869984769,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-10-15T05:08:33Z",
+                    "open_issues": 1,
                     "owner": "WU-CVGL",
                     "repo": "DreamMesh4D",
-                    "stars": 122
+                    "stars": 122,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1755,12 +2553,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2024] Official code for: SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer ",
+                    "homepage": null,
                     "id": 777711664,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-06-30T03:31:55Z",
+                    "open_issues": 1,
                     "owner": "JarrentWu1031",
                     "repo": "SC4D",
-                    "stars": 115
+                    "stars": 115,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1771,12 +2574,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official PyTorch implementation of \"A Unified Approach for Text- and Image-guided 4D Scene Generation\", [CVPR 2024]",
+                    "homepage": "https://research.nvidia.com/labs/nxp/dream-in-4d/",
                     "id": 767127345,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-04-23T03:24:46Z",
+                    "open_issues": 2,
                     "owner": "NVlabs",
                     "repo": "dream-in-4d",
-                    "stars": 94
+                    "stars": 94,
+                    "topics": [
+                      "deep-learning",
+                      "diffusion-models",
+                      "pytorch",
+                      "text-to-4d"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1787,12 +2600,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis",
+                    "homepage": "https://arxiv.org/abs/2410.07155",
                     "id": 870140628,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-10-10T02:42:48Z",
+                    "open_issues": 0,
                     "owner": "YangLing0818",
                     "repo": "Trans4D",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "4d-generation",
+                      "diffusion-model",
+                      "text-to-4d"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 }
@@ -1810,12 +2632,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR2024] Instruct 4D-to-4D: Editing 4D Scenes as Pseudo-3D Scenes Using 2D Diffusion",
+                    "homepage": "https://immortalco.github.io/Instruct-4D-to-4D/",
                     "id": 841860279,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-10-28T05:17:37Z",
+                    "open_issues": 4,
                     "owner": "Friedrich-M",
                     "repo": "Instruct-4D-to-4D",
-                    "stars": 143
+                    "stars": 143,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1826,12 +2653,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official PyTorch implementation of the paper \"Human Motion Diffusion Model\"",
+                    "homepage": null,
                     "id": 543082997,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-10-01T00:29:26Z",
+                    "open_issues": 69,
                     "owner": "GuyTevet",
                     "repo": "motion-diffusion-model",
-                    "stars": 4092
+                    "stars": 4092,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1842,12 +2674,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2023] MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs",
+                    "homepage": "https://motion-gpt.github.io",
                     "id": 656030508,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-07-01T18:22:15Z",
+                    "open_issues": 72,
                     "owner": "OpenMotionLab",
                     "repo": "MotionGPT",
-                    "stars": 1962
+                    "stars": 1962,
+                    "topics": [
+                      "3d-generation",
+                      "chatgpt",
+                      "gpt",
+                      "language-model",
+                      "motion",
+                      "motion-generation",
+                      "motiongpt",
+                      "multi-modal",
+                      "text-driven",
+                      "text-to-motion"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1858,12 +2706,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of \"MoMask: Generative Masked Modeling of 3D Human Motions (CVPR2024)\"",
+                    "homepage": "https://ericguo5513.github.io/momask/",
                     "id": 725261939,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-09-13T19:09:40Z",
+                    "open_issues": 24,
                     "owner": "EricGuo5513",
                     "repo": "momask-codes",
-                    "stars": 1310
+                    "stars": 1310,
+                    "topics": [
+                      "3d-generation",
+                      "animation",
+                      "motion",
+                      "motion-generation",
+                      "motion-synthesis",
+                      "text-driven",
+                      "text-to-motion"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1874,12 +2735,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "(CVPR 2023) Pytorch implementation of “T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations”",
+                    "homepage": "https://mael-zys.github.io/T2M-GPT/",
                     "id": 588533284,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-09-17T14:19:55Z",
+                    "open_issues": 18,
                     "owner": "Mael-zys",
                     "repo": "T2M-GPT",
-                    "stars": 775
+                    "stars": 775,
+                    "topics": [
+                      "gpt",
+                      "motion-generation",
+                      "vq-vae"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1890,12 +2760,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation for \"Generating Diverse and Natural 3D Human Motions from Texts (CVPR2022).\"",
+                    "homepage": null,
                     "id": 469479246,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-08-18T00:21:07Z",
+                    "open_issues": 24,
                     "owner": "EricGuo5513",
                     "repo": "text-to-motion",
-                    "stars": 717
+                    "stars": 717,
+                    "topics": [
+                      "motion-generation",
+                      "pytorch-implementation"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1906,12 +2784,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICML 2024] 🍅HumanTOMATO: Text-aligned Whole-body Motion Generation",
+                    "homepage": "https://lhchen.top/HumanTOMATO",
                     "id": 706542652,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-06-19T04:51:49Z",
+                    "open_issues": 20,
                     "owner": "IDEA-Research",
                     "repo": "HumanTOMATO",
-                    "stars": 362
+                    "stars": 362,
+                    "topics": [
+                      "generation",
+                      "gpt",
+                      "motion",
+                      "motion-generation",
+                      "smplx",
+                      "whole-body",
+                      "whole-body-motion"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1922,12 +2813,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Creating animation sequences between sparse key frames using motion phase features.",
+                    "homepage": null,
                     "id": 644095266,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2024-05-23T08:36:09Z",
+                    "open_issues": 3,
                     "owner": "paulstarke",
                     "repo": "PhaseBetweener",
-                    "stars": 215
+                    "stars": 215,
+                    "topics": [
+                      "animation",
+                      "artificial-intelligence",
+                      "computer-games",
+                      "data-driven-model",
+                      "motion-capture"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -1938,12 +2840,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The code the CVPR2024 paper Lodge: A Coarse to Fine Diffusion Network for Long Dance Generation Guided by the Characteristic Dance Primitives",
+                    "homepage": null,
                     "id": 772060477,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-01-27T14:15:50Z",
+                    "open_issues": 9,
                     "owner": "li-ronghui",
                     "repo": "LODGE",
-                    "stars": 177
+                    "stars": 177,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 }
@@ -1972,12 +2879,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1323748093,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-23T02:14:17Z",
+                "open_issues": 1,
                 "owner": "hku-sail",
                 "repo": "PlayWorld",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
             },
@@ -1988,12 +2900,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 939609351,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-29T00:24:11Z",
+                "open_issues": 2,
                 "owner": "WorldModelBench-Team",
                 "repo": "WorldModelBench",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
             }
@@ -2011,12 +2928,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unified World Model Inference & Evaluation Infrastructure",
+                "homepage": "https://openenvision.github.io/WorldFoundry/",
                 "id": 1295092827,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-22T16:44:21Z",
+                "open_issues": 0,
                 "owner": "OpenEnvision",
                 "repo": "WorldFoundry",
-                "stars": 311
+                "stars": 311,
+                "topics": [
+                  "3d",
+                  "4d",
+                  "benchmark",
+                  "evaluation",
+                  "inference",
+                  "infrastructure",
+                  "video-generation",
+                  "vla",
+                  "wam",
+                  "world-model"
+                ]
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
             },
@@ -2032,12 +2965,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cosmos-Reason1 models understand the physical common sense and generate appropriate embodied decisions in natural language through long chain-of-thought reasoning processes.",
+                    "homepage": "https://research.nvidia.com/labs/dir/cosmos-reason1/",
                     "id": 941558026,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-07T17:18:24Z",
+                    "open_issues": 16,
                     "owner": "nvidia-cosmos",
                     "repo": "cosmos-reason1",
-                    "stars": 955
+                    "stars": 955,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -2048,12 +2986,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cosmos-Transfer1 is a world-to-world transfer model designed to bridge the perceptual divide between simulated and real-world environments.",
+                    "homepage": "https://research.nvidia.com/labs/dir/cosmos-transfer1",
                     "id": 941557915,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-07T17:21:25Z",
+                    "open_issues": 23,
                     "owner": "nvidia-cosmos",
                     "repo": "cosmos-transfer1",
-                    "stars": 819
+                    "stars": 819,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -2064,12 +3007,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cosmos-Predict1 is a collection of general-purpose world foundation models for Physical AI that can be fine-tuned into customized world models for downstream applications.",
+                    "homepage": "https://research.nvidia.com/labs/dir/cosmos-predict1",
                     "id": 941557796,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-07T17:14:22Z",
+                    "open_issues": 13,
                     "owner": "nvidia-cosmos",
                     "repo": "cosmos-predict1",
-                    "stars": 468
+                    "stars": 468,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 }
@@ -2093,12 +3041,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 724968967,
             "language": null,
+            "license": null,
             "last_commit": "2024-06-27T02:22:48Z",
+            "open_issues": 0,
             "owner": "52CV",
             "repo": "CVPR-2024-Papers",
-            "stars": 1126
+            "stars": 1126,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         },
@@ -2109,12 +3062,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All NeRF&3DGS-related papers at CVPR",
+            "homepage": null,
             "id": 770871268,
             "language": null,
+            "license": null,
             "last_commit": "2024-03-26T07:51:12Z",
+            "open_issues": 0,
             "owner": "Yubel426",
             "repo": "NeRF-3DGS-at-CVPR-2024",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         }
@@ -2133,12 +3091,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2026] Codebase for paper \"Geometry-aware 4D Video Generation for Robot Manipulation\"",
+                "homepage": "https://robot4dgen.github.io/",
                 "id": 1005307472,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-10T05:45:58Z",
+                "open_issues": 0,
                 "owner": "lzylucy",
                 "repo": "4dgen",
-                "stars": 123
+                "stars": 124,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
             },
@@ -2149,12 +3112,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "https://noodle-lab.github.io/turbo4dgen",
+                "homepage": null,
                 "id": 1118613384,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-22T08:31:45Z",
+                "open_issues": 0,
                 "owner": "noodle-lab",
                 "repo": "turbo4dgen",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
             },
@@ -2165,12 +3133,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2026] Code2Worlds: Empowering Coding LLMs for 4D World Generation",
+                "homepage": "https://aigeeksgroup.github.io/Code2Worlds/",
                 "id": 1141689697,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-03T04:14:15Z",
+                "open_issues": 1,
                 "owner": "AIGeeksGroup",
                 "repo": "Code2Worlds",
-                "stars": 125
+                "stars": 125,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
             },
@@ -2181,12 +3154,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1136283250,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-12T10:47:31Z",
+                "open_issues": 6,
                 "owner": "JohnZhan2023",
                 "repo": "PerpetualWonder",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
             },
@@ -2197,12 +3175,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026]Official PyTorch implementation of AvatarPointillist: AutoRegressive 4D Gaussian Avatarization. ",
+                "homepage": null,
                 "id": 1138806793,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-20T16:26:22Z",
+                "open_issues": 1,
                 "owner": "KumapowerLIU",
                 "repo": "AvatarPointillist",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "autoregressive-models",
+                  "avatar-generator",
+                  "cvpr2026"
+                ]
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
             },
@@ -2213,12 +3200,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code, models, and data for Vista4D: Video Reshooting with 4D Point Clouds (CVPR 2026 Highlight)",
+                "homepage": "https://eyeline-labs.github.io/Vista4D/",
                 "id": 1100222218,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-02T15:47:37Z",
+                "open_issues": 7,
                 "owner": "Eyeline-Labs",
                 "repo": "Vista4D",
-                "stars": 579
+                "stars": 579,
+                "topics": [
+                  "3d-vision",
+                  "novel-view-synthesis",
+                  "video-generation"
+                ]
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
             },
@@ -2229,12 +3225,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026] 3D Motion Reconstruction for 4D Synthesis",
+                "homepage": "https://motion3-to-4.github.io/",
                 "id": 1138782280,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-13T14:38:00Z",
+                "open_issues": 0,
                 "owner": "Inception3D",
                 "repo": "Motion324",
-                "stars": 179
+                "stars": 179,
+                "topics": [
+                  "3d-reconstruction",
+                  "4d-reconstruction",
+                  "motion-tracking"
+                ]
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
             },
@@ -2245,12 +3250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026] Official implementation of \"Choreographing a World of Dynamic Objects\"",
+                "homepage": "https://yanzhelyu.github.io/chord/",
                 "id": 1206326103,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-24T13:15:05Z",
+                "open_issues": 0,
                 "owner": "yanzhelyu",
                 "repo": "CHORDCode",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
             },
@@ -2261,12 +3271,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎬ActionMesh: A fast video to animated mesh model with unprecedented quality. Generate animated mesh seamlessly importable into any 3D software in less than a minute.",
+                "homepage": null,
                 "id": 1138917279,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-28T21:10:09Z",
+                "open_issues": 0,
                 "owner": "facebookresearch",
                 "repo": "actionmesh",
-                "stars": 416
+                "stars": 417,
+                "topics": [
+                  "4d-generation",
+                  "4d-reconstruction",
+                  "animation",
+                  "mesh-generation",
+                  "video-to-4d"
+                ]
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
             },
@@ -2277,12 +3298,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2026] LivingWorld: Interactive 4D World Generation with Environmental Dynamics",
+                "homepage": "http://paper.pnu-cvsp.com/LivingWorld/",
                 "id": 1287089685,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-07T04:31:00Z",
+                "open_issues": 0,
                 "owner": "cvsp-lab",
                 "repo": "LivingWorld",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
             },
@@ -2293,12 +3319,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[SIGGRAPH Asia 2026] Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
+                "homepage": "https://lift4d.github.io",
                 "id": 1270936576,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-02T21:29:49Z",
+                "open_issues": 1,
                 "owner": "yehonathanlitman",
                 "repo": "Lift4D",
-                "stars": 419
+                "stars": 419,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
             },
@@ -2309,12 +3340,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[SIGGRAPH Asia 2026] 4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
+                "homepage": null,
                 "id": 1329561971,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:02:44Z",
+                "open_issues": 4,
                 "owner": "ant-research",
                 "repo": "4DAnyone",
-                "stars": 914
+                "stars": 918,
+                "topics": [
+                  "4d-gaussian-splatting",
+                  "generative-ai",
+                  "generative-model",
+                  "video-generation",
+                  "video-world-model"
+                ]
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
             }
@@ -2334,12 +3376,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1183071163,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-24T10:44:55Z",
+                    "open_issues": 6,
                     "owner": "inspatio",
                     "repo": "inspatio-world",
-                    "stars": 985
+                    "stars": 985,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -2350,12 +3397,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Implementation of \"Multi-View Point Tracking as Geometric Supervision for 4D Video Generation\"",
+                    "homepage": null,
                     "id": 1268461406,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-06-25T06:53:04Z",
+                    "open_issues": 1,
                     "owner": "cvlab-kaist",
                     "repo": "MVTrack4Gen",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -2366,12 +3418,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation",
+                    "homepage": null,
                     "id": 1287185801,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-16T13:21:16Z",
+                    "open_issues": 1,
                     "owner": "alibaba-damo-academy",
                     "repo": "RynnWorld-4D",
-                    "stars": 86
+                    "stars": 86,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -2382,12 +3439,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio-Temporal Generation",
+                    "homepage": null,
                     "id": 1301295308,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-07-15T06:48:11Z",
+                    "open_issues": 0,
                     "owner": "wafer-bob",
                     "repo": "Hallo4D",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -2398,12 +3460,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official repository for Beyond Pixels: From Video Priors to 4D Worlds.",
+                    "homepage": null,
                     "id": 1330075875,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-08-16T10:38:23Z",
+                    "open_issues": 1,
                     "owner": "hayd-zju",
                     "repo": "Beyond-Pixels",
-                    "stars": 117
+                    "stars": 117,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 }
@@ -2434,12 +3501,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The best OSS video generation models, created by Genmo",
+                    "homepage": null,
                     "id": 855533850,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-11-14T01:17:56Z",
+                    "open_issues": 59,
                     "owner": "genmoai",
                     "repo": "mochi",
-                    "stars": 3719
+                    "stars": 3719,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 },
@@ -2450,12 +3522,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "VideoGen-Eval: Agent-based System for Video Generation Evaluation",
+                    "homepage": "https://ailab-cvc.github.io/VideoGen-Eval/",
                     "id": 864610689,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2025-12-16T03:20:59Z",
+                    "open_issues": 5,
                     "owner": "AILab-CVC",
                     "repo": "VideoGen-Eval",
-                    "stars": 269
+                    "stars": 269,
+                    "topics": [
+                      "aigc",
+                      "benchmark",
+                      "image-to-video",
+                      "sora-video-ai",
+                      "text-to-video",
+                      "video-evaluation",
+                      "video-generation",
+                      "video-to-video"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 }
@@ -2484,12 +3570,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[SIGGRAPH Asia 2025] PanoDreamer: Optimization-Based Single Image to 360 3D Scene With Diffusion",
+                "homepage": "https://people.engr.tamu.edu/nimak/Papers/PanoDreamer",
                 "id": 899403778,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-24T00:39:42Z",
+                "open_issues": 0,
                 "owner": "avinashpaliwal",
                 "repo": "PanoDreamer",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "3d-from-a-single-image",
+                  "3d-scene-generation",
+                  "diffusion-model",
+                  "gaussian-splatting",
+                  "panorama-depth",
+                  "panorama-diffusion",
+                  "panorama-synthesis",
+                  "single-image-novel-view-synthesis"
+                ]
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
             }
@@ -2511,12 +3611,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌍 WorldGen - Generate Any 3D Scene in Seconds",
+            "homepage": null,
             "id": 968317835,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-12T01:08:44Z",
+            "open_issues": 10,
             "owner": "ZiYang-xie",
             "repo": "WorldGen",
-            "stars": 2080
+            "stars": 2081,
+            "topics": [
+              "3d-generation",
+              "3d-reconstruction",
+              "generative-ai",
+              "graphics",
+              "image-to-3d",
+              "scene-generation",
+              "text-to-3d",
+              "worldgen",
+              "worldmodel"
+            ]
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         }
@@ -2533,12 +3648,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【Accepted by TPAMI】Human Motion Video Generation: A Survey (https://ieeexplore.ieee.org/document/11106267)",
+            "homepage": "https://ieeexplore.ieee.org/document/11106267",
             "id": 845580169,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-28T04:30:28Z",
+            "open_issues": 0,
             "owner": "Winn1y",
             "repo": "Awesome-Human-Motion-Video-Generation",
-            "stars": 342
+            "stars": 342,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         },
@@ -2549,12 +3669,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository collects papers on Human-Interaction-Motion-Generation applications. We will update new papers irregularly.",
+            "homepage": "https://arxiv.org/abs/2503.12763",
             "id": 939712575,
             "language": null,
+            "license": null,
             "last_commit": "2025-10-21T23:23:50Z",
+            "open_issues": 2,
             "owner": "soraproducer",
             "repo": "Awesome-Human-Interaction-Motion-Generation",
-            "stars": 314
+            "stars": 314,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "diffusion-models",
+              "human-human-interaction",
+              "human-interaction-motion-generation",
+              "human-motion-generation",
+              "human-object-interaction",
+              "human-scene-interaction"
+            ]
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         }
@@ -2575,12 +3709,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
+                    "homepage": "https://github.com/weihaox/awesome-digital-human",
                     "id": 366965099,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-04-18T02:42:41Z",
+                    "open_issues": 0,
                     "owner": "weihaox",
                     "repo": "awesome-digital-human",
-                    "stars": 1977
+                    "stars": 1977,
+                    "topics": [
+                      "avatar",
+                      "clothed-people-digitalization",
+                      "digital-human",
+                      "virtual-try-on"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
                 }
@@ -2607,12 +3751,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VPoser: Variational Human Pose Prior",
+            "homepage": "https://smpl-x.is.tue.mpg.de/",
             "id": 185763586,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-17T23:22:13Z",
+            "open_issues": 37,
             "owner": "nghorbani",
             "repo": "human_body_prior",
-            "stars": 985
+            "stars": 986,
+            "topics": [
+              "human",
+              "motion",
+              "pose",
+              "pose-estimation",
+              "prior",
+              "vae"
+            ]
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         }
@@ -2631,12 +3787,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS'24 Spotlight] Text2CAD: Generating Sequential CAD Designs from Beginner-to-Expert Level Text Prompts",
+                "homepage": "https://sadilkhan.github.io/text2cad-project/",
                 "id": 858548202,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-05-15T15:53:24Z",
+                "open_issues": 1,
                 "owner": "SadilKhan",
                 "repo": "Text2CAD",
-                "stars": 461
+                "stars": 461,
+                "topics": [
+                  "3d",
+                  "3d-reconstruction",
+                  "bert",
+                  "brep",
+                  "cad",
+                  "dataset",
+                  "deepcad",
+                  "generation",
+                  "neurips",
+                  "sequence",
+                  "text-to-3d",
+                  "text2cad",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
             },
@@ -2647,12 +3822,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM",
+                "homepage": "https://cad-mllm.github.io/",
                 "id": 884608137,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-16T08:50:56Z",
+                "open_issues": 3,
                 "owner": "CAD-MLLM",
                 "repo": "CAD-MLLM",
-                "stars": 269
+                "stars": 269,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
             },
@@ -2663,12 +3843,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Text-to-Music Generation with Rectified Flow Transformers",
+                "homepage": null,
                 "id": 838762342,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-10T06:35:10Z",
+                "open_issues": 19,
                 "owner": "feizc",
                 "repo": "FluxMusic",
-                "stars": 1711
+                "stars": 1711,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
             },
@@ -2679,12 +3864,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Video-Guided Text-to-Music Generation Using Public Domain Movie Collections (ISMIR 2025)",
+                "homepage": null,
                 "id": 999829064,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-17T15:45:40Z",
+                "open_issues": 4,
                 "owner": "havenpersona",
                 "repo": "ossl-v1",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
             }
@@ -2706,12 +3896,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Paper list of 3D GS",
+            "homepage": "https://arxiv.org/abs/2401.03890",
             "id": 906105434,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-18T01:13:21Z",
+            "open_issues": 0,
             "owner": "guikunchen",
             "repo": "Awesome3DGS",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "3dgs"
+            ]
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         },
@@ -2722,12 +3919,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.",
+            "homepage": null,
             "id": 705222810,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T07:43:59Z",
+            "open_issues": 4,
             "owner": "MrNeRF",
             "repo": "awesome-3D-gaussian-splatting",
-            "stars": 8841
+            "stars": 8841,
+            "topics": [
+              "3d-gaussian-splatting",
+              "3dgs",
+              "gaussian-splatting",
+              "nerf",
+              "neural-rendering"
+            ]
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         },
@@ -2738,12 +3946,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D高斯论文，持续更新，欢迎交流讨论。",
+            "homepage": null,
             "id": 733901924,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-12T07:01:54Z",
+            "open_issues": 4,
             "owner": "Awesome3DGS",
             "repo": "3D-Gaussian-Splatting-Papers",
-            "stars": 3133
+            "stars": 3133,
+            "topics": [
+              "3d-gaussian-splatting",
+              "3dgs",
+              "gaussian-splatting",
+              "novel-view-synthesis"
+            ]
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         },
@@ -2754,12 +3972,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a collective repository for all 3DGS related progresses in research and industry world",
+            "homepage": null,
             "id": 811490704,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-01-19T14:32:47Z",
+            "open_issues": 0,
             "owner": "yangjiheng",
             "repo": "3DGS_and_Beyond_Docs",
-            "stars": 725
+            "stars": 725,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         }
@@ -2776,12 +3999,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome AIGC 3D papers",
+            "homepage": null,
             "id": 716929983,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-04T12:06:51Z",
+            "open_issues": 4,
             "owner": "hitcslj",
             "repo": "Awesome-AIGC-3D",
-            "stars": 788
+            "stars": 788,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         },
@@ -2792,12 +4020,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A growing curation of Text-to-3D, Diffusion-to-3D works.",
+            "homepage": null,
             "id": 663016282,
             "language": "TeX",
+            "license": null,
             "last_commit": "2026-08-28T20:01:20Z",
+            "open_issues": 5,
             "owner": "yyeboah",
             "repo": "Awesome-Text-to-3D",
-            "stars": 598
+            "stars": 598,
+            "topics": [
+              "3dgs",
+              "diffusion-to-3d",
+              "image-to-3d",
+              "nerf",
+              "neural-rendering",
+              "t23d",
+              "text-to-3d",
+              "tt3d"
+            ]
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         },
@@ -2808,12 +4050,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of papers and open-source resources focused on 3D AIGC.",
+            "homepage": null,
             "id": 736025712,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-02T15:06:37Z",
+            "open_issues": 1,
             "owner": "mdyao",
             "repo": "Awesome-3D-AIGC",
-            "stars": 348
+            "stars": 348,
+            "topics": [
+              "3d-aigc",
+              "3d-gaussian-splatting",
+              "3d-generation",
+              "aigc",
+              "computer-graphics",
+              "computer-vision",
+              "generation",
+              "nerf",
+              "neural-rendering"
+            ]
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         },
@@ -2824,12 +4081,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 680718110,
             "language": null,
+            "license": null,
             "last_commit": "2024-06-05T12:38:35Z",
+            "open_issues": 3,
             "owner": "StellarCheng",
             "repo": "Awesome-Text-to-3D",
-            "stars": 161
+            "stars": 161,
+            "topics": [
+              "3d-learning-from-2d",
+              "text-to-3d"
+            ]
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         },
@@ -2840,12 +4105,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ CVPR 2024 ] Implementation for \"GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation\"",
+            "homepage": null,
             "id": 740408032,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-12T06:18:42Z",
+            "open_issues": 5,
             "owner": "3DTopia",
             "repo": "GPTEval3D",
-            "stars": 289
+            "stars": 289,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         },
@@ -2856,12 +4126,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roblox Foundation Model for 3D Intelligence",
+            "homepage": null,
             "id": 946920596,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-28T03:37:24Z",
+            "open_issues": 30,
             "owner": "Roblox",
             "repo": "cube",
-            "stars": 1243
+            "stars": 1243,
+            "topics": [
+              "3d",
+              "3d-aigc",
+              "3d-generation",
+              "shape-generation",
+              "text-to-3d"
+            ]
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         }
@@ -2878,12 +4159,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
+            "homepage": null,
             "id": 731892810,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-16T16:28:04Z",
+            "open_issues": 7,
             "owner": "ActiveVisionLab",
             "repo": "Awesome-LLM-3D",
-            "stars": 2254
+            "stars": 2254,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         },
@@ -2894,12 +4180,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
+            "homepage": "https://github.com/weihaox/awesome-digital-human",
             "id": 366965099,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-18T02:42:41Z",
+            "open_issues": 0,
             "owner": "weihaox",
             "repo": "awesome-digital-human",
-            "stars": 1977
+            "stars": 1977,
+            "topics": [
+              "avatar",
+              "clothed-people-digitalization",
+              "digital-human",
+              "virtual-try-on"
+            ]
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         },
@@ -2910,12 +4206,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of recent advances for human avatars, including generation, reconstruction, and editing, etc.",
+            "homepage": null,
             "id": 693491234,
             "language": null,
+            "license": null,
             "last_commit": "2024-04-13T13:43:49Z",
+            "open_issues": 0,
             "owner": "pansanity666",
             "repo": "Awesome-Avatars",
-            "stars": 276
+            "stars": 276,
+            "topics": [
+              "3dreconstruction",
+              "aigc",
+              "avatar",
+              "diffusion",
+              "humannerf",
+              "image-to-3d",
+              "motion-generation",
+              "nerf",
+              "neural-rendering",
+              "sdf",
+              "smpl",
+              "stable-diffusion",
+              "t23d",
+              "text-to-3d",
+              "tt3d"
+            ]
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         }
@@ -2932,12 +4249,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 726326997,
             "language": null,
+            "license": null,
             "last_commit": "2025-04-15T13:07:21Z",
+            "open_issues": 1,
             "owner": "MiaoQiaowei",
             "repo": "Awesome-4D",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         },
@@ -2948,12 +4270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of papers on 4D Generation.",
+            "homepage": null,
             "id": 790897405,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-10-10T04:23:30Z",
+            "open_issues": 3,
             "owner": "cwchenwang",
             "repo": "awesome-4d-generation",
-            "stars": 326
+            "stars": 326,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         }
@@ -2970,12 +4297,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive list of papers investigating physical cognition in video generation, including papers, codes, and related websites.",
+            "homepage": "https://arxiv.org/abs/2503.21765",
             "id": 954538244,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-23T15:06:18Z",
+            "open_issues": 0,
             "owner": "minnie-lin",
             "repo": "Awesome-Physics-Cognition-based-Video-Generation",
-            "stars": 329
+            "stars": 329,
+            "topics": [
+              "3d",
+              "4d",
+              "embodied-ai",
+              "physics",
+              "survey",
+              "t2v",
+              "v2v",
+              "video-generation",
+              "world-models",
+              "world-simulator"
+            ]
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         },
@@ -2986,12 +4329,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Physical laws underpin all existence, and harnessing them for generative modeling opens boundless possibilities for advancing science and shaping the future!",
+            "homepage": "https://arxiv.org/abs/2501.10928",
             "id": 907273047,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-23T04:42:52Z",
+            "open_issues": 5,
             "owner": "BestJunYu",
             "repo": "Awesome-Physics-aware-Generation",
-            "stars": 298
+            "stars": 298,
+            "topics": [
+              "generative-physical-ai-in-vision"
+            ]
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         }
@@ -3008,12 +4358,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering",
+            "homepage": "https://guanjunwu.github.io/4dgs/",
             "id": 699641579,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-27T04:07:37Z",
+            "open_issues": 135,
             "owner": "hustvl",
             "repo": "4DGaussians",
-            "stars": 3899
+            "stars": 3900,
+            "topics": [
+              "3d",
+              "computer-vision",
+              "cvpr2024",
+              "dynamic-scene",
+              "gaussian-splatting",
+              "graphics",
+              "neural-network",
+              "neural-rendering",
+              "novel-view-synthesis",
+              "radiance-field"
+            ]
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         },
@@ -3024,12 +4390,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024] Official implementation of \"Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction\"",
+            "homepage": "https://ingra14m.github.io/Deformable-Gaussians/",
             "id": 694492493,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-25T03:06:44Z",
+            "open_issues": 64,
             "owner": "ingra14m",
             "repo": "Deformable-3D-Gaussians",
-            "stars": 1255
+            "stars": 1255,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         },
@@ -3040,12 +4411,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024] Code for SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes",
+            "homepage": "https://yihua7.github.io/SC-GS-web/",
             "id": 727214387,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-27T10:11:06Z",
+            "open_issues": 32,
             "owner": "CVMI-Lab",
             "repo": "SC-GS",
-            "stars": 648
+            "stars": 648,
+            "topics": [
+              "dynamic-nerf",
+              "gaussian-splatting",
+              "motion-editing"
+            ]
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         },
@@ -3056,12 +4436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024 Highlight] Official repository for the paper \"3DGStream: On-the-fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos\".",
+            "homepage": "https://sjojok.github.io/3dgstream",
             "id": 767659080,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-11-18T10:07:39Z",
+            "open_issues": 17,
             "owner": "SJoJoK",
             "repo": "3DGStream",
-            "stars": 467
+            "stars": 467,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         },
@@ -3072,12 +4457,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2024] Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting",
+            "homepage": null,
             "id": 698290383,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-31T05:17:21Z",
+            "open_issues": 47,
             "owner": "fudan-zvg",
             "repo": "4d-gaussian-splatting",
-            "stars": 1026
+            "stars": 1026,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         },
@@ -3088,12 +4478,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 679920573,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-22T06:49:05Z",
+            "open_issues": 32,
             "owner": "JonathonLuiten",
             "repo": "Dynamic3DGaussians",
-            "stars": 2292
+            "stars": 2292,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         },
@@ -3104,12 +4499,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR'2024 Highlight] Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle",
+            "homepage": null,
             "id": 887108909,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-22T11:39:55Z",
+            "open_issues": 9,
             "owner": "NJU-3DV",
             "repo": "Gaussian-Flow",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:37:52.627Z"
         }
@@ -3118,15 +4518,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:37:52.627Z",
+    "last_updated": "2026-08-29T04:44:08.285Z",
     "original_repository_info": {
       "archived": false,
+      "description": "[IEEE TPAMI 2026] Simulating the Real World: Survey & Resources, which contains our survey \"Simulating the Real World: A Unified Survey of Multimodal Generative Models\" (IEEE TPAMI, 2026) and Awesome-Text2X-Resources. Watch this repository for the latest updates! 🔥",
+      "homepage": "https://arxiv.org/abs/2503.04641",
       "id": 733566298,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-23T05:36:21Z",
+      "open_issues": 0,
       "owner": "ALEEEHU",
       "repo": "World-Simulator",
-      "stars": 384
+      "stars": 384,
+      "topics": [
+        "3d-generation",
+        "4d-generation",
+        "aigc",
+        "awesome-list",
+        "generative-models",
+        "image-generation",
+        "multimodal",
+        "survey",
+        "text2x",
+        "video-generation",
+        "vision",
+        "vision-language",
+        "world-simulator"
+      ]
     },
     "original_repository_sha": "ac376e417a3c463a1e755bfc5b865dbaa0392d91",
     "enhanced_repository": "enhansome/enhansome-World-Simulator",
