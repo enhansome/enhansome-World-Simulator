@@ -10,7 +10,7 @@
                 {
                   "node_type": "item",
                   "title": "SDXL: [ICLR 2024 spotlight] SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [Paper",
-                  "description": "] [GitHub]",
+                  "description": "Stability-AI/generative-models",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -31,7 +31,7 @@
                 {
                   "node_type": "item",
                   "title": "Stable Diffusion: [CVPR 2022] High-Resolution Image Synthesis with Latent Diffusion Models [Paper",
-                  "description": "] [GitHub]",
+                  "description": "CompVis/latent-diffusion",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -44,7 +44,7 @@
                     "open_issues": 292,
                     "owner": "CompVis",
                     "repo": "latent-diffusion",
-                    "stars": 14162,
+                    "stars": 14163,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
@@ -52,7 +52,7 @@
                 {
                   "node_type": "item",
                   "title": "DALL-E: [ICML 2021] Zero-shot text-to-image generation [Paper",
-                  "description": "] [GitHub]",
+                  "description": "openai/DALL-E",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -73,7 +73,7 @@
                 {
                   "node_type": "item",
                   "title": "DeepFloyd IF: [GitHub",
-                  "description": "]",
+                  "description": "deep-floyd/IF",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -150,7 +150,7 @@
                 {
                   "node_type": "item",
                   "title": "[CVPR 2018] MoCoGAN: Decomposing Motion and Content for Video Generation [Paper",
-                  "description": "] [GitHub]",
+                  "description": "sergeytulyakov/mocogan",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -262,7 +262,7 @@
                     "open_issues": 318,
                     "owner": "guoyww",
                     "repo": "AnimateDiff",
-                    "stars": 12261,
+                    "stars": 12262,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
@@ -337,7 +337,7 @@
                 {
                   "node_type": "item",
                   "title": "[ICLR 2025 Poster] CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer [Paper",
-                  "description": "] [GitHub]",
+                  "description": "zai-org/CogVideo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -350,7 +350,7 @@
                     "open_issues": 115,
                     "owner": "zai-org",
                     "repo": "CogVideo",
-                    "stars": 13051,
+                    "stars": 13052,
                     "topics": [
                       "cogvideox",
                       "image-to-video",
@@ -365,7 +365,7 @@
                 {
                   "node_type": "item",
                   "title": "[ICLR 2025 Spotlight] Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers [Paper",
-                  "description": "] [GitHub]",
+                  "description": "Alpha-VLLM/Lumina-T2X",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -416,7 +416,7 @@
                 {
                   "node_type": "item",
                   "title": "[ICLR 2023 Poster] CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers [Paper",
-                  "description": "] [GitHub]",
+                  "description": "zai-org/CogVideo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -429,7 +429,7 @@
                     "open_issues": 115,
                     "owner": "zai-org",
                     "repo": "CogVideo",
-                    "stars": 13051,
+                    "stars": 13052,
                     "topics": [
                       "cogvideox",
                       "image-to-video",
@@ -444,7 +444,7 @@
                 {
                   "node_type": "item",
                   "title": "VQ-GAN: [CVPR 2021 Oral] Taming Transformers for High-Resolution Image Synthesis [Paper",
-                  "description": "] [GitHub]",
+                  "description": "CompVis/taming-transformers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -486,7 +486,7 @@
                 {
                   "node_type": "item",
                   "title": "[arXiv 2024] Open-MAGVIT2: An Open-Source Project Toward Democratizing Auto-regressive Visual Generation [Paper",
-                  "description": "] [GitHub]",
+                  "description": "TencentARC/SEED-Voken",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -532,7 +532,7 @@
                 {
                   "node_type": "item",
                   "title": "[arXiv 2025] Cosmos World Foundation Model Platform for Physical AI [Paper",
-                  "description": "] [GitHub]",
+                  "description": "nvidia-cosmos/cosmos-predict1",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -553,7 +553,7 @@
                 {
                   "node_type": "item",
                   "title": "[ICLR 2025 Poster] Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding [Paper",
-                  "description": "] [GitHub]",
+                  "description": "tyshiwo1/Accelerating-T2I-AR-with-SJD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -594,7 +594,7 @@
                     "open_issues": 30,
                     "owner": "robbyant-research",
                     "repo": "CoDeF",
-                    "stars": 4844,
+                    "stars": 4845,
                     "topics": [
                       "editing",
                       "video"
@@ -824,7 +824,7 @@
                 {
                   "node_type": "item",
                   "title": "[ICLR 2025 Poster] NVS-Solver: Video Diffusion Model as Zero-Shot Novel View Synthesizer [Paper",
-                  "description": "] [GitHub]",
+                  "description": "ZHU-Zhiyu/NVS_Solver",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -872,7 +872,7 @@
                 {
                   "node_type": "item",
                   "title": "[ICCV 2023] Adding Conditional Control to Text-to-Image Diffusion Models [Paper",
-                  "description": "] [GitHub]",
+                  "description": "lllyasviel/ControlNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1039,7 +1039,7 @@
                 {
                   "node_type": "item",
                   "title": "[CVPR 2018] MoCoGAN: Decomposing Motion and Content for Video Generation [Paper",
-                  "description": "] [GitHub]]",
+                  "description": "sergeytulyakov/mocogan",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1150,7 +1150,7 @@
                     {
                       "node_type": "item",
                       "title": "[arXiv 2023] Shap-E: Generating Conditional 3D Implicit Functions [Paper",
-                      "description": "] [GitHub]",
+                      "description": "openai/shap-e",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1171,7 +1171,7 @@
                     {
                       "node_type": "item",
                       "title": "[arXiv 2022] Point-E: A System for Generating 3D Point Clouds from Complex Prompts [Paper",
-                      "description": "] [GitHub]",
+                      "description": "openai/point-e",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1547,7 +1547,7 @@
                         "open_issues": 262,
                         "owner": "microsoft",
                         "repo": "TRELLIS",
-                        "stars": 13752,
+                        "stars": 13753,
                         "topics": [
                           "3d",
                           "3d-aigc",
@@ -1779,7 +1779,7 @@
                     {
                       "node_type": "item",
                       "title": "[ICLR 2025] IPDreamer: Appearance-Controllable 3D Object Generation with Complex Image Prompts [Paper",
-                      "description": "] [GitHub]",
+                      "description": "zengbohan0217/IPDreamer",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1828,7 +1828,7 @@
                     {
                       "node_type": "item",
                       "title": "[arXiv 2024] InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models [Paper",
-                      "description": "] [GitHub]",
+                      "description": "TencentARC/InstantMesh",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2136,7 +2136,7 @@
                 {
                   "node_type": "item",
                   "title": "[arXiv 2024] CityCraft: A Real Crafter for 3D City Generation [Paper",
-                  "description": "] [GitHub]",
+                  "description": "djFatNerd/CityCraft",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2596,7 +2596,7 @@
                 {
                   "node_type": "item",
                   "title": "[arXiv 2024] Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis [Paper",
-                  "description": "] [GitHub]",
+                  "description": "YangLing0818/Trans4D",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2809,7 +2809,7 @@
                 {
                   "node_type": "item",
                   "title": "[SCA 2023] Motion In-Betweening with Phase Manifolds [Paper",
-                  "description": "] [GitHub]",
+                  "description": "paulstarke/PhaseBetweener",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3035,49 +3035,56 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "- an awesome repo for CVPR2024 Link",
-          "description": "👍🏻",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 724968967,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-06-27T02:22:48Z",
-            "open_issues": 0,
-            "owner": "52CV",
-            "repo": "CVPR-2024-Papers",
-            "stars": 1124,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "- an awesome repo for CVPR2024 on 3DGS and NeRF Link",
-          "description": "👍🏻",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "All NeRF&3DGS-related papers at CVPR",
-            "homepage": null,
-            "id": 770871268,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-03-26T07:51:12Z",
-            "open_issues": 0,
-            "owner": "Yubel426",
-            "repo": "NeRF-3DGS-at-CVPR-2024",
-            "stars": 132,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "- an awesome repo for CVPR2024 Link",
+              "description": "52CV/CVPR-2024-Papers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 724968967,
+                "language": null,
+                "license": null,
+                "last_commit": "2024-06-27T02:22:48Z",
+                "open_issues": 0,
+                "owner": "52CV",
+                "repo": "CVPR-2024-Papers",
+                "stars": 1124,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:37:52.627Z"
+            },
+            {
+              "node_type": "item",
+              "title": "- an awesome repo for CVPR2024 on 3DGS and NeRF Link",
+              "description": "Yubel426/NeRF-3DGS-at-CVPR-2024",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "All NeRF&3DGS-related papers at CVPR",
+                "homepage": null,
+                "id": 770871268,
+                "language": null,
+                "license": null,
+                "last_commit": "2024-03-26T07:51:12Z",
+                "open_issues": 0,
+                "owner": "Yubel426",
+                "repo": "NeRF-3DGS-at-CVPR-2024",
+                "stars": 132,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:37:52.627Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2024 Update Logs:"
         }
       ],
-      "title": "2024 Update Logs:"
+      "title": "Update Logs"
     },
     {
       "description": null,
@@ -3142,7 +3149,7 @@
                 "open_issues": 1,
                 "owner": "AIGeeksGroup",
                 "repo": "Code2Worlds",
-                "stars": 133,
+                "stars": 134,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
@@ -3280,7 +3287,7 @@
                 "open_issues": 0,
                 "owner": "facebookresearch",
                 "repo": "actionmesh",
-                "stars": 431,
+                "stars": 432,
                 "topics": [
                   "4d-generation",
                   "4d-reconstruction",
@@ -3370,7 +3377,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-23T19:53:11Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "ant-research",
                 "repo": "4DAnyone",
                 "stars": 1394,
@@ -3698,103 +3705,139 @@
           "description": null,
           "node_type": "group",
           "title": "🎉 3D Scene Accepted Papers"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Resource1: WorldGen: Generate Any 3D Scene in Seconds",
+                      "description": "ZiYang-xie/WorldGen",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "🌍 WorldGen - Generate Any 3D Scene in Seconds",
+                        "homepage": null,
+                        "id": 968317835,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-04-12T01:08:44Z",
+                        "open_issues": 10,
+                        "owner": "ZiYang-xie",
+                        "repo": "WorldGen",
+                        "stars": 2148,
+                        "topics": [
+                          "3d-generation",
+                          "3d-reconstruction",
+                          "generative-ai",
+                          "graphics",
+                          "image-to-3d",
+                          "scene-generation",
+                          "text-to-3d",
+                          "worldgen",
+                          "worldmodel"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T22:37:52.627Z"
+                    }
+                  ],
+                  "description": "Awesome Repos",
+                  "node_type": "group",
+                  "title": "Awesome Repos"
+                }
+              ],
+              "description": "For more details, please check the 2023-2024 3D Scene Papers, including 25 accepted papers and 6 arXiv papers.",
+              "node_type": "group",
+              "title": "Year 2023-2024"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Previous Papers"
         }
       ],
       "title": "3D Scene Subsection"
     },
     {
-      "description": "Awesome Repos",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Resource1: WorldGen: Generate Any 3D Scene in Seconds",
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "[TPAMI 2025] Human Motion Video Generation: A Survey [arXiv",
+                      "description": "] [Paper] [GitHub]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "【Accepted by TPAMI】Human Motion Video Generation: A Survey (https://ieeexplore.ieee.org/document/11106267)",
+                        "homepage": "https://ieeexplore.ieee.org/document/11106267",
+                        "id": 845580169,
+                        "language": null,
+                        "license": "MIT",
+                        "last_commit": "2026-09-25T08:33:44Z",
+                        "open_issues": 0,
+                        "owner": "Winn1y",
+                        "repo": "Awesome-Human-Motion-Video-Generation",
+                        "stars": 345,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T22:37:52.627Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "[arXiv 7 Apr 2025] A Survey on Human Interaction Motion Generation [Paper",
+                      "description": "soraproducer/Awesome-Human-Interaction-Motion-Generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "This repository collects papers on Human-Interaction-Motion-Generation applications. We will update new papers irregularly.",
+                        "homepage": "https://arxiv.org/abs/2503.12763",
+                        "id": 939712575,
+                        "language": null,
+                        "license": null,
+                        "last_commit": "2025-10-21T23:23:50Z",
+                        "open_issues": 2,
+                        "owner": "soraproducer",
+                        "repo": "Awesome-Human-Interaction-Motion-Generation",
+                        "stars": 318,
+                        "topics": [
+                          "computer-vision",
+                          "deep-learning",
+                          "diffusion-models",
+                          "human-human-interaction",
+                          "human-interaction-motion-generation",
+                          "human-motion-generation",
+                          "human-object-interaction",
+                          "human-scene-interaction"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T22:37:52.627Z"
+                    }
+                  ],
+                  "description": "Survey",
+                  "node_type": "group",
+                  "title": "Awesome Repos"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Additional Info"
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌍 WorldGen - Generate Any 3D Scene in Seconds",
-            "homepage": null,
-            "id": 968317835,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-04-12T01:08:44Z",
-            "open_issues": 10,
-            "owner": "ZiYang-xie",
-            "repo": "WorldGen",
-            "stars": 2148,
-            "topics": [
-              "3d-generation",
-              "3d-reconstruction",
-              "generative-ai",
-              "graphics",
-              "image-to-3d",
-              "scene-generation",
-              "text-to-3d",
-              "worldgen",
-              "worldmodel"
-            ]
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
+          "node_type": "group",
+          "title": "Previous Papers"
         }
       ],
-      "title": "Awesome Repos"
-    },
-    {
-      "description": "Survey",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[TPAMI 2025] Human Motion Video Generation: A Survey [arXiv",
-          "description": "] [Paper] [GitHub]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "【Accepted by TPAMI】Human Motion Video Generation: A Survey (https://ieeexplore.ieee.org/document/11106267)",
-            "homepage": "https://ieeexplore.ieee.org/document/11106267",
-            "id": 845580169,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-09-25T08:33:44Z",
-            "open_issues": 0,
-            "owner": "Winn1y",
-            "repo": "Awesome-Human-Motion-Video-Generation",
-            "stars": 345,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[arXiv 7 Apr 2025] A Survey on Human Interaction Motion Generation [Paper",
-          "description": "] [GitHub]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This repository collects papers on Human-Interaction-Motion-Generation applications. We will update new papers irregularly.",
-            "homepage": "https://arxiv.org/abs/2503.12763",
-            "id": 939712575,
-            "language": null,
-            "license": null,
-            "last_commit": "2025-10-21T23:23:50Z",
-            "open_issues": 2,
-            "owner": "soraproducer",
-            "repo": "Awesome-Human-Interaction-Motion-Generation",
-            "stars": 318,
-            "topics": [
-              "computer-vision",
-              "deep-learning",
-              "diffusion-models",
-              "human-human-interaction",
-              "human-interaction-motion-generation",
-              "human-motion-generation",
-              "human-object-interaction",
-              "human-scene-interaction"
-            ]
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        }
-      ],
-      "title": "Awesome Repos"
+      "title": "Human Motion Subsection"
     },
     {
       "description": null,
@@ -3806,7 +3849,7 @@
                 {
                   "node_type": "item",
                   "title": "Resource1: Awesome Digital Human",
-                  "description": null,
+                  "description": "weihaox/awesome-digital-human",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3828,6 +3871,41 @@
                     ]
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "human_body_prior",
+                      "description": "vposer model (smpl weights) Link",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "VPoser: Variational Human Pose Prior",
+                        "homepage": "https://smpl-x.is.tue.mpg.de/",
+                        "id": 185763586,
+                        "language": "Python",
+                        "license": "NOASSERTION",
+                        "last_commit": "2026-09-24T16:05:28Z",
+                        "open_issues": 38,
+                        "owner": "nghorbani",
+                        "repo": "human_body_prior",
+                        "stars": 990,
+                        "topics": [
+                          "human",
+                          "motion",
+                          "pose",
+                          "pose-estimation",
+                          "prior",
+                          "vae"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T22:37:52.627Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Pretrained Models"
                 }
               ],
               "description": null,
@@ -3841,40 +3919,6 @@
         }
       ],
       "title": "3D Human Subsection"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "human_body_prior",
-          "description": "vposer model (smpl weights) Link",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "VPoser: Variational Human Pose Prior",
-            "homepage": "https://smpl-x.is.tue.mpg.de/",
-            "id": 185763586,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-24T16:05:28Z",
-            "open_issues": 38,
-            "owner": "nghorbani",
-            "repo": "human_body_prior",
-            "stars": 990,
-            "topics": [
-              "human",
-              "motion",
-              "pose",
-              "pose-estimation",
-              "prior",
-              "vae"
-            ]
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        }
-      ],
-      "title": "Pretrained Models"
     },
     {
       "description": null,
@@ -3897,7 +3941,7 @@
                 "open_issues": 1,
                 "owner": "SadilKhan",
                 "repo": "Text2CAD",
-                "stars": 479,
+                "stars": 480,
                 "topics": [
                   "3d",
                   "3d-reconstruction",
@@ -3940,7 +3984,7 @@
             {
               "node_type": "item",
               "title": "[arXiv 1 Sep 2024] FLUX that Plays Music [Paper",
-              "description": "] [GitHub]",
+              "description": "feizc/FluxMusic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3983,643 +4027,656 @@
           "description": "Here, other tasks refer to CAD, 3D modeling, music generation, and so on.\nText to CAD\nText to Music\nText to Model",
           "node_type": "group",
           "title": "Text to 'other tasks'"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[arXiv 8 Jan 2024] A Survey on 3D Gaussian Splatting [Paper",
+                  "description": "] [GitHub] [Benchmark]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Paper list of 3D GS",
+                    "homepage": "https://arxiv.org/abs/2401.03890",
+                    "id": 906105434,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2026-01-18T01:13:21Z",
+                    "open_issues": 0,
+                    "owner": "guikunchen",
+                    "repo": "Awesome3DGS",
+                    "stars": 113,
+                    "topics": [
+                      "3dgs"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Resource1: Awesome 3D Gaussian Splatting Resources",
+                  "description": "MrNeRF/awesome-3D-gaussian-splatting",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.",
+                    "homepage": null,
+                    "id": 705222810,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-24T19:24:24Z",
+                    "open_issues": 6,
+                    "owner": "MrNeRF",
+                    "repo": "awesome-3D-gaussian-splatting",
+                    "stars": 8914,
+                    "topics": [
+                      "3d-gaussian-splatting",
+                      "3dgs",
+                      "gaussian-splatting",
+                      "nerf",
+                      "neural-rendering"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Resource2: 3D Gaussian Splatting Papers",
+                  "description": "Awesome3DGS/3D-Gaussian-Splatting-Papers",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "3D高斯论文，持续更新，欢迎交流讨论。",
+                    "homepage": null,
+                    "id": 733901924,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-06-12T07:01:54Z",
+                    "open_issues": 4,
+                    "owner": "Awesome3DGS",
+                    "repo": "3D-Gaussian-Splatting-Papers",
+                    "stars": 3166,
+                    "topics": [
+                      "3d-gaussian-splatting",
+                      "3dgs",
+                      "gaussian-splatting",
+                      "novel-view-synthesis"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Resource3: 3DGS and Beyond Docs",
+                  "description": "yangjiheng/3DGS_and_Beyond_Docs",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "This is a collective repository for all 3DGS related progresses in research and industry world",
+                    "homepage": null,
+                    "id": 811490704,
+                    "language": null,
+                    "license": "MIT",
+                    "last_commit": "2025-01-19T14:32:47Z",
+                    "open_issues": 0,
+                    "owner": "yangjiheng",
+                    "repo": "3DGS_and_Beyond_Docs",
+                    "stars": 725,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                }
+              ],
+              "description": "Survey\nAwesome Repos",
+              "node_type": "group",
+              "title": "🔥 Topic 1: 3D Gaussian Splatting"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[arXiv 2 Feb 2024] A Comprehensive Survey on 3D Content Generation [Paper",
+                  "description": "hitcslj/Awesome-AIGC-3D",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A curated list of awesome AIGC 3D papers",
+                    "homepage": null,
+                    "id": 716929983,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-05-04T12:06:51Z",
+                    "open_issues": 4,
+                    "owner": "hitcslj",
+                    "repo": "Awesome-AIGC-3D",
+                    "stars": 787,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Resource3: Awesome Text-to-3D",
+                  "description": "yyeboah/Awesome-Text-to-3D",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A growing curation of Text-to-3D, Diffusion-to-3D works.",
+                    "homepage": null,
+                    "id": 663016282,
+                    "language": "TeX",
+                    "license": null,
+                    "last_commit": "2026-10-01T06:12:52Z",
+                    "open_issues": 5,
+                    "owner": "yyeboah",
+                    "repo": "Awesome-Text-to-3D",
+                    "stars": 607,
+                    "topics": [
+                      "3dgs",
+                      "diffusion-to-3d",
+                      "image-to-3d",
+                      "nerf",
+                      "neural-rendering",
+                      "t23d",
+                      "text-to-3d",
+                      "tt3d"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Resource1: Awesome 3D AIGC Resources",
+                  "description": "mdyao/Awesome-3D-AIGC",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A curated list of papers and open-source resources focused on 3D AIGC.",
+                    "homepage": null,
+                    "id": 736025712,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2026-07-02T15:06:37Z",
+                    "open_issues": 1,
+                    "owner": "mdyao",
+                    "repo": "Awesome-3D-AIGC",
+                    "stars": 352,
+                    "topics": [
+                      "3d-aigc",
+                      "3d-gaussian-splatting",
+                      "3d-generation",
+                      "aigc",
+                      "computer-graphics",
+                      "computer-vision",
+                      "generation",
+                      "nerf",
+                      "neural-rendering"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Resource2: Awesome-Text/Image-to-3D",
+                  "description": "StellarCheng/Awesome-Text-to-3D",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 680718110,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2024-06-05T12:38:35Z",
+                    "open_issues": 3,
+                    "owner": "StellarCheng",
+                    "repo": "Awesome-Text-to-3D",
+                    "stars": 161,
+                    "topics": [
+                      "3d-learning-from-2d",
+                      "text-to-3d"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[CVPR 2024] GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation [Paper",
+                  "description": "] [GitHub] [Project Page]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ CVPR 2024 ] Implementation for \"GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation\"",
+                    "homepage": null,
+                    "id": 740408032,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-06-12T06:18:42Z",
+                    "open_issues": 5,
+                    "owner": "3DTopia",
+                    "repo": "GPTEval3D",
+                    "stars": 292,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[arXiv 19 Mar 2025] Cube: A Roblox View of 3D Intelligence [Paper",
+                  "description": "Roblox/cube",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Roblox Foundation Model for 3D Intelligence",
+                    "homepage": null,
+                    "id": 946920596,
+                    "language": "Jupyter Notebook",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-05-28T03:37:24Z",
+                    "open_issues": 33,
+                    "owner": "Roblox",
+                    "repo": "cube",
+                    "stars": 1262,
+                    "topics": [
+                      "3d",
+                      "3d-aigc",
+                      "3d-generation",
+                      "shape-generation",
+                      "text-to-3d"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                }
+              ],
+              "description": "Survey\nAwesome Repos\nBenchmark\nFoundation Model",
+              "node_type": "group",
+              "title": "🔥 Topic 2: AIGC 3D"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Resource1: Awesome LLM 3D",
+                  "description": "ActiveVisionLab/Awesome-LLM-3D",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
+                    "homepage": null,
+                    "id": 731892810,
+                    "language": null,
+                    "license": "MIT",
+                    "last_commit": "2026-04-16T16:28:04Z",
+                    "open_issues": 8,
+                    "owner": "ActiveVisionLab",
+                    "repo": "Awesome-LLM-3D",
+                    "stars": 2267,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Resource2: Awesome Digital Human",
+                  "description": "weihaox/awesome-digital-human",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
+                    "homepage": "https://github.com/weihaox/awesome-digital-human",
+                    "id": 366965099,
+                    "language": null,
+                    "license": "MIT",
+                    "last_commit": "2026-04-18T02:42:41Z",
+                    "open_issues": 3,
+                    "owner": "weihaox",
+                    "repo": "awesome-digital-human",
+                    "stars": 1981,
+                    "topics": [
+                      "avatar",
+                      "clothed-people-digitalization",
+                      "digital-human",
+                      "virtual-try-on"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Resource3: Awesome-Avatars",
+                  "description": "pansanity666/Awesome-Avatars",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "List of recent advances for human avatars, including generation, reconstruction, and editing, etc.",
+                    "homepage": null,
+                    "id": 693491234,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2024-04-13T13:43:49Z",
+                    "open_issues": 0,
+                    "owner": "pansanity666",
+                    "repo": "Awesome-Avatars",
+                    "stars": 277,
+                    "topics": [
+                      "3dreconstruction",
+                      "aigc",
+                      "avatar",
+                      "diffusion",
+                      "humannerf",
+                      "image-to-3d",
+                      "motion-generation",
+                      "nerf",
+                      "neural-rendering",
+                      "sdf",
+                      "smpl",
+                      "stable-diffusion",
+                      "t23d",
+                      "text-to-3d",
+                      "tt3d"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                }
+              ],
+              "description": "Survey\nAwesome Repos",
+              "node_type": "group",
+              "title": "🔥 Topic 3: 3D Human & LLM 3D"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[arXiv 18 Mar 2025] Advances in 4D Generation: A Survey [Paper",
+                  "description": "MiaoQiaowei/Awesome-4D",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 726326997,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2025-04-15T13:07:21Z",
+                    "open_issues": 1,
+                    "owner": "MiaoQiaowei",
+                    "repo": "Awesome-4D",
+                    "stars": 91,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Resource1: Awesome 4D Generation",
+                  "description": "cwchenwang/awesome-4d-generation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "List of papers on 4D Generation.",
+                    "homepage": null,
+                    "id": 790897405,
+                    "language": null,
+                    "license": "MIT",
+                    "last_commit": "2024-10-10T04:23:30Z",
+                    "open_issues": 3,
+                    "owner": "cwchenwang",
+                    "repo": "awesome-4d-generation",
+                    "stars": 326,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                }
+              ],
+              "description": "Survey\nAwesome Repos",
+              "node_type": "group",
+              "title": "🔥 Topic 4: AIGC 4D"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[arXiv 27 Mar 2025] Exploring the Evolution of Physics Cognition in Video Generation: A Survey [Paper",
+                  "description": "minnie-lin/Awesome-Physics-Cognition-based-Video-Generation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A comprehensive list of papers investigating physical cognition in video generation, including papers, codes, and related websites.",
+                    "homepage": "https://arxiv.org/abs/2503.21765",
+                    "id": 954538244,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2026-06-23T15:06:18Z",
+                    "open_issues": 0,
+                    "owner": "minnie-lin",
+                    "repo": "Awesome-Physics-Cognition-based-Video-Generation",
+                    "stars": 326,
+                    "topics": [
+                      "3d",
+                      "4d",
+                      "embodied-ai",
+                      "physics",
+                      "survey",
+                      "t2v",
+                      "v2v",
+                      "video-generation",
+                      "world-models",
+                      "world-simulator"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[arXiv 19 Jan 2025] Generative Physical AI in Vision: A Survey [Paper",
+                  "description": "BestJunYu/Awesome-Physics-aware-Generation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Physical laws underpin all existence, and harnessing them for generative modeling opens boundless possibilities for advancing science and shaping the future!",
+                    "homepage": "https://arxiv.org/abs/2501.10928",
+                    "id": 907273047,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2025-12-23T04:42:52Z",
+                    "open_issues": 5,
+                    "owner": "BestJunYu",
+                    "repo": "Awesome-Physics-aware-Generation",
+                    "stars": 302,
+                    "topics": [
+                      "generative-physical-ai-in-vision"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                }
+              ],
+              "description": "Survey",
+              "node_type": "group",
+              "title": "🔥 Topic 5: Physics-based AIGC"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering [Paper",
+                  "description": "] [GitHub] [Project Page]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering",
+                    "homepage": "https://guanjunwu.github.io/4dgs/",
+                    "id": 699641579,
+                    "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
+                    "last_commit": "2024-10-27T04:07:37Z",
+                    "open_issues": 135,
+                    "owner": "hustvl",
+                    "repo": "4DGaussians",
+                    "stars": 3962,
+                    "topics": [
+                      "3d",
+                      "computer-vision",
+                      "cvpr2024",
+                      "dynamic-scene",
+                      "gaussian-splatting",
+                      "graphics",
+                      "neural-network",
+                      "neural-rendering",
+                      "novel-view-synthesis",
+                      "radiance-field"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[CVPR 2024] Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction [Paper",
+                  "description": "] [GitHub] [Project Page]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR 2024] Official implementation of \"Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction\"",
+                    "homepage": "https://ingra14m.github.io/Deformable-Gaussians/",
+                    "id": 694492493,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2024-06-25T03:06:44Z",
+                    "open_issues": 64,
+                    "owner": "ingra14m",
+                    "repo": "Deformable-3D-Gaussians",
+                    "stars": 1262,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[CVPR 2024] SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes [Paper",
+                  "description": "] [GitHub] [Project Page]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR 2024] Code for SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes",
+                    "homepage": "https://yihua7.github.io/SC-GS-web/",
+                    "id": 727214387,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2025-06-27T10:11:06Z",
+                    "open_issues": 32,
+                    "owner": "CVMI-Lab",
+                    "repo": "SC-GS",
+                    "stars": 653,
+                    "topics": [
+                      "dynamic-nerf",
+                      "gaussian-splatting",
+                      "motion-editing"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[CVPR 2024 Highlight] 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos [Paper",
+                  "description": "] [GitHub] [Project Page]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR 2024 Highlight] Official repository for the paper \"3DGStream: On-the-fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos\".",
+                    "homepage": "https://sjojok.github.io/3dgstream",
+                    "id": 767659080,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2024-11-18T10:07:39Z",
+                    "open_issues": 17,
+                    "owner": "SJoJoK",
+                    "repo": "3DGStream",
+                    "stars": 470,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[ICLR 2024] Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting [Paper",
+                  "description": "] [GitHub] [Project Page]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ICLR 2024] Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting",
+                    "homepage": null,
+                    "id": 698290383,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-01-31T05:17:21Z",
+                    "open_issues": 47,
+                    "owner": "fudan-zvg",
+                    "repo": "4d-gaussian-splatting",
+                    "stars": 1042,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[3DV 2024] Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis [Paper",
+                  "description": "] [GitHub] [Project Page]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 679920573,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2023-12-22T06:49:05Z",
+                    "open_issues": 32,
+                    "owner": "JonathonLuiten",
+                    "repo": "Dynamic3DGaussians",
+                    "stars": 2301,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[CVPR 2024 Highlight] Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle [Paper",
+                  "description": "] [GitHub] [Project Page]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[CVPR'2024 Highlight] Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle",
+                    "homepage": null,
+                    "id": 887108909,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-03-22T11:39:55Z",
+                    "open_issues": 9,
+                    "owner": "NJU-3DV",
+                    "repo": "Gaussian-Flow",
+                    "stars": 86,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T22:37:52.627Z"
+                }
+              ],
+              "description": "Neural Deformable 3D Gaussians\n4D Gaussians\nDynamic 3D Gaussians",
+              "node_type": "group",
+              "title": "Dynamic Gaussian Splatting"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Survey and Awesome Repos"
         }
       ],
       "title": "Related Resources"
-    },
-    {
-      "description": "Survey\nAwesome Repos",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[arXiv 8 Jan 2024] A Survey on 3D Gaussian Splatting [Paper",
-          "description": "] [GitHub] [Benchmark]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Paper list of 3D GS",
-            "homepage": "https://arxiv.org/abs/2401.03890",
-            "id": 906105434,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-01-18T01:13:21Z",
-            "open_issues": 0,
-            "owner": "guikunchen",
-            "repo": "Awesome3DGS",
-            "stars": 113,
-            "topics": [
-              "3dgs"
-            ]
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Resource1: Awesome 3D Gaussian Splatting Resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.",
-            "homepage": null,
-            "id": 705222810,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-24T19:24:24Z",
-            "open_issues": 6,
-            "owner": "MrNeRF",
-            "repo": "awesome-3D-gaussian-splatting",
-            "stars": 8914,
-            "topics": [
-              "3d-gaussian-splatting",
-              "3dgs",
-              "gaussian-splatting",
-              "nerf",
-              "neural-rendering"
-            ]
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Resource2: 3D Gaussian Splatting Papers",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "3D高斯论文，持续更新，欢迎交流讨论。",
-            "homepage": null,
-            "id": 733901924,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-06-12T07:01:54Z",
-            "open_issues": 4,
-            "owner": "Awesome3DGS",
-            "repo": "3D-Gaussian-Splatting-Papers",
-            "stars": 3166,
-            "topics": [
-              "3d-gaussian-splatting",
-              "3dgs",
-              "gaussian-splatting",
-              "novel-view-synthesis"
-            ]
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Resource3: 3DGS and Beyond Docs",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This is a collective repository for all 3DGS related progresses in research and industry world",
-            "homepage": null,
-            "id": 811490704,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2025-01-19T14:32:47Z",
-            "open_issues": 0,
-            "owner": "yangjiheng",
-            "repo": "3DGS_and_Beyond_Docs",
-            "stars": 725,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        }
-      ],
-      "title": "🔥 Topic 1: 3D Gaussian Splatting"
-    },
-    {
-      "description": "Survey\nAwesome Repos\nBenchmark\nFoundation Model",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[arXiv 2 Feb 2024] A Comprehensive Survey on 3D Content Generation [Paper",
-          "description": "] [GitHub]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome AIGC 3D papers",
-            "homepage": null,
-            "id": 716929983,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-05-04T12:06:51Z",
-            "open_issues": 4,
-            "owner": "hitcslj",
-            "repo": "Awesome-AIGC-3D",
-            "stars": 787,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Resource3: Awesome Text-to-3D",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A growing curation of Text-to-3D, Diffusion-to-3D works.",
-            "homepage": null,
-            "id": 663016282,
-            "language": "TeX",
-            "license": null,
-            "last_commit": "2026-10-01T06:12:52Z",
-            "open_issues": 5,
-            "owner": "yyeboah",
-            "repo": "Awesome-Text-to-3D",
-            "stars": 607,
-            "topics": [
-              "3dgs",
-              "diffusion-to-3d",
-              "image-to-3d",
-              "nerf",
-              "neural-rendering",
-              "t23d",
-              "text-to-3d",
-              "tt3d"
-            ]
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Resource1: Awesome 3D AIGC Resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of papers and open-source resources focused on 3D AIGC.",
-            "homepage": null,
-            "id": 736025712,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-07-02T15:06:37Z",
-            "open_issues": 1,
-            "owner": "mdyao",
-            "repo": "Awesome-3D-AIGC",
-            "stars": 352,
-            "topics": [
-              "3d-aigc",
-              "3d-gaussian-splatting",
-              "3d-generation",
-              "aigc",
-              "computer-graphics",
-              "computer-vision",
-              "generation",
-              "nerf",
-              "neural-rendering"
-            ]
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Resource2: Awesome-Text/Image-to-3D",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 680718110,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-06-05T12:38:35Z",
-            "open_issues": 3,
-            "owner": "StellarCheng",
-            "repo": "Awesome-Text-to-3D",
-            "stars": 161,
-            "topics": [
-              "3d-learning-from-2d",
-              "text-to-3d"
-            ]
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[CVPR 2024] GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation [Paper",
-          "description": "] [GitHub] [Project Page]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[ CVPR 2024 ] Implementation for \"GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation\"",
-            "homepage": null,
-            "id": 740408032,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-06-12T06:18:42Z",
-            "open_issues": 5,
-            "owner": "3DTopia",
-            "repo": "GPTEval3D",
-            "stars": 292,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[arXiv 19 Mar 2025] Cube: A Roblox View of 3D Intelligence [Paper",
-          "description": "] [GitHub]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Roblox Foundation Model for 3D Intelligence",
-            "homepage": null,
-            "id": 946920596,
-            "language": "Jupyter Notebook",
-            "license": "NOASSERTION",
-            "last_commit": "2026-05-28T03:37:24Z",
-            "open_issues": 33,
-            "owner": "Roblox",
-            "repo": "cube",
-            "stars": 1261,
-            "topics": [
-              "3d",
-              "3d-aigc",
-              "3d-generation",
-              "shape-generation",
-              "text-to-3d"
-            ]
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        }
-      ],
-      "title": "🔥 Topic 2: AIGC 3D"
-    },
-    {
-      "description": "Survey\nAwesome Repos",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Resource1: Awesome LLM 3D",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
-            "homepage": null,
-            "id": 731892810,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-04-16T16:28:04Z",
-            "open_issues": 8,
-            "owner": "ActiveVisionLab",
-            "repo": "Awesome-LLM-3D",
-            "stars": 2267,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Resource2: Awesome Digital Human",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
-            "homepage": "https://github.com/weihaox/awesome-digital-human",
-            "id": 366965099,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-04-18T02:42:41Z",
-            "open_issues": 3,
-            "owner": "weihaox",
-            "repo": "awesome-digital-human",
-            "stars": 1981,
-            "topics": [
-              "avatar",
-              "clothed-people-digitalization",
-              "digital-human",
-              "virtual-try-on"
-            ]
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Resource3: Awesome-Avatars",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "List of recent advances for human avatars, including generation, reconstruction, and editing, etc.",
-            "homepage": null,
-            "id": 693491234,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-04-13T13:43:49Z",
-            "open_issues": 0,
-            "owner": "pansanity666",
-            "repo": "Awesome-Avatars",
-            "stars": 277,
-            "topics": [
-              "3dreconstruction",
-              "aigc",
-              "avatar",
-              "diffusion",
-              "humannerf",
-              "image-to-3d",
-              "motion-generation",
-              "nerf",
-              "neural-rendering",
-              "sdf",
-              "smpl",
-              "stable-diffusion",
-              "t23d",
-              "text-to-3d",
-              "tt3d"
-            ]
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        }
-      ],
-      "title": "🔥 Topic 3: 3D Human & LLM 3D"
-    },
-    {
-      "description": "Survey\nAwesome Repos",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[arXiv 18 Mar 2025] Advances in 4D Generation: A Survey [Paper",
-          "description": "] [GitHub]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 726326997,
-            "language": null,
-            "license": null,
-            "last_commit": "2025-04-15T13:07:21Z",
-            "open_issues": 1,
-            "owner": "MiaoQiaowei",
-            "repo": "Awesome-4D",
-            "stars": 91,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Resource1: Awesome 4D Generation",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "List of papers on 4D Generation.",
-            "homepage": null,
-            "id": 790897405,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2024-10-10T04:23:30Z",
-            "open_issues": 3,
-            "owner": "cwchenwang",
-            "repo": "awesome-4d-generation",
-            "stars": 326,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        }
-      ],
-      "title": "🔥 Topic 4: AIGC 4D"
-    },
-    {
-      "description": "Survey",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[arXiv 27 Mar 2025] Exploring the Evolution of Physics Cognition in Video Generation: A Survey [Paper",
-          "description": "] [GitHub]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive list of papers investigating physical cognition in video generation, including papers, codes, and related websites.",
-            "homepage": "https://arxiv.org/abs/2503.21765",
-            "id": 954538244,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-06-23T15:06:18Z",
-            "open_issues": 0,
-            "owner": "minnie-lin",
-            "repo": "Awesome-Physics-Cognition-based-Video-Generation",
-            "stars": 326,
-            "topics": [
-              "3d",
-              "4d",
-              "embodied-ai",
-              "physics",
-              "survey",
-              "t2v",
-              "v2v",
-              "video-generation",
-              "world-models",
-              "world-simulator"
-            ]
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[arXiv 19 Jan 2025] Generative Physical AI in Vision: A Survey [Paper",
-          "description": "] [GitHub]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Physical laws underpin all existence, and harnessing them for generative modeling opens boundless possibilities for advancing science and shaping the future!",
-            "homepage": "https://arxiv.org/abs/2501.10928",
-            "id": 907273047,
-            "language": null,
-            "license": null,
-            "last_commit": "2025-12-23T04:42:52Z",
-            "open_issues": 5,
-            "owner": "BestJunYu",
-            "repo": "Awesome-Physics-aware-Generation",
-            "stars": 302,
-            "topics": [
-              "generative-physical-ai-in-vision"
-            ]
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        }
-      ],
-      "title": "🔥 Topic 5: Physics-based AIGC"
-    },
-    {
-      "description": "Neural Deformable 3D Gaussians\n4D Gaussians\nDynamic 3D Gaussians",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering [Paper",
-          "description": "] [GitHub] [Project Page]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering",
-            "homepage": "https://guanjunwu.github.io/4dgs/",
-            "id": 699641579,
-            "language": "Jupyter Notebook",
-            "license": "Apache-2.0",
-            "last_commit": "2024-10-27T04:07:37Z",
-            "open_issues": 135,
-            "owner": "hustvl",
-            "repo": "4DGaussians",
-            "stars": 3962,
-            "topics": [
-              "3d",
-              "computer-vision",
-              "cvpr2024",
-              "dynamic-scene",
-              "gaussian-splatting",
-              "graphics",
-              "neural-network",
-              "neural-rendering",
-              "novel-view-synthesis",
-              "radiance-field"
-            ]
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[CVPR 2024] Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction [Paper",
-          "description": "] [GitHub] [Project Page]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[CVPR 2024] Official implementation of \"Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction\"",
-            "homepage": "https://ingra14m.github.io/Deformable-Gaussians/",
-            "id": 694492493,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2024-06-25T03:06:44Z",
-            "open_issues": 64,
-            "owner": "ingra14m",
-            "repo": "Deformable-3D-Gaussians",
-            "stars": 1262,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[CVPR 2024] SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes [Paper",
-          "description": "] [GitHub] [Project Page]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[CVPR 2024] Code for SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes",
-            "homepage": "https://yihua7.github.io/SC-GS-web/",
-            "id": 727214387,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-06-27T10:11:06Z",
-            "open_issues": 32,
-            "owner": "CVMI-Lab",
-            "repo": "SC-GS",
-            "stars": 653,
-            "topics": [
-              "dynamic-nerf",
-              "gaussian-splatting",
-              "motion-editing"
-            ]
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[CVPR 2024 Highlight] 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos [Paper",
-          "description": "] [GitHub] [Project Page]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[CVPR 2024 Highlight] Official repository for the paper \"3DGStream: On-the-fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos\".",
-            "homepage": "https://sjojok.github.io/3dgstream",
-            "id": 767659080,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2024-11-18T10:07:39Z",
-            "open_issues": 17,
-            "owner": "SJoJoK",
-            "repo": "3DGStream",
-            "stars": 470,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[ICLR 2024] Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting [Paper",
-          "description": "] [GitHub] [Project Page]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[ICLR 2024] Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting",
-            "homepage": null,
-            "id": 698290383,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-01-31T05:17:21Z",
-            "open_issues": 47,
-            "owner": "fudan-zvg",
-            "repo": "4d-gaussian-splatting",
-            "stars": 1042,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[3DV 2024] Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis [Paper",
-          "description": "] [GitHub] [Project Page]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 679920573,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2023-12-22T06:49:05Z",
-            "open_issues": 32,
-            "owner": "JonathonLuiten",
-            "repo": "Dynamic3DGaussians",
-            "stars": 2301,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[CVPR 2024 Highlight] Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle [Paper",
-          "description": "] [GitHub] [Project Page]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[CVPR'2024 Highlight] Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle",
-            "homepage": null,
-            "id": 887108909,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2025-03-22T11:39:55Z",
-            "open_issues": 9,
-            "owner": "NJU-3DV",
-            "repo": "Gaussian-Flow",
-            "stars": 86,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:37:52.627Z"
-        }
-      ],
-      "title": "Dynamic Gaussian Splatting"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:01:32.077Z",
+    "last_updated": "2026-10-03T04:30:44.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IEEE TPAMI 2026] Simulating the Real World: Survey & Resources, which contains our survey \"Simulating the Real World: A Unified Survey of Multimodal Generative Models\" (IEEE TPAMI, 2026) and Awesome-Text2X-Resources. Watch this repository for the latest updates! 🔥",
