@@ -139,10 +139,10 @@ This perspective underscores that higher-dimensional generation methodologies ar
 
 Here are some seminal papers and models.
 
-* **SDXL**: \[ICLR 2024 spotlight] **SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis** \[[Paper](https://arxiv.org/abs/2307.01952)] \[[GitHub](https://github.com/Stability-AI/generative-models) ⭐ 27,301 | 🐛 338 | 🌐 Python | 📅 2025-12-16]
-* **Stable Diffusion**: \[CVPR 2022] **High-Resolution Image Synthesis with Latent Diffusion Models** \[[Paper](https://arxiv.org/abs/2112.10752)] \[[GitHub](https://github.com/CompVis/latent-diffusion) ⭐ 14,172 | 🐛 293 | 🌐 Jupyter Notebook | 📅 2024-02-29]
+* **SDXL**: \[ICLR 2024 spotlight] **SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis** \[[Paper](https://arxiv.org/abs/2307.01952)] \[[GitHub](https://github.com/Stability-AI/generative-models) ⭐ 27,302 | 🐛 338 | 🌐 Python | 📅 2025-12-16]
+* **Stable Diffusion**: \[CVPR 2022] **High-Resolution Image Synthesis with Latent Diffusion Models** \[[Paper](https://arxiv.org/abs/2112.10752)] \[[GitHub](https://github.com/CompVis/latent-diffusion) ⭐ 14,175 | 🐛 293 | 🌐 Jupyter Notebook | 📅 2024-02-29]
 * **DALL-E**: \[ICML 2021] **Zero-shot text-to-image generation** \[[Paper](https://arxiv.org/abs/2102.12092)] \[[GitHub](https://github.com/openai/DALL-E) ⚠️ Archived]
-* **DeepFloyd IF**: \[[GitHub](https://github.com/deep-floyd/IF) ⭐ 7,793 | 🐛 104 | 🌐 Python | 📅 2024-04-14]
+* **DeepFloyd IF**: \[[GitHub](https://github.com/deep-floyd/IF) ⭐ 7,792 | 🐛 104 | 🌐 Python | 📅 2024-04-14]
 * **Imagen**: \[NeurIPS 2022] **Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding** \[[Paper](https://arxiv.org/abs/2205.11487)] \[[Project Page](https://imagen.research.google/)]
 * **DALL-E 2**: \[arXiv 2022] **Hierarchical Text-Conditional Image Generation with CLIP Latents** \[[Paper](https://arxiv.org/abs/2204.06125)]
 * **DALL-E 3**: \[[Platform Link](https://openai.com/index/dall-e-3/)]
@@ -168,7 +168,7 @@ Text-to-video generation models adapt text-to-image frameworks to handle the add
 
 VAE-based Approaches.
 
-* \[arXiv 2021] **VideoGPT: Video Generation using VQ-VAE and Transformers** \[[Paper](https://arxiv.org/abs/2104.10157)] \[[GitHub](https://github.com/wilson1yan/VideoGPT) ⭐ 1,087 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2024-09-18] \[[Project Page](https://wilsonyan.com/videogpt/index.html)]
+* \[arXiv 2021] **VideoGPT: Video Generation using VQ-VAE and Transformers** \[[Paper](https://arxiv.org/abs/2104.10157)] \[[GitHub](https://github.com/wilson1yan/VideoGPT) ⭐ 1,087 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2024-09-18] \[[Project Page](https://wilsonyan.com/videogpt/index.html)]
 * \[arXiv 2021] **FitVid: Overfitting in Pixel-Level Video Prediction** \[[Paper](https://arxiv.org/abs/2403.05131)] \[[GitHub](https://github.com/google-research/fitvid) ⚠️ Archived] \[[Project Page](https://sites.google.com/view/fitvidpaper)]
 * **SV2P**: \[ICLR 2018 Poster] **Stochastic Variational Video Prediction** \[[Paper](https://arxiv.org/abs/1710.11252)] \[[Project Page](https://sites.google.com/site/stochasticvideoprediction/)]
 
@@ -183,7 +183,7 @@ GAN-based Approaches.
 
 U-Net-based Architectures.
 
-* \[ICLR 2024 Spotlight] **AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning** \[[Paper](https://arxiv.org/abs/2307.04725)] \[[GitHub](https://github.com/guoyww/AnimateDiff) ⭐ 12,275 | 🐛 320 | 🌐 Python | 📅 2024-07-31] \[[Project Page](https://animatediff.github.io/)]
+* \[ICLR 2024 Spotlight] **AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning** \[[Paper](https://arxiv.org/abs/2307.04725)] \[[GitHub](https://github.com/guoyww/AnimateDiff) ⭐ 12,273 | 🐛 320 | 🌐 Python | 📅 2024-07-31] \[[Project Page](https://animatediff.github.io/)]
 * \[IJCV 2024] **Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation** \[[Paper](https://arxiv.org/abs/2309.15818)] \[[GitHub](https://github.com/showlab/Show-1) ⭐ 1,147 | 🐛 16 | 🌐 Python | 📅 2025-09-13] \[[Project Page](https://showlab.github.io/Show-1/)]
 * \[NeurIPS 2024] **VideoComposer: Compositional Video Synthesis with Motion Controllability** \[[Paper](https://arxiv.org/abs/2306.02018)] \[[GitHub](https://github.com/ali-vilab/videocomposer) ⭐ 954 | 🐛 37 | 🌐 Python | 📅 2023-11-11] \[[Project Page](https://videocomposer.github.io/)]
 * \[arXiv 2025] **UniVerse-1: Unified Audio-Video Generation via Stitching of Experts** \[[Paper](https://arxiv.org/abs/2509.06155)] \[[GitHub](https://github.com/Dorniwang/UniVerse-1-code/) ⭐ 130 | 🐛 7 | 🌐 Python | 📅 2025-10-13] \[[Project Page](https://dorniwang.github.io/UniVerse-1/)]
@@ -200,7 +200,7 @@ U-Net-based Architectures.
 
 Transformer-based Architectures.
 
-* \[ICLR 2025 Poster] **CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer** \[[Paper](https://arxiv.org/abs/2408.06072)] \[[GitHub](https://github.com/THUDM/CogVideo) ⭐ 13,085 | 🐛 115 | 🌐 Python | 📅 2025-11-04]
+* \[ICLR 2025 Poster] **CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer** \[[Paper](https://arxiv.org/abs/2408.06072)] \[[GitHub](https://github.com/THUDM/CogVideo) ⭐ 13,086 | 🐛 115 | 🌐 Python | 📅 2025-11-04]
 * \[ICLR 2025 Spotlight] **Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers** \[[Paper](https://arxiv.org/abs/2405.05945)] \[[GitHub](https://github.com/Alpha-VLLM/Lumina-T2X) ⭐ 2,248 | 🐛 57 | 🌐 Python | 📅 2025-02-16]
 * \[ICLR 2024 Poster] **VDT: General-purpose Video Diffusion Transformers via Mask Modeling** \[[Paper](https://arxiv.org/abs/2305.13311)] \[[GitHub](https://github.com/RERV/VDT) ⭐ 257 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-05-05] \[[Project Page](https://vdt-2023.github.io/)]
 * **W\.A.L.T**: \[ECCV 2024] **Photorealistic Video Generation with Diffusion Models** \[[Paper](https://arxiv.org/abs/2312.06662)] \[[Project Page](https://walt-video-diffusion.github.io/)]
@@ -210,10 +210,10 @@ Transformer-based Architectures.
 
 > ##### (3) Autoregressive-based Approaches.
 
-* \[ICLR 2023 Poster] **CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers** \[[Paper](https://arxiv.org/abs/2205.15868)] \[[GitHub](https://github.com/THUDM/CogVideo) ⭐ 13,085 | 🐛 115 | 🌐 Python | 📅 2025-11-04]
+* \[ICLR 2023 Poster] **CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers** \[[Paper](https://arxiv.org/abs/2205.15868)] \[[GitHub](https://github.com/THUDM/CogVideo) ⭐ 13,086 | 🐛 115 | 🌐 Python | 📅 2025-11-04]
 * **VQ-GAN**: \[CVPR 2021 Oral] **Taming Transformers for High-Resolution Image Synthesis** \[[Paper](https://arxiv.org/abs/2012.09841)] \[[GitHub](https://github.com/CompVis/taming-transformers) ⭐ 6,533 | 🐛 168 | 🌐 Jupyter Notebook | 📅 2024-07-30]
 * \[arXiv 2024] **Emu3: Next-Token Prediction is All You Need** \[[Paper](https://arxiv.org/abs/2409.18869)] \[[GitHub](https://github.com/baaivision/Emu3) ⭐ 2,452 | 🐛 67 | 🌐 Python | 📅 2026-01-12] \[[Project Page](https://emu.baai.ac.cn/about)]
-* \[arXiv 2024] **Open-MAGVIT2: An Open-Source Project Toward Democratizing Auto-regressive Visual Generation** \[[Paper](https://arxiv.org/abs/2409.04410)] \[[GitHub](https://github.com/TencentARC/SEED-Voken) ⭐ 1,023 | 🐛 4 | 🌐 Python | 📅 2025-11-25]
+* \[arXiv 2024] **Open-MAGVIT2: An Open-Source Project Toward Democratizing Auto-regressive Visual Generation** \[[Paper](https://arxiv.org/abs/2409.04410)] \[[GitHub](https://github.com/TencentARC/SEED-Voken) ⭐ 1,022 | 🐛 4 | 🌐 Python | 📅 2025-11-25]
 * \[CVPR 2023 Highlight] **MAGVIT: Masked Generative Video Transformer** \[[Paper](https://arxiv.org/abs/2212.05199)] \[[GitHub](https://github.com/google-research/magvit) ⚠️ Archived] \[[Project Page](https://magvit.cs.cmu.edu/)]
 * \[arXiv 2025] **Cosmos World Foundation Model Platform for Physical AI** \[[Paper](https://arxiv.org/abs/2501.03575)] \[[GitHub](https://github.com/nvidia-cosmos/cosmos-predict1) ⭐ 475 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-10-15]
 * \[ICLR 2025 Poster] **Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding** \[[Paper](https://arxiv.org/abs/2410.01699)] \[[GitHub](https://github.com/tyshiwo1/Accelerating-T2I-AR-with-SJD/) ⭐ 54 | 🐛 3 | 🌐 Python | 📅 2025-04-21]
@@ -238,14 +238,14 @@ Transformer-based Architectures.
 
 > ##### Novel View Synthesis.
 
-* \[TPAMI 2025] **ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis** \[[Paper](https://arxiv.org/abs/2409.02048)] \[[GitHub](https://github.com/Drexubery/ViewCrafter) ⭐ 1,605 | 🐛 48 | 🌐 Python | 📅 2025-12-13] \[[Project Page](https://drexubery.github.io/ViewCrafter/)]
+* \[TPAMI 2025] **ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis** \[[Paper](https://arxiv.org/abs/2409.02048)] \[[GitHub](https://github.com/Drexubery/ViewCrafter) ⭐ 1,606 | 🐛 48 | 🌐 Python | 📅 2025-12-13] \[[Project Page](https://drexubery.github.io/ViewCrafter/)]
 * \[ICLR 2025 Poster] **CameraCtrl: Enabling Camera Control for Video Diffusion Models** \[[Paper](https://arxiv.org/abs/2404.02101)] \[[GitHub](https://github.com/hehao13/CameraCtrl) ⭐ 666 | 🐛 28 | 🌐 Python | 📅 2024-05-24] \[[Project Page](https://hehao13.github.io/projects-CameraCtrl/)]
 * \[ICLR 2025 Poster] **NVS-Solver: Video Diffusion Model as Zero-Shot Novel View Synthesizer** \[[Paper](https://arxiv.org/abs/2405.15364)] \[[GitHub](https://github.com/ZHU-Zhiyu/NVS_Solver) ⭐ 321 | 🐛 12 | 🌐 Python | 📅 2025-03-30]
 * \[CVPR 2024 Highlight] **ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models** \[[Paper](https://arxiv.org/abs/2312.01305)] \[[GitHub](https://github.com/ubc-vision/vivid123) ⭐ 180 | 🐛 0 | 🌐 Python | 📅 2024-07-24] \[[Project Page](https://jgkwak95.github.io/ViVid-1-to-3/)]
 
 > ##### Human Animation in Videos.
 
-* \[ICCV 2023] **Adding Conditional Control to Text-to-Image Diffusion Models** \[[Paper](https://arxiv.org/abs/2302.05543)] \[[GitHub](https://github.com/lllyasviel/ControlNet) ⭐ 34,121 | 🐛 461 | 🌐 Python | 📅 2024-02-25]
+* \[ICCV 2023] **Adding Conditional Control to Text-to-Image Diffusion Models** \[[Paper](https://arxiv.org/abs/2302.05543)] \[[GitHub](https://github.com/lllyasviel/ControlNet) ⭐ 34,123 | 🐛 461 | 🌐 Python | 📅 2024-02-25]
 * \[NeurIPS 2019] **First Order Motion Model for Image Animation** \[[Paper](https://arxiv.org/abs/2003.00196)] \[[GitHub](https://github.com/AliaksandrSiarohin/first-order-model) ⭐ 15,000 | 🐛 318 | 🌐 Jupyter Notebook | 📅 2024-11-14] \[[Project Page](https://aliaksandrsiarohin.github.io/first-order-model-website/)]
 * \[CVPR 2023] **Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation** \[[Paper](https://arxiv.org/abs/2311.17117)] \[[GitHub](https://github.com/HumanAIGC/AnimateAnyone) ⭐ 14,778 | 🐛 83 | 📅 2025-09-20] \[[Project Page](https://humanaigc.github.io/animate-anyone/)]
 * \[ICCV 2019] **Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis** \[[Paper](https://arxiv.org/abs/1909.12224)] \[[GitHub](https://github.com/svip-lab/impersonator) ⭐ 1,719 | 🐛 37 | 🌐 Python | 📅 2022-06-21] \[[Project Page](https://svip-lab.github.io/project/impersonator.html)] \[[Dataset](https://svip-lab.github.io/dataset/iPER_dataset.html)]
@@ -253,7 +253,7 @@ Transformer-based Architectures.
 * \[SCIS-2025] **UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation** \[[Paper](https://arxiv.org/abs/2406.01188)] \[[GitHub](https://github.com/ali-vilab/UniAnimate) ⭐ 1,190 | 🐛 63 | 🌐 Python | 📅 2025-04-15] \[[Project Page](https://unianimate.github.io/)]
 * \[ICCV 2019] **Everybody Dance Now** \[[Paper](https://arxiv.org/abs/1808.07371)] \[[GitHub](https://github.com/carolineec/EverybodyDanceNow) ⭐ 711 | 🐛 21 | 🌐 Python | 📅 2021-04-13] \[[Project Page](https://carolineec.github.io/everybody_dance_now/)]
 * \[CVPR 2018] **MoCoGAN: Decomposing Motion and Content for Video Generation** \[[Paper](https://arxiv.org/abs/1707.04993)] \[[GitHub](https://github.com/sergeytulyakov/mocogan) ⭐ 606 | 🐛 9 | 🌐 Python | 📅 2021-12-17]]
-* \[ICCV 2023] **HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation** \[[Paper](https://arxiv.org/abs/2304.04269)] \[[GitHub](https://github.com/IDEA-Research/HumanSD) ⭐ 305 | 🐛 14 | 🌐 Python | 📅 2023-10-24] \[[Project Page](https://idea-research.github.io/HumanSD/)]
+* \[ICCV 2023] **HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation** \[[Paper](https://arxiv.org/abs/2304.04269)] \[[GitHub](https://github.com/IDEA-Research/HumanSD) ⭐ 304 | 🐛 14 | 🌐 Python | 📅 2023-10-24] \[[Project Page](https://idea-research.github.io/HumanSD/)]
 * \[CVPR 2023] **Learning Locally Editable Virtual Humans** \[[Paper](https://arxiv.org/abs/2305.00121)] \[[GitHub](https://github.com/custom-humans/editable-humans) ⭐ 189 | 🐛 2 | 🌐 Python | 📅 2024-05-16] \[[Project Page](https://custom-humans.github.io/)] \[[Dataset](https://custom-humans.ait.ethz.ch/)]
 * \[CVPRW 2024] **LatentMan: Generating Consistent Animated Characters using Image Diffusion Models** \[[Paper](https://arxiv.org/abs/2312.07133)] \[[GitHub](https://github.com/abdo-eldesokey/latentman) ⭐ 22 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-07-21] \[[Project Page](https://abdo-eldesokey.github.io/latentman/)]
 * \[IJCAI 2024] **Zero-shot High-fidelity and Pose-controllable Character Animation** \[[Paper](https://arxiv.org/abs/2404.13680)]
@@ -290,11 +290,11 @@ Transformer-based Architectures.
 
 > ##### Optimization-based Approaches.
 
-* \[ICLR 2024 Oral] **DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation** \[[Paper](https://arxiv.org/abs/2309.16653)] \[[GitHub](https://github.com/dreamgaussian/dreamgaussian) ⭐ 4,359 | 🐛 134 | 🌐 Python | 📅 2024-01-02] \[[Project Page](https://dreamgaussian.github.io/)]
+* \[ICLR 2024 Oral] **DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation** \[[Paper](https://arxiv.org/abs/2309.16653)] \[[GitHub](https://github.com/dreamgaussian/dreamgaussian) ⭐ 4,360 | 🐛 134 | 🌐 Python | 📅 2024-01-02] \[[Project Page](https://dreamgaussian.github.io/)]
 * \[NeurIPS 2023 Spotlight] **ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation** \[[Paper](https://arxiv.org/abs/2305.16213)] \[[GitHub](https://github.com/thu-ml/prolificdreamer) ⭐ 1,563 | 🐛 20 | 🌐 Python | 📅 2023-11-22] \[[Project Page](https://ml.cs.tsinghua.edu.cn/prolificdreamer/)]
 * \[ICLR 2024 Poster] **MVDream: Multi-view Diffusion for 3D Generation** \[[Paper](https://arxiv.org/abs/2308.16512)] \[[GitHub](https://github.com/bytedance/MVDream) ⚠️ Archived] \[[Project Page](https://mv-dream.github.io/)]
 * \[CVPR 2024] **GSGEN: Text-to-3D using Gaussian Splatting** \[[Paper](https://arxiv.org/abs/2309.16585)]  \[[GitHub](https://github.com/gsgen3d/gsgen) ⭐ 845 | 🐛 37 | 🌐 Python | 📅 2024-01-07] \[[Project Page](https://gsgen3d.github.io/)]
-* \[CVPR 2024] **GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models** \[[Paper](https://arxiv.org/abs/2310.08529)]  \[[GitHub](https://github.com/hustvl/GaussianDreamer) ⭐ 834 | 🐛 18 | 🌐 Python | 📅 2025-01-13] \[[Project Page](https://taoranyi.com/gaussiandreamer/)]
+* \[CVPR 2024] **GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models** \[[Paper](https://arxiv.org/abs/2310.08529)]  \[[GitHub](https://github.com/hustvl/GaussianDreamer) ⭐ 833 | 🐛 18 | 🌐 Python | 📅 2025-01-13] \[[Project Page](https://taoranyi.com/gaussiandreamer/)]
 * \[ICCV 2023] **Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation** \[[Paper](https://arxiv.org/abs/2303.13873)] \[[GitHub](https://github.com/Gorilla-Lab-SCUT/Fantasia3D) ⭐ 777 | 🐛 20 | 🌐 Python | 📅 2024-05-29] \[[Project Page](https://fantasia3d.github.io/)]
 * \[CVPR 2024] **Sculpt3D: Multi-View Consistent Text-to-3D Generation with Sparse 3D Prior** \[[Paper](https://arxiv.org/abs/2403.09140)]  \[[GitHub](https://github.com/StellarCheng/Scuplt_3d/tree/main) ⭐ 25 | 🐛 2 | 🌐 Python | 📅 2024-03-17] \[[Project Page](https://stellarcheng.github.io/Sculpt3D/)]
 * \[ICLR 2023 notable top 5%] **DreamFusion: Text-to-3D using 2D Diffusion** \[[Paper](https://arxiv.org/abs/2209.14988)] \[[Project Page](https://dreamfusion3d.github.io/)]
@@ -313,7 +313,7 @@ Transformer-based Architectures.
 
 > ##### Feedforward Approaches.
 
-* \[CVPR 2025] **Structured 3D Latents for Scalable and Versatile 3D Generation** \[[Paper](https://arxiv.org/abs/2412.01506)] \[[GitHub](https://github.com/Microsoft/TRELLIS) ⭐ 13,998 | 🐛 262 | 🌐 Python | 📅 2026-06-26] \[[Project Page](https://trellis3d.github.io/)]
+* \[CVPR 2025] **Structured 3D Latents for Scalable and Versatile 3D Generation** \[[Paper](https://arxiv.org/abs/2412.01506)] \[[GitHub](https://github.com/Microsoft/TRELLIS) ⭐ 14,013 | 🐛 262 | 🌐 Python | 📅 2026-06-26] \[[Project Page](https://trellis3d.github.io/)]
 * \[SIGGRAPH 2024 Best Paper Honorable Mention] **CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets** \[[Paper](https://arxiv.org/abs/2406.13897)] \[[GitHub](https://github.com/CLAY-3D/OpenCLAY) ⭐ 983 | 🐛 10 | 📅 2024-06-21] \[[Project Page](https://sites.google.com/view/clay-3dlm)]
 * \[NeurIPS 2023] **Michelangelo: Conditional 3d shape generation based on shape-image-text aligned latent representation** \[[Paper](https://arxiv.org/abs/2306.17115)] \[[GitHub](https://github.com/NeuralCarver/Michelangelo) ⭐ 485 | 🐛 9 | 🌐 Python | 📅 2024-04-10] \[[Project Page](https://neuralcarver.github.io/michelangelo/)]
 * \[NeurIPS 2024] **Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer** \[[Paper](https://arxiv.org/abs/2405.14832)] \[[GitHub](https://github.com/DreamTechAI/Direct3D) ⭐ 243 | 🐛 10 | 🌐 Python | 📅 2025-02-11] \[[Project Page](https://www.neural4d.com/research/direct3d)]
@@ -334,7 +334,7 @@ Transformer-based Architectures.
 
 > ##### MVS-based Approaches.
 
-* \[arXiv 2024] **InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models** \[[Paper](https://arxiv.org/abs/2404.07191)] \[[GitHub](https://github.com/TencentARC/InstantMesh) ⭐ 4,573 | 🐛 122 | 🌐 Python | 📅 2025-01-03]
+* \[arXiv 2024] **InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models** \[[Paper](https://arxiv.org/abs/2404.07191)] \[[GitHub](https://github.com/TencentARC/InstantMesh) ⭐ 4,574 | 🐛 122 | 🌐 Python | 📅 2025-01-03]
 * \[NeurIPS 2024] **Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image** \[[Paper](https://arxiv.org/abs/2405.20343)] \[[GitHub](https://github.com/AiuniAI/Unique3D) ⭐ 3,596 | 🐛 79 | 🌐 Python | 📅 2025-07-17] \[[Project Page](https://wukailu.github.io/Unique3D/)]
 * \[NeurIPS 2023] **One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization** \[[Paper](https://arxiv.org/abs/2306.16928)] \[[GitHub](https://github.com/One-2-3-45/One-2-3-45) ⭐ 1,716 | 🐛 19 | 🌐 Python | 📅 2024-04-20] \[[Project Page](https://one-2-3-45.github.io/)]
 * \[ECCV 2024] **CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model** \[[Paper](https://arxiv.org/abs/2403.05034)] \[[GitHub](https://github.com/thu-ml/CRM) ⭐ 702 | 🐛 26 | 🌐 Python | 📅 2024-11-28] \[[Project Page](https://ml.cs.tsinghua.edu.cn/~zhengyi/CRM/)]
@@ -419,9 +419,9 @@ Transformer-based Architectures.
 > ##### Human Animation.
 
 * \[ICLR 2023 notable top 25%] **Human Motion Diffusion Model** \[[Paper](https://arxiv.org/abs/2209.14916)] \[[GitHub](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,119 | 🐛 69 | 🌐 Python | 📅 2025-10-01] \[[Project Page](https://guytevet.github.io/mdm-page/)]
-* \[NeurIPS 2023] **MotionGPT: Human Motion as a Foreign Language** \[[Paper](https://arxiv.org/abs/2306.14795)] \[[GitHub](https://github.com/OpenMotionLab/MotionGPT) ⭐ 1,980 | 🐛 72 | 🌐 Python | 📅 2025-07-01] \[[Project Page](https://motion-gpt.github.io/)]
-* \[CVPR 2024] **MoMask: Generative Masked Modeling of 3D Human Motions** \[[Paper](https://arxiv.org/abs/2312.00063)] \[[GitHub](https://github.com/EricGuo5513/momask-codes) ⭐ 1,333 | 🐛 25 | 🌐 Python | 📅 2024-09-13] \[[Project Page](https://ericguo5513.github.io/momask/)]
-* \[CVPR 2023] **T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations** \[[Paper](https://arxiv.org/abs/2301.06052)] \[[GitHub](https://github.com/Mael-zys/T2M-GPT) ⭐ 781 | 🐛 19 | 🌐 Python | 📅 2024-09-17] \[[Project Page](https://mael-zys.github.io/T2M-GPT/)]
+* \[NeurIPS 2023] **MotionGPT: Human Motion as a Foreign Language** \[[Paper](https://arxiv.org/abs/2306.14795)] \[[GitHub](https://github.com/OpenMotionLab/MotionGPT) ⭐ 1,982 | 🐛 72 | 🌐 Python | 📅 2025-07-01] \[[Project Page](https://motion-gpt.github.io/)]
+* \[CVPR 2024] **MoMask: Generative Masked Modeling of 3D Human Motions** \[[Paper](https://arxiv.org/abs/2312.00063)] \[[GitHub](https://github.com/EricGuo5513/momask-codes) ⭐ 1,336 | 🐛 25 | 🌐 Python | 📅 2024-09-13] \[[Project Page](https://ericguo5513.github.io/momask/)]
+* \[CVPR 2023] **T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations** \[[Paper](https://arxiv.org/abs/2301.06052)] \[[GitHub](https://github.com/Mael-zys/T2M-GPT) ⭐ 782 | 🐛 19 | 🌐 Python | 📅 2024-09-17] \[[Project Page](https://mael-zys.github.io/T2M-GPT/)]
 * \[CVPR 2022] **Generating Diverse and Natural 3D Human Motions from Text** \[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf)] \[[GitHub](https://github.com/EricGuo5513/text-to-motion) ⭐ 721 | 🐛 24 | 🌐 Python | 📅 2024-08-18] \[[Project Page](https://ericguo5513.github.io/text-to-motion/)]
 * \[ICML 2024] **HumanTOMATO: Text-aligned Whole-body Motion Generation** \[[Paper](https://arxiv.org/abs/2310.12978)] \[[GitHub](https://github.com/IDEA-Research/HumanTOMATO) ⭐ 363 | 🐛 20 | 🌐 Python | 📅 2024-06-19] \[[Project Page](https://lhchen.top/HumanTOMATO/)]
 * \[SCA 2023] **Motion In-Betweening with Phase Manifolds** \[[Paper](https://arxiv.org/abs/2308.12751)] \[[GitHub](https://github.com/paulstarke/PhaseBetweener) ⭐ 217 | 🐛 3 | 🌐 C++ | 📅 2024-05-23]
@@ -451,7 +451,7 @@ Transformer-based Architectures.
 
 ### World Foundation Model Platform
 
-* [WorldFoundry](https://openenvision.github.io/WorldFoundry/)(\[[GitHub](https://github.com/OpenEnvision/WorldFoundry) ⭐ 320 | 🐛 4 | 🌐 Python | 📅 2026-10-16]): an open-source infrastructure for world models.
+* [WorldFoundry](https://openenvision.github.io/WorldFoundry/)(\[[GitHub](https://github.com/OpenEnvision/WorldFoundry) ⭐ 321 | 🐛 0 | 🌐 Python | 📅 2026-10-19]): an open-source infrastructure for world models.
 
 * [Atlas](https://www.worldlabs.ai/blog/atlas): the world's first multimodal world model that generates image and video frames with pixel-perfect camera control and reconstructs them in 3D, World Labs, Sept 1st, 2026.
 
@@ -534,7 +534,7 @@ An open collection of state-of-the-art (SOTA), novel **Text to X (X can be every
 | 2026 | **MoGe4D: Geometry-Aware Single-Image 4D Synthesis via Dense Trajectory Generation**                       |                  ECCV 2026                 |  [Link](https://arxiv.org/abs/2512.05044)  |      [Link](https://github.com/Zhangyr2022/MoGe4D) ⭐ 69 \| 🐛 2 \| 🌐 Python \| 📅 2026-07-11      |              [Link](https://ivg-yanranzhang.github.io/MoGe4D/)              |
 | 2026 | **Alignment Is All You Need For X-to-4D Generation**                                                       | IEEE Transactions on Multimedia (TMM) 2026 |  [Link](https://arxiv.org/abs/2607.02516)  |                                                 --                                                 |                [Link](https://miaoqiaowei.github.io/Align4D/)               |
 | 2026 | **Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild**                        |             SIGGRAPH Asia 2026             |  [Link](https://arxiv.org/abs/2606.23688)  |   [Link](https://github.com/yehonathanlitman/Lift4D) ⭐ 430 \| 🐛 2 \| 🌐 Python \| 📅 2026-08-02   |                      [Link](https://lift4d.github.io/)                      |
-| 2026 | **4DAnyone: Create Anyone in 4D from a Casual Monocular Video**                                            |             SIGGRAPH Asia 2026             |  [Link](https://arxiv.org/abs/2608.20335)  |   [Link](https://github.com/ant-research/4DAnyone) ⭐ 1,430 \| 🐛 8 \| 🌐 Python \| 📅 2026-10-14   |                     [Link](https://4danyone.github.io/)                     |
+| 2026 | **4DAnyone: Create Anyone in 4D from a Casual Monocular Video**                                            |             SIGGRAPH Asia 2026             |  [Link](https://arxiv.org/abs/2608.20335)  |   [Link](https://github.com/ant-research/4DAnyone) ⭐ 1,434 \| 🐛 8 \| 🌐 Python \| 📅 2026-10-14   |                     [Link](https://4danyone.github.io/)                     |
 | 2026 | **Streaming4D: Accelerate 4D World Models via Block-wise Video Generation and Incremental Reconstruction** |           CVPR 2026 4DV Workshop           | [Link](https://arxiv.org/abs/2609.00610v1) |                                                 --                                                 |                                      --                                     |
 | 2026 | **Helix4D: Complex 4D Mesh Generation**                                                                    |              NeurIPS 2026 Oral             |  [Link](https://arxiv.org/abs/2605.26109)  |                                                 --                                                 |               [Link](https://snap-research.github.io/helix4d/)              |
 
@@ -879,6 +879,17 @@ Ruihong Shen, Žiga Kovačič, Peter Kulits, Xingrui Wang, Zizhang Li, Joshua B.
 We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visual observations into compact representations of scene structure and dynamics, by implementing abstractions such as physical simulations to reproduce complex behavior. To evaluate this capability, we curate a set of real-world videos and construct synthetic scenes spanning diverse physical phenomena, including deformation, fluid flow, and fracture. We perform extensive benchmarking of frontier models, finding that strong static reconstruction capabilities do not yet translate into reliable reconstruction of complex dynamics. 4DCodeBench provides a testbed for tracking progress toward agents that can interpret the dynamics of the world through code. 
 </details>
 
+#### 18. Edit4D: Editable 4D Scene Generation with Textual Control
+
+Chanwoo Kim, Tackgeun You, Hwasup Lim
+
+(Korea Institute of Science and Technology (KIST) Republic of Korea, University of Science and Technology (UST) Republic of Korea)
+
+<details span>
+<summary><b>Abstract</b></summary>
+We introduce Edit4D, an editable text-to-4D scene generation framework that constructs 4D scenes from separate background and dynamic character representations. Recent advances in generative models have enabled text-driven dynamic scene synthesis, but editable 4D scene generation remains challenging due to the need to preserve spatial geometry and temporal dynamics. Existing approaches typically generate holistic scene videos, where the background and dynamic characters are coupled, making object-level editing and flexible camera control difficult. Edit4D addresses these limitations through a stage-specific generation pipeline. Given a user instruction, Edit4D first decomposes it into stage-specific prompts for background, dynamic character, and scene-character composition. Using these prompts, we synthesize multi-view scene images with text-to-image and camera-conditioned generative priors and reconstruct a background 3D Gaussian splatting representation. We then generate a character image, animate it with an image-conditioned video prior, reconstruct a 4D mesh, and bind Gaussian primitives to obtain a character representation. Finally, both components are composed through text-guided segmentation and contact-aware optimization. A global scene refinement is then performed to improve harmonization and rendering consistency. By integrating stage-specific components, Edit4D enables controllable camera motion, flexible object-level editing, and the practical construction of editable 4D scenes. 
+</details>
+
 ***
 
 </details>
@@ -900,9 +911,10 @@ We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code gener
 | 2026 | **Beyond Pixels: From Video Priors to 4D Worlds**                                            | 11 Aug 2026 |           [Link](https://arxiv.org/abs/2608.10744)           |              [Link](https://github.com/hayd-zju/Beyond-Pixels) ⭐ 129 \| 🐛 1 \| 📅 2026-08-16              |            [Link](https://hayd-zju.github.io/Beyond-Pixels/)           |
 | 2026 | **Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models**             | 20 Aug 2026 |           [Link](https://arxiv.org/abs/2608.19556)           |                                                     --                                                     |             [Link](https://banyuanhao.github.io/Stream4D/)             |
 | 2026 | **4DStreamCtrl: Interactive Video Generation with Online 4D Control**                        | 27 Aug 2026 |           [Link](https://arxiv.org/abs/2608.25479)           |                                                     --                                                     |                 [Link](https://4dstreamctrl.github.io/)                |
-| 2026 | **GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation**          | 21 Sep 2026 |           [Link](https://arxiv.org/abs/2609.24981)           | [Link](https://github.com/TencentARC/GAE-GeometricAutoEncoder) ⭐ 523 \| 🐛 1 \| 🌐 Python \| 📅 2026-10-13 |           [Link](https://jiah-cloud.github.io/GAE.github.io/)          |
+| 2026 | **GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation**          | 21 Sep 2026 |           [Link](https://arxiv.org/abs/2609.24981)           | [Link](https://github.com/TencentARC/GAE-GeometricAutoEncoder) ⭐ 524 \| 🐛 1 \| 🌐 Python \| 📅 2026-10-13 |           [Link](https://jiah-cloud.github.io/GAE.github.io/)          |
 | 2026 | **Generative Cinematographer: Composing Camera and Object Motion in 3D**                     |  1 Oct 2026 |           [Link](https://arxiv.org/abs/2610.02180)           |                                                     --                                                     |          [Link](https://generative-cinematographer.github.io/)         |
-| 2026 | **4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes**                   |  2 Oct 2026 |           [Link](https://arxiv.org/abs/2610.03715)           |       [Link](https://github.com/4DCodeBench/4DCodeBench) ⭐ 172 \| 🐛 0 \| 🌐 Python \| 📅 2026-10-08       |                    [Link](https://4dcodebench.com/)                    |
+| 2026 | **4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes**                   |  2 Oct 2026 |           [Link](https://arxiv.org/abs/2610.03715)           |       [Link](https://github.com/4DCodeBench/4DCodeBench) ⭐ 175 \| 🐛 0 \| 🌐 Python \| 📅 2026-10-08       |                    [Link](https://4dcodebench.com/)                    |
+| 2026 | **Edit4D: Editable 4D Scene Generation with Textual Control**                                | 15 Oct 2026 |           [Link](https://arxiv.org/abs/2610.21668)           |                                                     --                                                     |              [Link](https://chanwo0kim.github.io/Edit4D/)              |
 
 <details close>
 <summary>ArXiv Papers References</summary>
@@ -1054,6 +1066,13 @@ We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code gener
   year={2026}
 }
 
+@article{kim2026edit4d,
+  title={Edit4D: Editable 4D Scene Generation with Textual Control},
+  author={Kim, Chanwoo and You, Tackgeun and Lim, Hwasup},
+  journal={arXiv preprint arXiv:2610.21668},
+  year={2026}
+}
+
 ```
 
 </details>
@@ -1147,11 +1166,11 @@ QwenVL-3.8-27B, GPT-5.6, and GPT-6, respectively, versus 74.3, 73.1, and 80.6 fo
 
 | Year | Title                                                                                   |  ArXiv Time  |                               Paper                               |                                                  Code                                                  |                    Project Page                   |
 | ---- | --------------------------------------------------------------------------------------- | :----------: | :---------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :-----------------------------------------------: |
-| 2026 | **SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models**        |  2 Sept 2026 |              [Link](https://arxiv.org/abs/2609.02886)             |        [Link](https://github.com/Junchao-cs/SolarWM) ⭐ 777 \| 🐛 3 \| 🌐 Python \| 📅 2026-10-16       | [Link](https://junchao-cs.github.io/SolarWM-Web/) |
+| 2026 | **SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models**        |  2 Sept 2026 |              [Link](https://arxiv.org/abs/2609.02886)             |        [Link](https://github.com/Junchao-cs/SolarWM) ⭐ 779 \| 🐛 3 \| 🌐 Python \| 📅 2026-10-16       | [Link](https://junchao-cs.github.io/SolarWM-Web/) |
 | 2026 | **SemanTok: Predictable Semantic Tokens for Efficient Autoregressive Video Generation** | 30 Sept 2026 |              [Link](https://arxiv.org/abs/2610.00686)             |       [Link](https://github.com/Stability-AI/SemanTok) ⭐ 8 \| 🐛 1 \| 🌐 Python \| 📅 2026-10-01       |       [Link](https://semantoken.github.io/)       |
 | 2026 | **LoGo: Local-Global Rewards for Consistent Long-Horizon Video Generation**             |  2 Oct 2026  |              [Link](https://arxiv.org/abs/2610.03636)             |           [Link](https://github.com/ziqi-ma/logo) ⭐ 20 \| 🐛 0 \| 🌐 Python \| 📅 2026-10-05           |  [Link](https://ziqi-ma.github.io/logo-website/)  |
 | 2026 | **WorldAlign: Decoupled 4D Reward for World-Consistent Video Generation**               |  8 Oct 2026  |              [Link](https://arxiv.org/abs/2610.12382)             |                                                   --                                                   |       [Link](https://worldalign.github.io/)       |
-| 2026 | **Code Video Model**                                                                    |  9 Oct 2026  | [Tech Report](https://code-video-model.github.io/tech_report.pdf) | [Link](https://github.com/code-video-model/CodeVideoModel) ⭐ 573 \| 🐛 2 \| 🌐 Python \| 📅 2026-10-13 |    [Link](https://code-video-model.github.io/)    |
+| 2026 | **Code Video Model**                                                                    |  9 Oct 2026  | [Tech Report](https://code-video-model.github.io/tech_report.pdf) | [Link](https://github.com/code-video-model/CodeVideoModel) ⭐ 584 \| 🐛 2 \| 🌐 Python \| 📅 2026-10-13 |    [Link](https://code-video-model.github.io/)    |
 
 <details close>
 <summary>ArXiv Papers References</summary>
@@ -1221,7 +1240,7 @@ For more details, please check the [2025 T2V Papers](./docs/video/t2v_2025.md), 
 
 For more details, please check the [2024 T2V Papers](./docs/video/t2v_2024.md), including 25 accepted papers and 3 arXiv papers.
 
-* OSS video generation models: [Mochi 1](https://github.com/genmoai/models) ⭐ 3,748 | 🐛 61 | 🌐 Python | 📅 2026-10-06 preview is an open state-of-the-art video generation model with high-fidelity motion and strong prompt adherence.
+* OSS video generation models: [Mochi 1](https://github.com/genmoai/models) ⭐ 3,749 | 🐛 61 | 🌐 Python | 📅 2026-10-06 preview is an open state-of-the-art video generation model with high-fidelity motion and strong prompt adherence.
 * Survey: The Dawn of Video Generation: Preliminary Explorations with SORA-like Models, [arXiv](https://arxiv.org/abs/2410.05227), [Project Page](https://ailab-cvc.github.io/VideoGen-Eval/), [GitHub Repo](https://github.com/AILab-CVC/VideoGen-Eval) ⭐ 272 | 🐛 5 | 📅 2025-12-16
 
 ***
@@ -1269,7 +1288,7 @@ For more details, please check the [2023-2024 3D Scene Papers](./docs/3d_scene/3
 
 > ##### Awesome Repos
 
-* Resource1: [WorldGen: Generate Any 3D Scene in Seconds](https://github.com/ZiYang-xie/WorldGen) ⭐ 2,166 | 🐛 10 | 🌐 Python | 📅 2026-04-12
+* Resource1: [WorldGen: Generate Any 3D Scene in Seconds](https://github.com/ZiYang-xie/WorldGen) ⭐ 2,169 | 🐛 10 | 🌐 Python | 📅 2026-04-12
 * Resource2: RTFM: A Real-Time Frame Model [Blog](https://www.worldlabs.ai/blog/rtfm) [Demo Try-on](https://rtfm.worldlabs.ai/)
 
 </details>
@@ -1282,7 +1301,7 @@ For more details, please check the [2023-2024 3D Scene Papers](./docs/3d_scene/3
 
 | Year | Title                                                                                                  |     Venue     |                   Paper                  |                                                              Code                                                              |                  Project Page                  |
 | ---- | ------------------------------------------------------------------------------------------------------ | :-----------: | :--------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------: |
-| 2025 | **MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives** | SIGGRAPH 2026 | [Link](https://arxiv.org/abs/2604.24833) | [Link](https://github.com/NVlabs/GR00T-WholeBodyControl/tree/main/motionbricks) ⭐ 3,776 \| 🐛 73 \| 🌐 Python \| 📅 2026-10-13 | [Link](https://nvlabs.github.io/motionbricks/) |
+| 2025 | **MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives** | SIGGRAPH 2026 | [Link](https://arxiv.org/abs/2604.24833) | [Link](https://github.com/NVlabs/GR00T-WholeBodyControl/tree/main/motionbricks) ⭐ 3,783 \| 🐛 73 \| 🌐 Python \| 📅 2026-10-13 | [Link](https://nvlabs.github.io/motionbricks/) |
 
 <details close>
 <summary>Accepted Papers References</summary>
@@ -1370,7 +1389,7 @@ For more details, please check the [2023-2024 3D Human Papers](./docs/3d_human/h
 
 #### Awesome Repos
 
-* Resource1: [Awesome Digital Human](https://github.com/weihaox/awesome-digital-human) ⭐ 1,987 | 🐛 4 | 📅 2026-04-18
+* Resource1: [Awesome Digital Human](https://github.com/weihaox/awesome-digital-human) ⭐ 1,988 | 🐛 4 | 📅 2026-04-18
 
 </details>
 
@@ -1441,7 +1460,7 @@ Here, other tasks refer to CAD, 3D modeling, music generation, and so on.
 
 > ##### Awesome Repos
 
-* Resource1: [Awesome 3D Gaussian Splatting Resources](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) ⭐ 8,950 | 🐛 8 | 🌐 Python | 📅 2026-10-04
+* Resource1: [Awesome 3D Gaussian Splatting Resources](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) ⭐ 8,955 | 🐛 8 | 🌐 Python | 📅 2026-10-04
 * Resource2: [3D Gaussian Splatting Papers](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers) ⭐ 3,174 | 🐛 5 | 🌐 Python | 📅 2026-06-12
 * Resource3: [3DGS and Beyond Docs](https://github.com/yangjiheng/3DGS_and_Beyond_Docs) ⭐ 726 | 🐛 0 | 📅 2025-01-19
 
@@ -1468,7 +1487,7 @@ Here, other tasks refer to CAD, 3D modeling, music generation, and so on.
 
 > ##### Foundation Model
 
-* \[arXiv 19 Mar 2025] **Cube: A Roblox View of 3D Intelligence** \[[Paper](https://arxiv.org/abs/2503.15475)] \[[GitHub](https://github.com/Roblox/cube) ⭐ 1,281 | 🐛 35 | 🌐 Jupyter Notebook | 📅 2026-05-28]
+* \[arXiv 19 Mar 2025] **Cube: A Roblox View of 3D Intelligence** \[[Paper](https://arxiv.org/abs/2503.15475)] \[[GitHub](https://github.com/Roblox/cube) ⭐ 1,282 | 🐛 35 | 🌐 Jupyter Notebook | 📅 2026-05-28]
 
 </details>
 
@@ -1483,7 +1502,7 @@ Here, other tasks refer to CAD, 3D modeling, music generation, and so on.
 > ##### Awesome Repos
 
 * Resource1: [Awesome LLM 3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) ⭐ 2,271 | 🐛 10 | 📅 2026-04-16
-* Resource2: [Awesome Digital Human](https://github.com/weihaox/awesome-digital-human) ⭐ 1,987 | 🐛 4 | 📅 2026-04-18
+* Resource2: [Awesome Digital Human](https://github.com/weihaox/awesome-digital-human) ⭐ 1,988 | 🐛 4 | 📅 2026-04-18
 * Resource3: [Awesome-Avatars](https://github.com/pansanity666/Awesome-Avatars) ⭐ 277 | 🐛 0 | 📅 2024-04-13
 
 </details>
@@ -1516,7 +1535,7 @@ Here, other tasks refer to CAD, 3D modeling, music generation, and so on.
 
 > ##### Neural Deformable 3D Gaussians
 
-* \[CVPR 2024] **4D Gaussian Splatting for Real-Time Dynamic Scene Rendering** \[[Paper](https://arxiv.org/abs/2310.08528)] \[[GitHub](https://github.com/hustvl/4DGaussians) ⭐ 3,979 | 🐛 135 | 🌐 Jupyter Notebook | 📅 2024-10-27] \[[Project Page](https://guanjunwu.github.io/4dgs/index.html)]
+* \[CVPR 2024] **4D Gaussian Splatting for Real-Time Dynamic Scene Rendering** \[[Paper](https://arxiv.org/abs/2310.08528)] \[[GitHub](https://github.com/hustvl/4DGaussians) ⭐ 3,981 | 🐛 135 | 🌐 Jupyter Notebook | 📅 2024-10-27] \[[Project Page](https://guanjunwu.github.io/4dgs/index.html)]
 * \[CVPR 2024] **Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction** \[[Paper](https://arxiv.org/abs/2309.13101)] \[[GitHub](https://github.com/ingra14m/Deformable-3D-Gaussians) ⭐ 1,264 | 🐛 64 | 🌐 Python | 📅 2024-06-25] \[[Project Page](https://ingra14m.github.io/Deformable-Gaussians/)]
 * \[CVPR 2024] **SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes** \[[Paper](https://arxiv.org/abs/2312.14937)] \[[GitHub](https://github.com/yihua7/SC-GS) ⭐ 655 | 🐛 32 | 🌐 Python | 📅 2025-06-27] \[[Project Page](https://yihua7.github.io/SC-GS-web/)]
 * \[CVPR 2024 Highlight] **3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos** \[[Paper](https://arxiv.org/abs/2403.01444)] \[[GitHub](https://github.com/SJoJoK/3DGStream) ⭐ 470 | 🐛 17 | 🌐 Python | 📅 2024-11-18] \[[Project Page](https://sjojok.github.io/3dgstream/)]
@@ -1545,4 +1564,4 @@ This repo is released under the [MIT license](./LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
