@@ -23,7 +23,7 @@
                     "open_issues": 337,
                     "owner": "Stability-AI",
                     "repo": "generative-models",
-                    "stars": 27335,
+                    "stars": 27339,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
@@ -65,7 +65,7 @@
                     "open_issues": 75,
                     "owner": "openai",
                     "repo": "DALL-E",
-                    "stars": 10806,
+                    "stars": 10804,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
@@ -86,7 +86,7 @@
                     "open_issues": 104,
                     "owner": "deep-floyd",
                     "repo": "IF",
-                    "stars": 7784,
+                    "stars": 7782,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
@@ -350,7 +350,7 @@
                     "open_issues": 115,
                     "owner": "zai-org",
                     "repo": "CogVideo",
-                    "stars": 13189,
+                    "stars": 13190,
                     "topics": [
                       "cogvideox",
                       "image-to-video",
@@ -378,7 +378,7 @@
                     "open_issues": 57,
                     "owner": "Alpha-VLLM",
                     "repo": "Lumina-T2X",
-                    "stars": 2248,
+                    "stars": 2247,
                     "topics": [
                       "aigc",
                       "diffusion",
@@ -429,7 +429,7 @@
                     "open_issues": 115,
                     "owner": "zai-org",
                     "repo": "CogVideo",
-                    "stars": 13189,
+                    "stars": 13190,
                     "topics": [
                       "cogvideox",
                       "image-to-video",
@@ -478,7 +478,7 @@
                     "open_issues": 66,
                     "owner": "baaivision",
                     "repo": "Emu3",
-                    "stars": 2454,
+                    "stars": 2455,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
@@ -795,7 +795,7 @@
                     "open_issues": 48,
                     "owner": "Drexubery",
                     "repo": "ViewCrafter",
-                    "stars": 1614,
+                    "stars": 1615,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
@@ -816,7 +816,7 @@
                     "open_issues": 28,
                     "owner": "hehao13",
                     "repo": "CameraCtrl",
-                    "stars": 667,
+                    "stars": 666,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
@@ -885,7 +885,7 @@
                     "open_issues": 461,
                     "owner": "lllyasviel",
                     "repo": "ControlNet",
-                    "stars": 34153,
+                    "stars": 34150,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
@@ -906,7 +906,7 @@
                     "open_issues": 318,
                     "owner": "AliaksandrSiarohin",
                     "repo": "first-order-model",
-                    "stars": 14993,
+                    "stars": 14991,
                     "topics": [
                       "deep-learning",
                       "generative-model",
@@ -932,7 +932,7 @@
                     "open_issues": 83,
                     "owner": "HumanAIGC",
                     "repo": "AnimateAnyone",
-                    "stars": 14782,
+                    "stars": 14780,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
@@ -1163,7 +1163,7 @@
                         "open_issues": 109,
                         "owner": "openai",
                         "repo": "shap-e",
-                        "stars": 12267,
+                        "stars": 12266,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
@@ -1184,7 +1184,7 @@
                         "open_issues": 80,
                         "owner": "openai",
                         "repo": "point-e",
-                        "stars": 6902,
+                        "stars": 6901,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
@@ -1322,7 +1322,7 @@
                         "open_issues": 134,
                         "owner": "dreamgaussian",
                         "repo": "dreamgaussian",
-                        "stars": 4363,
+                        "stars": 4362,
                         "topics": [
                           "image-to-3d",
                           "text-to-3d"
@@ -1547,7 +1547,7 @@
                         "open_issues": 264,
                         "owner": "microsoft",
                         "repo": "TRELLIS",
-                        "stars": 14216,
+                        "stars": 14224,
                         "topics": [
                           "3d",
                           "3d-aigc",
@@ -1841,7 +1841,7 @@
                         "open_issues": 123,
                         "owner": "TencentARC",
                         "repo": "InstantMesh",
-                        "stars": 4593,
+                        "stars": 4596,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
@@ -1862,7 +1862,7 @@
                         "open_issues": 79,
                         "owner": "AiuniAI",
                         "repo": "Unique3D",
-                        "stars": 3598,
+                        "stars": 3599,
                         "topics": [
                           "3d-aigc",
                           "aigc",
@@ -2107,7 +2107,7 @@
                     "open_issues": 2,
                     "owner": "ShijieZhou-UCLA",
                     "repo": "DreamScene360",
-                    "stars": 134,
+                    "stars": 135,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
@@ -2451,7 +2451,7 @@
                     "open_issues": 0,
                     "owner": "sherwinbahmani",
                     "repo": "4dfy",
-                    "stars": 341,
+                    "stars": 340,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
@@ -2683,7 +2683,7 @@
                     "open_issues": 72,
                     "owner": "OpenMotionLab",
                     "repo": "MotionGPT",
-                    "stars": 1990,
+                    "stars": 1991,
                     "topics": [
                       "3d-generation",
                       "chatgpt",
@@ -2995,7 +2995,7 @@
                     "open_issues": 24,
                     "owner": "nvidia-cosmos",
                     "repo": "cosmos-transfer1",
-                    "stars": 830,
+                    "stars": 829,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
@@ -3216,7 +3216,7 @@
                 "open_issues": 7,
                 "owner": "Eyeline-Labs",
                 "repo": "Vista4D",
-                "stars": 616,
+                "stars": 617,
                 "topics": [
                   "3d-vision",
                   "novel-view-synthesis",
@@ -3380,7 +3380,7 @@
                 "open_issues": 2,
                 "owner": "yehonathanlitman",
                 "repo": "Lift4D",
-                "stars": 436,
+                "stars": 437,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
@@ -3401,7 +3401,7 @@
                 "open_issues": 6,
                 "owner": "ant-research",
                 "repo": "4DAnyone",
-                "stars": 1486,
+                "stars": 1488,
                 "topics": [
                   "4d-gaussian-splatting",
                   "generative-ai",
@@ -3428,7 +3428,7 @@
                 "open_issues": 1,
                 "owner": "GradientSpaces",
                 "repo": "World-from-Motion",
-                "stars": 38,
+                "stars": 40,
                 "topics": [
                   "4d-generation",
                   "neurips-2026",
@@ -3502,7 +3502,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-07-16T13:21:16Z",
-                    "open_issues": 2,
+                    "open_issues": 1,
                     "owner": "alibaba-damo-academy",
                     "repo": "RynnWorld-4D",
                     "stars": 103,
@@ -3547,7 +3547,7 @@
                     "open_issues": 1,
                     "owner": "hayd-zju",
                     "repo": "Beyond-Pixels",
-                    "stars": 130,
+                    "stars": 131,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
@@ -3596,7 +3596,7 @@
                     "open_issues": 1,
                     "owner": "4DCodeBench",
                     "repo": "4DCodeBench",
-                    "stars": 205,
+                    "stars": 208,
                     "topics": []
                   },
                   "first_seen": "2026-10-06T11:04:33.247Z"
@@ -3679,7 +3679,7 @@
                     "open_issues": 4,
                     "owner": "Junchao-cs",
                     "repo": "SolarWM",
-                    "stars": 911,
+                    "stars": 915,
                     "topics": [
                       "acceleration",
                       "aigc",
@@ -3756,7 +3756,7 @@
                     "open_issues": 2,
                     "owner": "code-video-model",
                     "repo": "CodeVideoModel",
-                    "stars": 748,
+                    "stars": 752,
                     "topics": []
                   },
                   "first_seen": "2026-10-12T21:24:04.518Z"
@@ -3791,7 +3791,7 @@
                     "open_issues": 61,
                     "owner": "genmoai",
                     "repo": "mochi",
-                    "stars": 3764,
+                    "stars": 3765,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
@@ -3812,7 +3812,7 @@
                     "open_issues": 5,
                     "owner": "AILab-CVC",
                     "repo": "VideoGen-Eval",
-                    "stars": 272,
+                    "stars": 273,
                     "topics": [
                       "aigc",
                       "benchmark",
@@ -3955,7 +3955,7 @@
                 "open_issues": 76,
                 "owner": "NVlabs",
                 "repo": "GR00T-WholeBodyControl",
-                "stars": 3891,
+                "stars": 3899,
                 "topics": []
               },
               "first_seen": "2026-10-12T21:24:04.518Z"
@@ -3987,7 +3987,7 @@
                         "open_issues": 0,
                         "owner": "Winn1y",
                         "repo": "Awesome-Human-Motion-Video-Generation",
-                        "stars": 344,
+                        "stars": 346,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T22:37:52.627Z"
@@ -4091,7 +4091,7 @@
                         "open_issues": 41,
                         "owner": "nghorbani",
                         "repo": "human_body_prior",
-                        "stars": 993,
+                        "stars": 992,
                         "topics": [
                           "human",
                           "motion",
@@ -4198,7 +4198,7 @@
                 "open_issues": 19,
                 "owner": "feizc",
                 "repo": "FluxMusic",
-                "stars": 1713,
+                "stars": 1714,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:37:52.627Z"
@@ -4272,7 +4272,7 @@
                     "open_issues": 10,
                     "owner": "MrNeRF",
                     "repo": "awesome-3D-gaussian-splatting",
-                    "stars": 8996,
+                    "stars": 9000,
                     "topics": [
                       "3d-gaussian-splatting",
                       "3dgs",
@@ -4299,7 +4299,7 @@
                     "open_issues": 5,
                     "owner": "Awesome3DGS",
                     "repo": "3D-Gaussian-Splatting-Papers",
-                    "stars": 3191,
+                    "stars": 3193,
                     "topics": [
                       "3d-gaussian-splatting",
                       "3dgs",
@@ -4370,11 +4370,11 @@
                     "id": 663016282,
                     "language": "TeX",
                     "license": null,
-                    "last_commit": "2026-11-05T13:26:59Z",
+                    "last_commit": "2026-11-09T14:17:34Z",
                     "open_issues": 5,
                     "owner": "yyeboah",
                     "repo": "Awesome-Text-to-3D",
-                    "stars": 614,
+                    "stars": 615,
                     "topics": [
                       "3dgs",
                       "diffusion-to-3d",
@@ -4480,7 +4480,7 @@
                     "open_issues": 35,
                     "owner": "Roblox",
                     "repo": "cube",
-                    "stars": 1315,
+                    "stars": 1317,
                     "topics": [
                       "3d",
                       "3d-aigc",
@@ -4716,7 +4716,7 @@
                     "open_issues": 135,
                     "owner": "hustvl",
                     "repo": "4DGaussians",
-                    "stars": 4018,
+                    "stars": 4019,
                     "topics": [
                       "3d",
                       "computer-vision",
@@ -4748,7 +4748,7 @@
                     "open_issues": 64,
                     "owner": "ingra14m",
                     "repo": "Deformable-3D-Gaussians",
-                    "stars": 1268,
+                    "stars": 1267,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
@@ -4836,7 +4836,7 @@
                     "open_issues": 32,
                     "owner": "JonathonLuiten",
                     "repo": "Dynamic3DGaussians",
-                    "stars": 2309,
+                    "stars": 2308,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:37:52.627Z"
@@ -4877,7 +4877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:04:04.735Z",
+    "last_updated": "2026-11-09T22:41:26.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IEEE TPAMI 2026] Simulating the Real World: Survey & Resources, which contains our survey \"Simulating the Real World: A Unified Survey of Multimodal Generative Models\" (IEEE TPAMI, 2026) and Awesome-Text2X-Resources. Watch this repository for the latest updates! 🔥",
